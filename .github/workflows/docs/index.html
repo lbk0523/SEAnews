@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SEA Game Pulse — Southeast Asia Gaming News</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+3:wght@300;400;600&family=Source+Serif+4:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --ink:        #111316;
+  --ink-light:  #3a3f47;
+  --ink-faint:  #8a919c;
+  --paper:      #f5f2ed;
+  --paper-warm: #ede9e1;
+  --paper-card: #faf8f5;
+  --rule:       #d4cfc6;
+  --accent:     #c0392b;
+  --white:      #ffffff;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'Source Sans 3', sans-serif;
+  line-height: 1.6;
+}
+
+/* ── MASTHEAD ── */
+.masthead {
+  background: var(--white);
+  border-bottom: 3px double var(--ink);
+  padding: 0 40px;
+}
+.masthead-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 0 14px;
+  border-bottom: 1px solid var(--rule);
+}
+.dateline {
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  min-width: 180px;
+}
+.pub-title { text-align: center; }
+.publication-name {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1;
+  color: var(--ink);
+}
+.publication-tagline {
+  font-size: 0.7rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin-top: 4px;
+}
+.masthead-right {
+  min-width: 180px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+}
+.updated-time {
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+/* ── NAV ── */
+.nav-bar {
+  background: var(--ink);
+  padding: 0 40px;
+  display: flex;
+  overflow-x: auto;
+}
+.nav-btn {
+  background: transparent;
+  border: none;
+  color: rgba(255,255,255,0.5);
+  padding: 11px 18px;
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+  border-bottom: 2px solid transparent;
+}
+.nav-btn:hover  { color: var(--white); }
+.nav-btn.active { color: var(--white); border-bottom-color: var(--accent); }
+
+/* ── STATS ── */
+.stats-ribbon {
+  background: var(--paper-warm);
+  border-bottom: 1px solid var(--rule);
+  padding: 9px 40px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.stat-item { display: flex; align-items: baseline; gap: 5px; }
+.stat-num  { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 1.1rem; color: var(--accent); }
+.stat-label { font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faint); }
+.stat-sep   { width: 1px; height: 16px; background: var(--rule); }
+
+/* ── MAIN ── */
+main {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 36px 40px 60px;
+}
+
+/* ── LOADING / ERROR FULL PAGE ── */
+.page-status {
+  text-align: center;
+  padding: 80px 20px;
+  color: var(--ink-faint);
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+}
+.page-status strong {
+  display: block;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.4rem;
+  color: var(--ink);
+  margin-bottom: 8px;
+}
+
+/* ── SOURCE SECTION ── */
+.source-section {
+  margin-bottom: 52px;
+  opacity: 0;
+  transform: translateY(12px);
+  animation: fadeUp 0.45s ease forwards;
+}
+@keyframes fadeUp { to { opacity: 1; transform: none; } }
+
+.section-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 4px;
+}
+.section-flag   { font-size: 1.1rem; }
+.section-name   { font-family: 'Playfair Display', serif; font-size: 1.35rem; font-weight: 700; }
+.section-region { font-size: 0.68rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--ink-faint); }
+
+.section-rule {
+  height: 1px;
+  background: var(--rule);
+  margin-bottom: 18px;
+  position: relative;
+}
+.section-rule::before {
+  content: '';
+  position: absolute;
+  left: 0; top: -1px;
+  height: 3px; width: 56px;
+  background: var(--accent);
+}
+
+/* ── 3-COLUMN ARTICLE GRID ── */
+.articles-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  background: var(--rule);
+  border: 1px solid var(--rule);
+}
+
+.article-card {
+  background: var(--paper-card);
+  padding: 22px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.15s;
+}
+.article-card:hover { background: var(--white); }
+
+/* Lead card accent */
+.article-card:first-child {
+  border-left: 3px solid var(--accent);
+}
+
+.card-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.card-source-tag {
+  font-size: 0.6rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--white);
+  background: var(--accent);
+  padding: 2px 7px;
+}
+.card-badge {
+  font-size: 0.6rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  padding: 1px 6px;
+}
+.card-date {
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin-left: auto;
+}
+
+.card-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--ink);
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.article-card:first-child .card-title {
+  font-size: 1.25rem;
+  -webkit-line-clamp: 5;
+}
+
+.card-snippet {
+  font-family: 'Source Serif 4', serif;
+  font-size: 0.83rem;
+  color: var(--ink-light);
+  line-height: 1.6;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  flex: 1;
+}
+
+.card-readmore {
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 600;
+  opacity: 0;
+  transition: opacity 0.15s;
+  margin-top: 2px;
+}
+.article-card:hover .card-readmore { opacity: 1; }
+
+/* ── SOURCE ERROR ── */
+.source-error {
+  padding: 16px 20px;
+  border-left: 3px solid var(--rule);
+  background: var(--white);
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+}
+
+.source-section.hidden { display: none; }
+
+/* ── RESPONSIVE ── */
+@media (max-width: 900px) {
+  .masthead, .nav-bar, .stats-ribbon, main { padding-left: 20px; padding-right: 20px; }
+  .publication-name { font-size: 2rem; }
+  .articles-grid { grid-template-columns: repeat(2, 1fr); }
+  .article-card:first-child { border-left: none; border-top: 3px solid var(--accent); }
+}
+@media (max-width: 540px) {
+  .articles-grid { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-top">
+    <span class="dateline" id="dateline"></span>
+    <div class="pub-title">
+      <div class="publication-name">SEA Game Pulse</div>
+      <div class="publication-tagline">Southeast Asia Gaming News Digest</div>
+    </div>
+    <div class="masthead-right">
+      <span class="updated-time" id="updatedTime"></span>
+    </div>
+  </div>
+</header>
+
+<nav class="nav-bar">
+  <button class="nav-btn active" onclick="filterRegion('all',this)">All Regions</button>
+  <button class="nav-btn" onclick="filterRegion('sea',this)">SEA Wide</button>
+  <button class="nav-btn" onclick="filterRegion('ph',this)">Philippines</button>
+  <button class="nav-btn" onclick="filterRegion('vn',this)">Vietnam</button>
+  <button class="nav-btn" onclick="filterRegion('th',this)">Thailand</button>
+  <button class="nav-btn" onclick="filterRegion('id',this)">Indonesia</button>
+  <button class="nav-btn" onclick="filterRegion('my',this)">Malaysia</button>
+</nav>
+
+<div class="stats-ribbon">
+  <div class="stat-item">
+    <span class="stat-num" id="totalCount">—</span>
+    <span class="stat-label">Articles</span>
+  </div>
+  <div class="stat-sep"></div>
+  <div class="stat-item"><span class="stat-num">7</span><span class="stat-label">Sources</span></div>
+  <div class="stat-sep"></div>
+  <div class="stat-item"><span class="stat-num">6</span><span class="stat-label">Countries</span></div>
+</div>
+
+<main id="mainContent">
+  <div class="page-status"><strong>Loading…</strong>Fetching latest articles</div>
+</main>
+
+<script>
+function filterRegion(region, el) {
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+  document.querySelectorAll('.source-section').forEach(sec => {
+    sec.classList.toggle('hidden', region !== 'all' && sec.dataset.region !== region);
+  });
+}
+
+function render(data) {
+  // 상단 메타
+  document.getElementById('updatedTime').textContent = `Updated ${data.updated_at}`;
+  document.getElementById('dateline').textContent =
+    new Date().toLocaleDateString('en-US', {weekday:'long', year:'numeric', month:'long', day:'numeric'});
+
+  const total = data.sources.reduce((s, src) => s + src.articles.length, 0);
+  document.getElementById('totalCount').textContent = total;
+
+  const main = document.getElementById('mainContent');
+  main.innerHTML = '';
+
+  data.sources.forEach((src, si) => {
+    const sec = document.createElement('section');
+    sec.className = 'source-section';
+    sec.dataset.region = src.region;
+    sec.style.animationDelay = `${si * 70}ms`;
+
+    let cardsHtml = '';
+    if (src.error || !src.articles.length) {
+      cardsHtml = `<div class="source-error">이 소스에서 기사를 불러오지 못했습니다.</div>`;
+    } else {
+      cardsHtml = `<div class="articles-grid">
+        ${src.articles.map((art, i) => `
+          <a class="article-card" href="${art.link}" target="_blank" rel="noopener">
+            <div class="card-meta">
+              <span class="card-source-tag">${src.name}</span>
+              ${i === 0 ? '<span class="card-badge">Latest</span>' : ''}
+              ${art.date ? `<span class="card-date">${art.date}</span>` : ''}
+            </div>
+            <div class="card-title">${art.title}</div>
+            ${art.snippet ? `<div class="card-snippet">${art.snippet}</div>` : ''}
+            <div class="card-readmore">Read article →</div>
+          </a>`).join('')}
+      </div>`;
+    }
+
+    sec.innerHTML = `
+      <div class="section-header">
+        <span class="section-flag">${src.flag}</span>
+        <span class="section-name">${src.name}</span>
+        <span class="section-region">${src.regionLabel}</span>
+      </div>
+      <div class="section-rule"></div>
+      ${cardsHtml}`;
+
+    main.appendChild(sec);
+  });
+}
+
+// data.json 로드
+fetch('data.json')
+  .then(res => {
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return res.json();
+  })
+  .then(data => render(data))
+  .catch(err => {
+    document.getElementById('mainContent').innerHTML = `
+      <div class="page-status">
+        <strong>데이터를 불러올 수 없습니다</strong>
+        GitHub Actions를 먼저 실행하여 data.json을 생성해주세요.<br><br>
+        <small style="color:var(--ink-faint)">${err.message}</small>
+      </div>`;
+  });
+</script>
+</body>
+</html>
