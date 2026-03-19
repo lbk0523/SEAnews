@@ -1,0 +1,151 @@
+{
+  "updated_at": "2026-03-19 05:08 UTC",
+  "sources": [
+    {
+      "id": "gamerbraves",
+      "name": "GamerBraves",
+      "region": "sea",
+      "flag": "🌏",
+      "regionLabel": "SEA Wide",
+      "url": "https://gamerbraves.com",
+      "articles": [],
+      "error": true
+    },
+    {
+      "id": "lowyat",
+      "name": "Lowyat.net",
+      "region": "sea",
+      "flag": "🌏",
+      "regionLabel": "SEA Wide / Malaysia",
+      "url": "https://lowyat.net",
+      "articles": [
+        {
+          "title": "2026 BMW i3 Unveiled; Boasts Up To 900km WLTP Range",
+          "link": "https://www.lowyat.net/2026/387197/2026-bmw-i3-900km-wltp-range/",
+          "date": "Mar 19, 2026",
+          "snippet": "BMW introduced what it called the Neue Klasse (New Class in German) platform last year with the launch of the iX3. More recently, the carmaker has announced the second entry into the list of cars usin"
+        },
+        {
+          "title": "Nothing CEO Says Smartphone Apps Will Disappear In AI-Driven Future",
+          "link": "https://www.lowyat.net/2026/387190/nothing-ceo-says-smartphone-apps-will-disappear-in-ai-driven-future/",
+          "date": "Mar 19, 2026",
+          "snippet": "Nothing CEO Carl Pei, believes that the way we use smartphones today is headed for a major shift, with traditional apps eventually becoming obsolete. Speaking in a recent interview during the SXSW con"
+        },
+        {
+          "title": "Pos Malaysia Imposes Fuel Surcharges For Domestic, International Shipments",
+          "link": "https://www.lowyat.net/2026/387187/pos-malaysia-imposes-fuel-surcharges/",
+          "date": "Mar 19, 2026",
+          "snippet": "The price of fuel is slowly climbing in the country due to various international factors. As a result, Pos Malaysia announced that it will be implementing a fuel surcharge to offset high air transport"
+        }
+      ],
+      "error": false
+    },
+    {
+      "id": "gamingph",
+      "name": "GamingPH",
+      "region": "ph",
+      "flag": "🇵🇭",
+      "regionLabel": "Philippines",
+      "url": "https://www.gamingph.com",
+      "articles": [
+        {
+          "title": "Blue Protocol: Star Resonance Season 2 Begins! New Area “Bahamar Highlands” and Shangri-La Frontier Collaboration Revealed",
+          "link": "https://gamingph.com/2026/03/blue-protocol-star-resonance-season-2-begins-new-area-bahamar-highlands-and-shangri-la-frontier-collaboration-revealed/",
+          "date": "Mar 19, 2026",
+          "snippet": "HaoPlay announced the launch of Season 2, &#8220;Echoes of Lost Nightmare&#8221;, for the anime-style MMORPG Blue Protocol: Star Resonance on March 19. The new season introduces the area &#8220;Bahama"
+        },
+        {
+          "title": "“Phones, Only Buy the Best Value”: Why Gamers Should Choose the POCO X8 Pro in 2026",
+          "link": "https://gamingph.com/2026/03/phones-only-buy-the-best-value-why-gamers-should-choose-the-poco-x8-pro-in-2026/",
+          "date": "Mar 19, 2026",
+          "snippet": "Upgrading your phone in 2026? If you have a budget of around $400 and want a primary device that balances premium feel and gaming performance, the newly released POCO X8 Pro is highly worth considerin"
+        },
+        {
+          "title": "POCO X8 Pro Series: Defining the New Generation of Performance Flagships for Gaming and Beyond",
+          "link": "https://gamingph.com/2026/03/poco-x8-pro-series-defining-the-new-generation-of-performance-flagships-for-gaming-and-beyond/",
+          "date": "Mar 17, 2026",
+          "snippet": "As 2026 kicks off, POCO is already making waves by introducing the brand-new POCO X8 series. This generation of the X series is positioned as the &#8220;new generation performance flagship,&#8221; esp"
+        }
+      ],
+      "error": false
+    },
+    {
+      "id": "gamek",
+      "name": "GameK",
+      "region": "vn",
+      "flag": "🇻🇳",
+      "regionLabel": "Vietnam",
+      "url": "https://gamek.vn",
+      "articles": [],
+      "error": true
+    },
+    {
+      "id": "onlinestation",
+      "name": "Online Station",
+      "region": "th",
+      "flag": "🇹🇭",
+      "regionLabel": "Thailand",
+      "url": "https://www.online-station.net",
+      "articles": [],
+      "error": true
+    },
+    {
+      "id": "gamebrott",
+      "name": "Gamebrott",
+      "region": "id",
+      "flag": "🇮🇩",
+      "regionLabel": "Indonesia",
+      "url": "https://gamebrott.com",
+      "articles": [
+        {
+          "title": "Player Minecraft Jepang Buat Kota Tokyo Metropolis di Dalam Game",
+          "link": "https://gamebrott.com/player-minecraft-jepang-buat-kota-tokyo/",
+          "date": "Mar 19, 2026",
+          "snippet": "Ada Player Minecraft Jepang mencoba membuat kota Tokyo metropolis di dalam game menggunakan data 3D dari pemerintah. Serius, nih?!"
+        },
+        {
+          "title": "Veteran Bethesda Sebut Fallout 5 Bisa Saja Dibuat oleh Studio Lain",
+          "link": "https://gamebrott.com/veteran-bethesda-fallout-5/",
+          "date": "Mar 19, 2026",
+          "snippet": "Salah satu Veteran Bethesda berpendapat bahwa game Fallout 5 bisa saja akan dibuat oleh tim studio lain diluar Bethesda. Apa alasannya?"
+        },
+        {
+          "title": "Player Destiny 2 yang Aktif Bermain Belakangan Ini Turun Drastis Sejak Perilisan Ekspansi Terbarunya",
+          "link": "https://gamebrott.com/player-destiny-2-turun-drastis-sejak-ekspansi/",
+          "date": "Mar 19, 2026",
+          "snippet": "Berdasarkan informasi yang didapatkan, jumlah Player Destiny 2 mengalami penurunan drastis sejak perilisan ekspansi terbarunya. Kenapa?"
+        }
+      ],
+      "error": false
+    },
+    {
+      "id": "kakuchopurei",
+      "name": "Kakuchopurei",
+      "region": "my",
+      "flag": "🇲🇾",
+      "regionLabel": "Malaysia",
+      "url": "https://kakuchopurei.com",
+      "articles": [
+        {
+          "title": "UNDERTALE The Determination Symphony Concert Tour To Hit Southeast Asia & More Countries",
+          "link": "https://www.kakuchopurei.com/2026/03/undertale-the-determination-symphony-concert-tour-to-hit-southeast-asia-more-countries/",
+          "date": "Mar 17, 2026",
+          "snippet": "UNDERTALE fans in Southeast Asia, this one&#8217;s for you. SOHO Live, the Tokyo-based live music company known for producing unforgettable concert experiences celebrating video game and anime music, "
+        },
+        {
+          "title": "Starship Troopers: Ultimate Bug War Review – Doing Our Part",
+          "link": "https://www.kakuchopurei.com/2026/03/starship-troopers-ultimate-bug-war-review-kkp/",
+          "date": "Mar 16, 2026",
+          "snippet": "Would you like to know more?"
+        },
+        {
+          "title": "Indie Jam 2026: Schedule & Dates For Malaysia’s Indie Games Showcase",
+          "link": "https://www.kakuchopurei.com/2026/03/indie-jam-2026-schedule-dates-gaming/",
+          "date": "Mar 16, 2026",
+          "snippet": "Malaysia's premiere indie gaming festival, now in 2026."
+        }
+      ],
+      "error": false
+    }
+  ]
+}
