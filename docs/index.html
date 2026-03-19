@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SEA Game Pulse — Southeast Asia Gaming News</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+3:wght@300;400;600&family=Source+Serif+4:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+3:wght@300;400;600&family=Noto+Sans+KR:wght@400;500;700&family=Source+Serif+4:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
 <style>
 :root {
   --ink:        #111316;
@@ -23,7 +23,7 @@
 body {
   background: var(--paper);
   color: var(--ink);
-  font-family: 'Source Sans 3', sans-serif;
+  font-family: 'Source Sans 3', 'Noto Sans KR', sans-serif;
   line-height: 1.6;
 }
 
@@ -67,13 +67,20 @@ body {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  gap: 4px;
+  gap: 6px;
 }
 .updated-time {
   font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+}
+.translate-badge {
+  font-size: 0.62rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: var(--ink-faint);
+  padding: 2px 8px;
+  border: 1px solid var(--accent);
+  color: var(--accent);
 }
 
 /* ── NAV ── */
@@ -121,13 +128,11 @@ main {
   padding: 36px 40px 60px;
 }
 
-/* ── LOADING / ERROR FULL PAGE ── */
 .page-status {
   text-align: center;
   padding: 80px 20px;
   color: var(--ink-faint);
   font-size: 0.9rem;
-  letter-spacing: 0.08em;
 }
 .page-status strong {
   display: block;
@@ -170,7 +175,7 @@ main {
   background: var(--accent);
 }
 
-/* ── 3-COLUMN ARTICLE GRID ── */
+/* ── 3-COLUMN GRID ── */
 .articles-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -179,21 +184,36 @@ main {
   border: 1px solid var(--rule);
 }
 
+/* ── ARTICLE CARD — 기본 (썸네일 없음) ── */
 .article-card {
   background: var(--paper-card);
-  padding: 22px 24px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
   text-decoration: none;
   color: inherit;
   transition: background 0.15s;
+  overflow: hidden;
 }
 .article-card:hover { background: var(--white); }
+.article-card:first-child { border-left: 3px solid var(--accent); }
 
-/* Lead card accent */
-.article-card:first-child {
-  border-left: 3px solid var(--accent);
+/* 썸네일 영역 */
+.card-thumb {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  display: block;
+  background: var(--paper-warm);
+  flex-shrink: 0;
+}
+
+/* 카드 본문 */
+.card-body {
+  padding: 18px 22px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
 }
 
 .card-meta {
@@ -221,12 +241,40 @@ main {
 .card-date {
   font-size: 0.68rem;
   letter-spacing: 0.08em;
-  text-transform: uppercase;
   color: var(--ink-faint);
   margin-left: auto;
 }
 
-.card-title {
+/* 제목 */
+.card-title-ko {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--ink);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.article-card:first-child .card-title-ko {
+  font-size: 1.15rem;
+  -webkit-line-clamp: 4;
+}
+.card-title-orig {
+  font-family: 'Source Serif 4', serif;
+  font-size: 0.75rem;
+  color: var(--ink-faint);
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-style: italic;
+}
+
+/* 번역 없을 때 제목 */
+.card-title-plain {
   font-family: 'Playfair Display', serif;
   font-size: 1.05rem;
   font-weight: 700;
@@ -237,18 +285,27 @@ main {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-.article-card:first-child .card-title {
-  font-size: 1.25rem;
-  -webkit-line-clamp: 5;
-}
+.article-card:first-child .card-title-plain { font-size: 1.25rem; }
 
-.card-snippet {
+/* snippet */
+.card-snippet-ko {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 0.8rem;
+  color: var(--ink-light);
+  line-height: 1.65;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  flex: 1;
+}
+.card-snippet-plain {
   font-family: 'Source Serif 4', serif;
   font-size: 0.83rem;
   color: var(--ink-light);
   line-height: 1.6;
   display: -webkit-box;
-  -webkit-line-clamp: 4;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
   flex: 1;
@@ -262,11 +319,11 @@ main {
   font-weight: 600;
   opacity: 0;
   transition: opacity 0.15s;
-  margin-top: 2px;
+  margin-top: 4px;
 }
 .article-card:hover .card-readmore { opacity: 1; }
 
-/* ── SOURCE ERROR ── */
+/* ── ERROR ── */
 .source-error {
   padding: 16px 20px;
   border-left: 3px solid var(--rule);
@@ -300,6 +357,7 @@ main {
     </div>
     <div class="masthead-right">
       <span class="updated-time" id="updatedTime"></span>
+      <span class="translate-badge" id="translateBadge" style="display:none">🌐 한국어 번역</span>
     </div>
   </div>
 </header>
@@ -338,11 +396,59 @@ function filterRegion(region, el) {
   });
 }
 
+function buildCardHTML(art, src, idx, isTranslated) {
+  const isLead = idx === 0;
+  const hasThumbnail = art.thumbnail && art.thumbnail.startsWith('http');
+
+  // 제목 HTML
+  let titleHTML = '';
+  if (isTranslated && art.title_ko) {
+    titleHTML = `
+      <div class="${isLead ? 'card-title-ko' : 'card-title-ko'}" style="${isLead ? 'font-size:1.15rem' : ''}">${art.title_ko}</div>
+      <div class="card-title-orig">${art.title}</div>`;
+  } else {
+    titleHTML = `<div class="card-title-plain">${art.title}</div>`;
+  }
+
+  // Snippet HTML
+  let snippetHTML = '';
+  if (art.snippet) {
+    if (isTranslated && art.snippet_ko) {
+      snippetHTML = `<div class="card-snippet-ko">${art.snippet_ko}</div>`;
+    } else {
+      snippetHTML = `<div class="card-snippet-plain">${art.snippet}</div>`;
+    }
+  }
+
+  // 썸네일 HTML
+  const thumbHTML = hasThumbnail
+    ? `<img class="card-thumb" src="${art.thumbnail}" alt="" loading="lazy" onerror="this.style.display='none'">`
+    : '';
+
+  return `
+    <a class="article-card" href="${art.link}" target="_blank" rel="noopener">
+      ${thumbHTML}
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="card-source-tag">${src.name}</span>
+          ${isLead ? '<span class="card-badge">Latest</span>' : ''}
+          ${art.date ? `<span class="card-date">${art.date}</span>` : ''}
+        </div>
+        ${titleHTML}
+        ${snippetHTML}
+        <div class="card-readmore">Read article →</div>
+      </div>
+    </a>`;
+}
+
 function render(data) {
-  // 상단 메타
   document.getElementById('updatedTime').textContent = `Updated ${data.updated_at}`;
   document.getElementById('dateline').textContent =
     new Date().toLocaleDateString('en-US', {weekday:'long', year:'numeric', month:'long', day:'numeric'});
+
+  if (data.translated) {
+    document.getElementById('translateBadge').style.display = 'inline-block';
+  }
 
   const total = data.sources.reduce((s, src) => s + src.articles.length, 0);
   document.getElementById('totalCount').textContent = total;
@@ -356,22 +462,12 @@ function render(data) {
     sec.dataset.region = src.region;
     sec.style.animationDelay = `${si * 70}ms`;
 
-    let cardsHtml = '';
+    let cardsHTML = '';
     if (src.error || !src.articles.length) {
-      cardsHtml = `<div class="source-error">이 소스에서 기사를 불러오지 못했습니다.</div>`;
+      cardsHTML = `<div class="source-error">이 소스에서 기사를 불러오지 못했습니다.</div>`;
     } else {
-      cardsHtml = `<div class="articles-grid">
-        ${src.articles.map((art, i) => `
-          <a class="article-card" href="${art.link}" target="_blank" rel="noopener">
-            <div class="card-meta">
-              <span class="card-source-tag">${src.name}</span>
-              ${i === 0 ? '<span class="card-badge">Latest</span>' : ''}
-              ${art.date ? `<span class="card-date">${art.date}</span>` : ''}
-            </div>
-            <div class="card-title">${art.title}</div>
-            ${art.snippet ? `<div class="card-snippet">${art.snippet}</div>` : ''}
-            <div class="card-readmore">Read article →</div>
-          </a>`).join('')}
+      cardsHTML = `<div class="articles-grid">
+        ${src.articles.map((art, i) => buildCardHTML(art, src, i, data.translated)).join('')}
       </div>`;
     }
 
@@ -382,27 +478,26 @@ function render(data) {
         <span class="section-region">${src.regionLabel}</span>
       </div>
       <div class="section-rule"></div>
-      ${cardsHtml}`;
+      ${cardsHTML}`;
 
     main.appendChild(sec);
   });
 }
 
-// data.json 로드
 fetch('data.json')
-  .then(res => {
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    return res.json();
-  })
+  .then(res => { if (!res.ok) throw new Error(`HTTP ${res.status}`); return res.json(); })
   .then(data => render(data))
   .catch(err => {
     document.getElementById('mainContent').innerHTML = `
       <div class="page-status">
         <strong>데이터를 불러올 수 없습니다</strong>
-        GitHub Actions를 먼저 실행하여 data.json을 생성해주세요.<br><br>
+        GitHub Actions를 실행하여 data.json을 생성해주세요.<br><br>
         <small style="color:var(--ink-faint)">${err.message}</small>
       </div>`;
   });
+
+document.getElementById('dateline').textContent =
+  new Date().toLocaleDateString('en-US', {weekday:'long', year:'numeric', month:'long', day:'numeric'});
 </script>
 </body>
 </html>
