@@ -114,7 +114,7 @@ HEADERS = {
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_ENDPOINT = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
-    "gemini-2.5-flash:generateContent"
+    "gemini-2.5-flash-lite:generateContent"
 )
 
 
@@ -358,7 +358,7 @@ def process_articles(articles: list, source_id: str) -> list:
             print(f"      ⚠ Gemini 요약 실패")
 
         # API 레이트 리밋 방지 (분당 15회 제한)
-        time.sleep(6)
+        time.sleep(4)
 
     return articles
 
