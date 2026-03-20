@@ -1,8 +1,8 @@
 """
-SEA Game Pulse — RSS 수집 스크립트 v4
+SEA Game Pulse — RSS 수집 스크립트 v5
 변경사항:
-- GamerBraves 제거
-- ONE Esports / GameAxis / Geek Culture / GamingonPhone 추가
+- ONE Esports → AFK Gaming (afkgaming.com)
+- GameAxis → Back2Gaming (back2gaming.com)
 """
 
 import json
@@ -18,21 +18,22 @@ import requests
 SOURCES = [
     # SEA Wide
     {
-        "id": "oneesports",
-        "name": "ONE Esports",
+        "id": "afkgaming",
+        "name": "AFK Gaming",
         "region": "sea",
         "flag": "🌏",
         "regionLabel": "SEA Wide",
-        "rss": "https://www.oneesports.gg/feed",
-        "rss_fallback": "https://oneesports.gg/feed/",
+        "rss": "https://afkgaming.com/feed",
+        "rss_fallback": "https://afkgaming.com/?feed=rss2",
     },
     {
-        "id": "gameaxis",
-        "name": "GameAxis",
+        "id": "back2gaming",
+        "name": "Back2Gaming",
         "region": "sea",
         "flag": "🌏",
         "regionLabel": "SEA Wide",
-        "rss": "https://gameaxis.com/feed",
+        "rss": "https://back2gaming.com/feed",
+        "rss_fallback": "https://back2gaming.com/?feed=rss2",
     },
     {
         "id": "geekculture",
@@ -292,7 +293,7 @@ def translate_source_articles(articles: list) -> list:
 
 def main():
     now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    print(f"\n[SEA Game Pulse v4] RSS 수집 시작 — {now_str}\n")
+    print(f"\n[SEA Game Pulse v5] RSS 수집 시작 — {now_str}\n")
 
     if DEEPL_API_KEY:
         key_type = "Free" if DEEPL_API_KEY.endswith(":fx") else "Pro"
