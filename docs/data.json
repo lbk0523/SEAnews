@@ -1,15 +1,98 @@
 {
-  "updated_at": "2026-03-20 01:09 UTC",
+  "updated_at": "2026-03-20 01:23 UTC",
   "translated": true,
   "sources": [
     {
-      "id": "gamerbraves",
-      "name": "GamerBraves",
+      "id": "oneesports",
+      "name": "ONE Esports",
       "region": "sea",
       "flag": "🌏",
       "regionLabel": "SEA Wide",
       "articles": [],
       "error": true
+    },
+    {
+      "id": "gameaxis",
+      "name": "GameAxis",
+      "region": "sea",
+      "flag": "🌏",
+      "regionLabel": "SEA Wide",
+      "articles": [],
+      "error": true
+    },
+    {
+      "id": "geekculture",
+      "name": "Geek Culture",
+      "region": "sea",
+      "flag": "🌏",
+      "regionLabel": "SEA Wide",
+      "articles": [
+        {
+          "title": "Kick Off Your Career With Football Manager 26, Now 33% Off On Steam",
+          "link": "https://geekculture.co/football-manager-26-now-33-percent-off-on-steam/",
+          "date": "Mar 20, 2026",
+          "snippet": "Secure your Steam copy today and save big before the whistle blows! The post Kick Off Your Career With Football Manager 26, Now 33% Off On Steam appeared first on Geek Culture.",
+          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/03/fm26-sale.jpg",
+          "title_ko": "‘풋볼 매니저 26’으로 커리어를 시작하세요. 현재 스팀에서 33% 할인 중입니다.",
+          "snippet_ko": "지금 바로 스팀에서 구매하고, 시작 신호가 울리기 전에 큰 할인 혜택을 누리세요! “Football Manager 26으로 커리어를 시작하세요, 현재 스팀에서 33% 할인 중”이라는 게시물은 Geek Culture에 처음 게재되었습니다."
+        },
+        {
+          "title": "‘Life is Strange’ TV Series: Yellowjackets’ Karyn Kusama To Direct First Two Episodes",
+          "link": "https://geekculture.co/life-is-strange-tv-series-yellowjackets-karyn-kusama-to-direct-first-two-episodes/",
+          "date": "Mar 19, 2026",
+          "snippet": "Ready for the mosh pit, shaka brah! The post &#8216;Life is Strange&#8217; TV Series: Yellowjackets&#8217; Karyn Kusama To Direct First Two Episodes appeared first on Geek Culture.",
+          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/03/life-is-strange-series-karyn-kusama-3.jpg",
+          "title_ko": "드라마 ‘라이프 이즈 스트레인지’: ‘옐로우재킷’의 카린 쿠사마, 첫 두 에피소드 연출 맡아",
+          "snippet_ko": "모쉬핏 준비됐어, 샤카 브라! “Life is Strange” TV 시리즈: ‘Yellowjackets’의 카린 쿠사마, 첫 두 에피소드 연출 맡는다. 이 기사는 Geek Culture에 처음 게재되었습니다."
+        },
+        {
+          "title": "‘Persona 5’ Special Big Band Concert Asia Tour 2026 Adds Second Show For Singapore",
+          "link": "https://geekculture.co/persona-5-special-big-band-concert-asia-tour-2026-adds-second-show-for-singapore/",
+          "date": "Mar 18, 2026",
+          "snippet": "Take your time...to bask in the musical celebration. The post &#8216;Persona 5&#8217; Special Big Band Concert Asia Tour 2026 Adds Second Show For Singapore appeared first on Geek Culture.",
+          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/03/persona-5-concert-singapore.jpg",
+          "title_ko": "‘페르소나 5’ 스페셜 빅 밴드 콘서트 아시아 투어 2026, 싱가포르 공연 추가 확정",
+          "snippet_ko": "여유롭게… 음악의 향연을 만끽해 보세요. '페르소나 5' 스페셜 빅 밴드 콘서트 아시아 투어 2026, 싱가포르 공연 추가 개최 소식은 Geek Culture에 처음 게재되었습니다."
+        }
+      ],
+      "error": false
+    },
+    {
+      "id": "gamingonphone",
+      "name": "GamingonPhone",
+      "region": "sea",
+      "flag": "🌏",
+      "regionLabel": "SEA Wide",
+      "articles": [
+        {
+          "title": "Wuthering Waves Version 3.2 Update: How to Get 10,600+ Astrites for free",
+          "link": "https://gamingonphone.com/guides/wuthering-waves-version-3-2-update-how-to-get-10600-astrites-for-free/",
+          "date": "Mar 19, 2026",
+          "snippet": "Wuthering Waves Version 3.2 is now live till April 30, 2026, and something free-to-play players shouldn&#8217;t miss out on is the valuable Astrites up for grabs. To help you with the same, this guide",
+          "thumbnail": "",
+          "title_ko": "Wuthering Waves 버전 3.2 업데이트: 10,600개 이상의 아스트라이트를 무료로 얻는 방법",
+          "snippet_ko": "‘Wuthering Waves’ 버전 3.2가 2026년 4월 30일까지 진행되며, 무료 플레이어라면 절대 놓쳐서는 안 될 것이 바로 획득할 수 있는 귀중한 아스트라이트입니다. 이를 돕기 위해 이 가이드를 준비했습니다."
+        },
+        {
+          "title": "Off the Road 2 set to raise the bar with a massive open-world and next-gen driving, arriving on mobile this Spring, 2026",
+          "link": "https://gamingonphone.com/news/off-the-road-2-set-to-raise-the-bar-with-a-massive-open-world-and-next-gen-driving-arriving-on-mobile-this-spring-2026/",
+          "date": "Mar 19, 2026",
+          "snippet": "DogByte Games has announced the sequel open-world off-road racing sim, Off the Road 2 or OTR 2, which is set to launch on both Android and iOS in Spring 2026. Sequel to the fan-favorite extreme off-ro",
+          "thumbnail": "",
+          "title_ko": "‘Off the Road 2’가 방대한 오픈 월드와 차세대 드라이빙으로 새로운 기준을 제시할 예정이며, 2026년 봄 모바일로 출시됩니다.",
+          "snippet_ko": "DogByte Games는 2026년 봄 안드로이드와 iOS 플랫폼에서 출시될 오픈 월드 오프로드 레이싱 시뮬레이션 게임의 후속작인 ‘Off the Road 2’(OTR 2)를 발표했습니다. 팬들에게 큰 사랑을 받은 익스트림 오프로드 게임의 후속작인 이 작품은"
+        },
+        {
+          "title": "Apple Arcade: All upcoming games for April 2026",
+          "link": "https://gamingonphone.com/news/apple-arcade-all-upcoming-games-for-april-2026/",
+          "date": "Mar 19, 2026",
+          "snippet": "Apple Arcade brings a lineup of upcoming titles for April 2026. As I took a look at the list, I can assure the fans of another exciting month coming. The lineup confirmed three titles so far, includin",
+          "thumbnail": "",
+          "title_ko": "Apple Arcade: 2026년 4월 출시 예정인 모든 게임",
+          "snippet_ko": "Apple Arcade가 2026년 4월 출시 예정인 신작 라인업을 공개했습니다. 목록을 살펴본 결과, 팬 여러분께 또 한 번 흥미진진한 한 달이 될 것임을 확신합니다. 현재까지 세 가지 타이틀이 확정되었으며, 여기에는"
+        }
+      ],
+      "error": false
     },
     {
       "id": "lowyat",
@@ -25,7 +108,7 @@
           "snippet": "A common question surrounding the Sony RX1R III is whether the decade-long wait was worth it. Unfortunately, I’ve never had the chance to try its predecessors, so I can’t answer that directly. What I ",
           "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/sony-rx1r-iii-review_07-300x225.jpg",
           "title_ko": "소니 RX1R III 속성 리뷰: 컴팩트한 다큐멘터리 촬영기",
-          "snippet_ko": "소니 RX1R III와 관련해 자주 제기되는 질문은, 10년이나 기다린 보람이 있었느냐는 것입니다. 안타깝게도 저는 이전 모델들을 직접 써볼 기회가 없었기 때문에, 이 질문에 직접적인 답을 드릴 수는 없습니다. 제가 "
+          "snippet_ko": "소니 RX1R III와 관련해 자주 제기되는 질문은 10년이나 기다린 보람이 있었느냐는 것입니다. 안타깝게도 저는 이전 모델들을 직접 써볼 기회가 없었기 때문에, 이 질문에 직접적인 답을 드릴 수는 없습니다. 제가 "
         },
         {
           "title": "PlayStation To Drop PSN, PlayStation Network Branding By September",
@@ -42,8 +125,8 @@
           "date": "Mar 19, 2026",
           "snippet": "It seems that the global memory chip shortage will likely stretch on for a couple more years. According to SK Group chairman Chey Tae-won, the shortage could continue until 2030, as supply constraints",
           "thumbnail": "https://www.lowyat.net/wp-content/uploads/2025/12/DRAM-mobile-memory-1-300x179.jpg",
-          "title_ko": "SK그룹 회장, “메모리 칩 부족 사태는 2030년까지 이어질 수 있다”고 경고",
-          "snippet_ko": "전 세계적인 메모리 칩 부족 현상이 앞으로 몇 년 더 지속될 것으로 보입니다. SK그룹의 최태원 회장에 따르면, 공급 제약으로 인해 이 부족 현상은 2030년까지 이어질 수 있다고 합니다."
+          "title_ko": "SK그룹 회장, “메모리 칩 부족 사태 2030년까지 지속될 수 있다”고 경고",
+          "snippet_ko": "전 세계적인 메모리 칩 부족 사태가 앞으로 몇 년 더 이어질 것으로 보입니다. SK그룹의 최태원 회장에 따르면, 공급 제약으로 인해 이 부족 현상은 2030년까지 지속될 수 있다고 합니다."
         }
       ],
       "error": false
@@ -62,7 +145,7 @@
           "snippet": "Lost &#38; Found is an upcoming Filipino-made adventure mystery game that follows Rico, a struggling artist forced to return to his hometown of Luisiana after losing his job in the city. Set in 2007, ",
           "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/03/image-16.png?resize=950%2C534&#038;ssl=1",
           "title_ko": "‘Lost & Found’, 의미 있는 일상의 이야기로 가득 찬 필리핀 배경의 스토리 중심 미스터리 게임을 선보이다",
-          "snippet_ko": "『Lost & Found』는 도시에서 일자리를 잃고 고향인 루이지애나로 돌아올 수밖에 없게 된 고군분투하는 예술가 리코의 이야기를 다룬, 곧 출시될 필리핀 제작 어드벤처 미스터리 게임입니다. 2007년을 배경으로, "
+          "snippet_ko": "『Lost & Found』는 도시에서 일자리를 잃고 고향인 루이지애나로 돌아갈 수밖에 없게 된 고군분투하는 예술가 리코의 이야기를 다룬, 곧 출시될 필리핀 제작 어드벤처 미스터리 게임입니다. 2007년을 배경으로, "
         },
         {
           "title": "Blue Protocol: Star Resonance Season 2 Begins! New Area “Bahamar Highlands” and Shangri-La Frontier Collaboration Revealed",
@@ -79,7 +162,7 @@
           "date": "Mar 19, 2026",
           "snippet": "Upgrading your phone in 2026? If you have a budget of around $400 and want a primary device that balances premium feel and gaming performance, the newly released POCO X8 Pro is highly worth considerin",
           "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/03/image-17.jpg?resize=815%2C1024&#038;ssl=1",
-          "title_ko": "“스마트폰은 가성비 최고의 제품만 사세요”: 2026년 게이머들이 POCO X8 Pro를 선택해야 하는 이유",
+          "title_ko": "“스마트폰은 가성비 최고의 제품만 구매하라”: 2026년 게이머들이 POCO X8 Pro를 선택해야 하는 이유",
           "snippet_ko": "2026년에 스마트폰을 새로 장만할 계획이신가요? 예산이 400달러 정도이고, 고급스러운 느낌과 게임 성능을 모두 갖춘 주력 기기를 원하신다면, 최근 출시된 POCO X8 Pro를 꼭 고려해 보시길 추천합니다."
         }
       ],
@@ -107,8 +190,8 @@
           "date": "Mar 19, 2026",
           "snippet": "Prism 2033, tựa game MMORPG mới đến từ CyberNest, đang The post Prism 2033 gây chú ý với tham vọng MMORPG “thế hệ mới” tích hợp AI appeared first on GAMELADE.",
           "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/w-5.jpg",
-          "title_ko": "Prism 2033은 AI를 통합한 ‘차세대’ MMORPG라는 야심 찬 비전으로 주목받고 있다",
-          "snippet_ko": "CyberNest의 신작 MMORPG ‘Prism 2033’은… “AI를 접목한 ‘차세대’ MMORPG”라는 야심 찬 목표에 주목받고 있는 ‘Prism 2033’에 관한 기사는 GAMELADE에 처음 게재되었습니다."
+          "title_ko": "Prism 2033은 AI를 접목한 ‘차세대’ MMORPG라는 야심 찬 비전으로 주목받고 있다",
+          "snippet_ko": "CyberNest의 신작 MMORPG인 ‘Prism 2033’은… “AI를 접목한 ‘차세대’ MMORPG”라는 야심찬 비전으로 주목받고 있는 ‘Prism 2033’에 관한 기사는 GAMELADE에 처음 게재되었습니다."
         },
         {
           "title": "Sonic Rumble công bố hợp tác The Smurfs",
@@ -117,7 +200,7 @@
           "snippet": "Sonic Rumble – tựa game multiplayer tốc độ cao lấy The post Sonic Rumble công bố hợp tác The Smurfs appeared first on GAMELADE.",
           "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/q-5.jpg",
           "title_ko": "소닉 럼블, 스머프와의 협업 발표",
-          "snippet_ko": "Sonic Rumble – 고속 멀티플레이어 게임인 Sonic Rumble가 The Smurfs와의 협업을 발표했습니다. 이 기사는 GAMELADE에 처음 게재되었습니다."
+          "snippet_ko": "Sonic Rumble – 고속 멀티플레이어 게임인 Sonic Rumble가 스머프와의 협업을 발표했습니다. 이 기사는 GAMELADE에 처음 게재되었습니다."
         }
       ],
       "error": false
@@ -136,7 +219,7 @@
           "snippet": "หลังจากเมื่อไม่กี่เดือนที่ผ่านมา ทาง HUAWEI ก็เพิ่งเปิดตัวมือถือรุ่นราคา Mid-Range อย่าง HUAWEI nova 15 Series ไปในประเทศจีน ล่าสุดก็เริ่มมีรายงานข้อมูลเบื้องหลังของมือถือตัวคุ้มรุ่นใหม่อย่าง HUAWEI n",
           "thumbnail": "",
           "title_ko": "유출된 화웨이 노바 16 울트라의 사양에 따르면 배터리 용량이 7,000mAh를 넘으며, 플래그십급 기린 9 시리즈 칩으로 업그레이드된 것으로 드러났다.",
-          "snippet_ko": "몇 달 전 중국에서 중급형 스마트폰인 ‘화웨이 노바 15 시리즈’가 출시된 데 이어, 가성비 좋은 신제품인 ‘화웨이 n’의 사양에 관한 최신 보도가 나오기 시작했다."
+          "snippet_ko": "몇 달 전 중국에서 중급형 스마트폰인 ‘HUAWEI nova 15 시리즈’가 출시된 데 이어, 가성비 좋은 신제품인 ‘HUAWEI n’의 사양에 관한 최신 보도가 나오기 시작했다."
         },
         {
           "title": "เปิดตัว realme Pad 3 และ realme Buds T500 Pro สเปคครบ ราคาดี",
@@ -145,7 +228,7 @@
           "snippet": "นอกจากสมาร์ตโฟนตัวใหม่ทั้ง 3 รุ่น realme 16 Series 5G ก็ยังมีการเปิดตัวแท็บเล็ตกับหูฟังรุ่นใหม่อย่าง realme Pad 3 กับ realme Buds T500 Pro ด้วยจุดเด่นที่ให้มาครบทั้งสเปคพร้อมใช้งาน ไปจนถึงราคาวางจำหน่",
           "thumbnail": "",
           "title_ko": "realme Pad 3와 realme Buds T500 Pro를 소개합니다: 풍부한 사양과 합리적인 가격!",
-          "snippet_ko": "realme 16 시리즈 5G의 세 가지 신형 스마트폰 모델 외에도, realme는 새로운 태블릿인 realme Pad 3와 헤드폰인 realme Buds T500 Pro를 공개했습니다. 이 제품들은 뛰어난 사양, 바로 사용할 수 있는 편의 기능, 그리고 경쟁력 있는 가격으로 눈길을 끕니다."
+          "snippet_ko": "realme 16 시리즈 5G의 세 가지 신형 스마트폰 모델 외에도, realme는 새로운 태블릿인 realme Pad 3와 헤드폰인 realme Buds T500 Pro를 공개했습니다. 이 제품들은 뛰어난 사양, 바로 사용할 수 있는 편의 기능, 그리고 경쟁력 있는 가격으로 주목받고 있습니다."
         },
         {
           "title": "iQOO Z11 เตรียมเผยโฉม 26 มี.ค.นี้ ชูสเปกแบต 9,020mAh พร้อมยืนยันสเปกหน้าจอ 165Hz",
@@ -154,7 +237,7 @@
           "snippet": "เตรียมเปิดตัวอย่างเป็นทางการอีกราย สำหรับสมาร์ตโฟนระดับกลางรุ่นใหม่อย่าง iQOO Z11 ที่ไม่กี่วันที่ผ่านมา ก็เพิ่งมีข่าวหลุดเรื่องคะแนนผลทดสอบบน Geekbench ไปหมาด ๆ ทำให้ล่าสุดทาง iQOO ก็ได้ประกาศกำหนดการ",
           "thumbnail": "",
           "title_ko": "iQOO Z11은 3월 26일에 공개될 예정이며, 9,020mAh 배터리와 165Hz 디스플레이를 탑재할 것으로 알려졌다.",
-          "snippet_ko": "새로운 중급형 스마트폰인 iQOO Z11의 공식 출시가 예정되어 있습니다. 불과 며칠 전, 이 기기의 Geekbench 벤치마크 점수에 대한 소식이 유출되자 iQOO는 이에 따라 출시 일정을 발표했습니다."
+          "snippet_ko": "새로운 중급형 스마트폰인 iQOO Z11의 공식 출시 일정이 또다시 확정되었습니다. 불과 며칠 전, 이 기기의 Geekbench 테스트 점수에 대한 소식이 유출되자 iQOO는 이에 따라 출시 일정을 발표했습니다."
         }
       ],
       "error": false
@@ -190,8 +273,8 @@
           "date": "Mar 20, 2026",
           "snippet": "Dalam sebuah wawancara, Todd Howard ditanya mengenai The Elder Scrolls VI dia pun menjawab secara blak-blakan. Seperti apa jawabannya?",
           "thumbnail": "",
-          "title_ko": "토드 하워드에게 《엘더 스크롤 6》에 대한 질문을 받자, 그는 “우리가 발표한 적이 없다고 생각하라”고 답했다.",
-          "snippet_ko": "한 인터뷰에서 토드 하워드는 《엘더 스크롤 6》에 대한 질문을 받았고, 이에 대해 솔직하게 답변했습니다. 과연 어떤 답변이었을까요?"
+          "title_ko": "토드 하워드에게 《엘더 스크롤 6》에 대한 질문을 받자, 그는 “우리가 발표한 적이 없다고 생각하라”고 답했다",
+          "snippet_ko": "한 인터뷰에서 토드 하워드는 《엘더 스크롤 6》에 대한 질문을 받고 솔직한 답변을 내놓았습니다. 과연 어떤 답변이었을까요?"
         }
       ],
       "error": false
