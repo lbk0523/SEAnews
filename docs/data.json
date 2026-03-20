@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-20 04:06 UTC",
-  "translated": true,
+  "updated_at": "2026-03-20 04:24 UTC",
+  "ai_summary": true,
   "sources": [
     {
       "id": "back2gaming",
@@ -13,28 +13,22 @@
           "title": "CORSAIR Unveils the VANGUARD AIR 99 WIRELESS",
           "link": "https://www.back2gaming.com/news/corsair-unveils-the-vanguard-air-99-wireless/",
           "date": "Mar 19, 2026",
-          "snippet": "CORSAIR is expanding its low-profile lineup with the newly announced VANGUARD AIR 99 WIRELESS. Measuring just 18mm thick, this 99% form-factor gaming keyboard packs enthusiast-grade features, includin",
           "thumbnail": "",
-          "title_ko": "코세어, ‘뱅가드 에어 99 무선’ 공개",
-          "snippet_ko": "CORSAIR는 이번에 새롭게 공개된 VANGUARD AIR 99 WIRELESS를 통해 저프로파일 제품군을 확대하고 있습니다. 두께가 불과 18mm에 불과한 이 99% 폼 팩터 게이밍 키보드는 매니아급 기능을 갖추고 있으며, 여기에는"
+          "summary_ko": ""
         },
         {
           "title": "AMD Denounces Alleged CPU Mislabeling in CHUWI Devices, Reserves Right to Legal Action",
           "link": "https://www.back2gaming.com/news/amd-denounces-alleged-cpu-mislabeling-in-chuwi-devices-reserves-right-to-legal-action/",
           "date": "Mar 19, 2026",
-          "snippet": "Following a NotebookCheck investigation alleging that certain CHUWI laptops and mini-PCs shipped with older Ryzen 5 5500U processors disguised as newer Ryzen 5 7430U chips, AMD has officially stepped ",
           "thumbnail": "",
-          "title_ko": "AMD, CHUWI 기기의 CPU 표기 오류 의혹을 규탄하며 법적 조치 권한을 유보",
-          "snippet_ko": "노트북체크(NotebookCheck)가 일부 CHUWI 노트북과 미니 PC에 구형 Ryzen 5 5500U 프로세서가 탑재되었음에도 이를 최신형 Ryzen 5 7430U 칩으로 위장해 출하했다는 의혹을 제기한 데 이어, AMD가 공식적으로 입장을 밝혔다. "
+          "summary_ko": ""
         },
         {
           "title": "BlizzCon 2026 Esports Lineup: WoW, Overwatch World Cup, and the Classic Cup",
           "link": "https://www.back2gaming.com/esports/blizzcon-2026-esports-lineup-wow-overwatch-world-cup-and-the-classic-cup/",
           "date": "Mar 19, 2026",
-          "snippet": "BlizzCon 2026 is officially bringing the heat back to the Anaheim Convention Center this September with a massive slate of esports programming. From the 10-year anniversary of the Overwatch World Cup ",
           "thumbnail": "",
-          "title_ko": "블리즈컨 2026 e스포츠 라인업: 월드 오브 워크래프트, 오버워치 월드컵, 클래식 컵",
-          "snippet_ko": "블리즈컨 2026이 오는 9월, 방대한 e스포츠 프로그램 라인업을 앞세워 애너하임 컨벤션 센터에 다시 한 번 열기를 불어넣을 예정입니다. 오버워치 월드컵 10주년을 시작으로 "
+          "summary_ko": ""
         }
       ],
       "error": false
@@ -50,28 +44,22 @@
           "title": "Kick Off Your Career With Football Manager 26, Now 33% Off On Steam",
           "link": "https://geekculture.co/football-manager-26-now-33-percent-off-on-steam/",
           "date": "Mar 20, 2026",
-          "snippet": "Secure your Steam copy today and save big before the whistle blows! The post Kick Off Your Career With Football Manager 26, Now 33% Off On Steam appeared first on Geek Culture.",
           "thumbnail": "https://geekculture.co/wp-content/uploads/2026/03/fm26-sale.jpg",
-          "title_ko": "‘풋볼 매니저 26’으로 커리어를 시작하세요. 현재 스팀에서 33% 할인 중입니다.",
-          "snippet_ko": "지금 바로 스팀에서 구매하고, 시작 신호가 울리기 전에 큰 할인 혜택을 누리세요! “Football Manager 26으로 커리어를 시작하세요, 현재 스팀에서 33% 할인 중”이라는 게시물은 Geek Culture에 처음 게재되었습니다."
+          "summary_ko": ""
         },
         {
           "title": "‘Life is Strange’ TV Series: Yellowjackets’ Karyn Kusama To Direct First Two Episodes",
           "link": "https://geekculture.co/life-is-strange-tv-series-yellowjackets-karyn-kusama-to-direct-first-two-episodes/",
           "date": "Mar 19, 2026",
-          "snippet": "Ready for the mosh pit, shaka brah! The post &#8216;Life is Strange&#8217; TV Series: Yellowjackets&#8217; Karyn Kusama To Direct First Two Episodes appeared first on Geek Culture.",
           "thumbnail": "https://geekculture.co/wp-content/uploads/2026/03/life-is-strange-series-karyn-kusama-3.jpg",
-          "title_ko": "드라마 ‘라이프 이즈 스트레인지’: ‘옐로우재킷’의 카린 쿠사마, 첫 두 편 연출 맡아",
-          "snippet_ko": "모쉬핏 준비됐어, 샤카 브라! “Life is Strange” TV 시리즈: ‘Yellowjackets’의 카린 쿠사마, 첫 두 에피소드 연출 맡는다. 이 기사는 Geek Culture에 처음 게재되었습니다."
+          "summary_ko": ""
         },
         {
           "title": "‘Persona 5’ Special Big Band Concert Asia Tour 2026 Adds Second Show For Singapore",
           "link": "https://geekculture.co/persona-5-special-big-band-concert-asia-tour-2026-adds-second-show-for-singapore/",
           "date": "Mar 18, 2026",
-          "snippet": "Take your time...to bask in the musical celebration. The post &#8216;Persona 5&#8217; Special Big Band Concert Asia Tour 2026 Adds Second Show For Singapore appeared first on Geek Culture.",
           "thumbnail": "https://geekculture.co/wp-content/uploads/2026/03/persona-5-concert-singapore.jpg",
-          "title_ko": "‘페르소나 5’ 스페셜 빅 밴드 콘서트 아시아 투어 2026, 싱가포르 공연 추가 확정",
-          "snippet_ko": "여유롭게… 음악의 향연을 만끽해 보세요. '페르소나 5' 스페셜 빅 밴드 콘서트 아시아 투어 2026, 싱가포르 공연 추가 개최 소식은 Geek Culture에 처음 게재되었습니다."
+          "summary_ko": ""
         }
       ],
       "error": false
@@ -87,28 +75,22 @@
           "title": "NEOWIZ’s Cats & Soup: Magic Recipe is a cozy sequel packed with more cats and merge fun, arriving on mobile in late April",
           "link": "https://gamingonphone.com/news/neowizs-cats-soup-magic-recipe-is-a-cozy-sequel-packed-with-more-cats-and-merge-fun-arriving-on-mobile-in-late-april/",
           "date": "Mar 20, 2026",
-          "snippet": "NEOWIZ has announced their new casual merge idle puzzle title, Cats &#38; Soup: Magic Recipe, which is set to launch on both Android and iOS in late April. Sequel to the beloved Cats &#38; Soup, the g",
           "thumbnail": "",
-          "title_ko": "네오위즈의 ‘캣츠 앤 수프: 매직 레시피’는 더 많은 고양이와 합치기 게임의 재미가 가득한 아늑한 후속작으로, 4월 말 모바일로 출시됩니다.",
-          "snippet_ko": "네오위즈는 4월 말 안드로이드와 iOS 플랫폼에서 출시될 예정인 새로운 캐주얼 머지 아이들 퍼즐 게임 ‘캣츠 수프: 매직 레시피’를 공개했다. 많은 사랑을 받은 ‘캣츠 수프’의 후속작인 이 게임은..."
+          "summary_ko": ""
         },
         {
           "title": "KICK BUDS playtest first impression: A fun idea that struggles where it matters",
           "link": "https://gamingonphone.com/news/kick-buds-playtest-first-impression/",
           "date": "Mar 20, 2026",
-          "snippet": "eFootball makers KONAMI have brought in KICK BUDS playtest live, and it was definitely out of the blue. This is a party royale-style football game, and it is a new attempt. Jumping in from the US regi",
           "thumbnail": "",
-          "title_ko": "KICK BUDS 플레이테스트 첫인상: 재미있는 아이디어지만 중요한 부분에서 아쉬움을 남긴다",
-          "snippet_ko": "‘eFootball’을 제작한 코나미(KONAMI)가 ‘KICK BUDS’ 플레이 테스트를 갑작스럽게 공개했습니다. 이 게임은 파티 로얄 방식의 축구 게임으로, 새로운 시도를 담고 있습니다. 미국 지역에서 시작하여..."
+          "summary_ko": ""
         },
         {
           "title": "Wuthering Waves Version 3.2 Update: How to Get 10,600+ Astrites for free",
           "link": "https://gamingonphone.com/guides/wuthering-waves-version-3-2-update-how-to-get-10600-astrites-for-free/",
           "date": "Mar 19, 2026",
-          "snippet": "Wuthering Waves Version 3.2 is now live till April 30, 2026, and something free-to-play players shouldn&#8217;t miss out on is the valuable Astrites up for grabs. To help you with the same, this guide",
           "thumbnail": "",
-          "title_ko": "Wuthering Waves 버전 3.2 업데이트: 10,600개 이상의 아스트라이트를 무료로 얻는 방법",
-          "snippet_ko": "‘Wuthering Waves’ 버전 3.2가 2026년 4월 30일까지 진행되며, 무료 플레이어라면 절대 놓쳐서는 안 될 것이 바로 획득할 수 있는 귀중한 아스트라이트입니다. 이를 돕기 위해 이 가이드를 준비했습니다."
+          "summary_ko": ""
         }
       ],
       "error": false
@@ -124,28 +106,22 @@
           "title": "OPPO Find X9s, Find X9 Ultra Secure SIRIM Certification; Local Launch At Hand",
           "link": "https://www.lowyat.net/2026/387297/oppo-find-x9s-find-x9-ultra-sirim/",
           "date": "Mar 20, 2026",
-          "snippet": "OPPO just unveiled its newest book-style foldable earlier this month, but the brand is already moving on to other products. It seems that the next devices to launch are additions to the Find X9 flagsh",
           "thumbnail": "https://www.lowyat.net/wp-content/uploads/2025/10/Oppo-Find-X9-Series-Launch-Pro-1-300x225.jpg",
-          "title_ko": "OPPO Find X9s, Find X9 Ultra, SIRIM 인증 획득… 국내 출시 임박",
-          "snippet_ko": "OPPO는 이달 초 막 새로운 북형 폴더블 폰을 공개했지만, 이미 다른 제품으로 시선을 돌리고 있다. 다음으로 출시될 기기는 Find X9 플래그십 라인업의 신제품인 것으로 보인다."
+          "summary_ko": ""
         },
         {
           "title": "Sony RX1R III Lightning Review: Compact Documentarian",
           "link": "https://www.lowyat.net/2026/387260/sony-rx1r-iii-lightning-review-compact-documentarian/",
           "date": "Mar 19, 2026",
-          "snippet": "A common question surrounding the Sony RX1R III is whether the decade-long wait was worth it. Unfortunately, I’ve never had the chance to try its predecessors, so I can’t answer that directly. What I ",
           "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/sony-rx1r-iii-review_07-300x225.jpg",
-          "title_ko": "소니 RX1R III 속성 리뷰: 컴팩트한 다큐멘터리 촬영기",
-          "snippet_ko": "소니 RX1R III와 관련해 자주 제기되는 질문은 10년이나 기다린 보람이 있었느냐는 것입니다. 안타깝게도 저는 이전 모델들을 직접 써볼 기회가 없었기 때문에, 이 질문에 직접적인 답을 드릴 수는 없습니다. 제가 "
+          "summary_ko": ""
         },
         {
           "title": "PlayStation To Drop PSN, PlayStation Network Branding By September",
           "link": "https://www.lowyat.net/2026/387231/playstation-drop-psn-playstation-network-branding-september/",
           "date": "Mar 19, 2026",
-          "snippet": "The PlayStation Network name, or its abbreviation PSN, is pretty inseparable from essentially the videogame platform&#8217;s entire online infrastructure. But it looks like the Sony subsidiary is look",
           "thumbnail": "https://www.lowyat.net/wp-content/uploads/2017/06/playstation-e3-2017-1.jpg",
-          "title_ko": "플레이스테이션, 9월까지 PSN 및 플레이스테이션 네트워크 브랜드명 폐지 예정",
-          "snippet_ko": "‘플레이스테이션 네트워크(PlayStation Network)’라는 이름, 혹은 그 약칭인 ‘PSN’은 사실상 이 비디오 게임 플랫폼의 전체 온라인 인프라와 떼려야 뗄 수 없는 관계입니다. 하지만 소니의 자회사가 현재"
+          "summary_ko": ""
         }
       ],
       "error": false
@@ -161,28 +137,22 @@
           "title": "Lost & Found Brings a Filipino Story-Driven Mystery Game Filled with Meaningful Everyday Stories",
           "link": "https://gamingph.com/2026/03/lost-found-brings-a-filipino-story-driven-mystery-game-filled-with-meaningful-everyday-stories/",
           "date": "Mar 19, 2026",
-          "snippet": "Lost &#38; Found is an upcoming Filipino-made adventure mystery game that follows Rico, a struggling artist forced to return to his hometown of Luisiana after losing his job in the city. Set in 2007, ",
           "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/03/image-16.png?resize=950%2C534&#038;ssl=1",
-          "title_ko": "‘Lost & Found’, 의미 있는 일상의 이야기로 가득 찬 필리핀 배경의 스토리 중심 미스터리 게임을 선보이다",
-          "snippet_ko": "『Lost & Found』는 도시에서 일자리를 잃고 고향인 루이지애나로 돌아올 수밖에 없게 된 고군분투하는 예술가 리코의 이야기를 다룬, 곧 출시될 필리핀 제작 어드벤처 미스터리 게임입니다. 2007년을 배경으로, "
+          "summary_ko": ""
         },
         {
           "title": "Blue Protocol: Star Resonance Season 2 Begins! New Area “Bahamar Highlands” and Shangri-La Frontier Collaboration Revealed",
           "link": "https://gamingph.com/2026/03/blue-protocol-star-resonance-season-2-begins-new-area-bahamar-highlands-and-shangri-la-frontier-collaboration-revealed/",
           "date": "Mar 19, 2026",
-          "snippet": "HaoPlay announced the launch of Season 2, &#8220;Echoes of Lost Nightmare&#8221;, for the anime-style MMORPG Blue Protocol: Star Resonance on March 19. The new season introduces the area &#8220;Bahama",
           "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/03/image.jpeg?resize=950%2C534&#038;ssl=1",
-          "title_ko": "블루 프로토콜: 스타 레조넌스 시즌 2가 시작됩니다! 신규 지역 “바하마르 고원”과 ‘샹그릴라 프론티어’ 콜라보레이션 공개",
-          "snippet_ko": "하오플레이는 3월 19일, 애니메이션 스타일의 MMORPG ‘블루 프로토콜: 스타 레조넌스’의 시즌 2 ‘잃어버린 악몽의 메아리’ 출시를 발표했다. 이번 시즌에는 ‘바하마’ 지역이 새롭게 추가된다."
+          "summary_ko": ""
         },
         {
           "title": "“Phones, Only Buy the Best Value”: Why Gamers Should Choose the POCO X8 Pro in 2026",
           "link": "https://gamingph.com/2026/03/phones-only-buy-the-best-value-why-gamers-should-choose-the-poco-x8-pro-in-2026/",
           "date": "Mar 19, 2026",
-          "snippet": "Upgrading your phone in 2026? If you have a budget of around $400 and want a primary device that balances premium feel and gaming performance, the newly released POCO X8 Pro is highly worth considerin",
           "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/03/image-17.jpg?resize=815%2C1024&#038;ssl=1",
-          "title_ko": "“스마트폰은 가성비 최고의 제품만 구매하라”: 2026년 게이머들이 POCO X8 Pro를 선택해야 하는 이유",
-          "snippet_ko": "2026년에 스마트폰을 새로 장만할 계획이신가요? 예산이 400달러 정도이고, 고급스러운 느낌과 게임 성능을 모두 갖춘 주력 기기를 원하신다면, 최근 출시된 POCO X8 Pro를 꼭 고려해 보시길 추천합니다."
+          "summary_ko": ""
         }
       ],
       "error": false
@@ -198,28 +168,22 @@
           "title": "Tựa game quản lý thị trấn mèo Cat Isle chính thức tung bản chơi thử trên Steam",
           "link": "https://gamelade.vn/tua-game-quan-ly-thi-tran-meo-cat-isle-chinh-thuc-tung-ban-choi-thu-tren-steam/",
           "date": "Mar 20, 2026",
-          "snippet": "Nhà phát hành pixelduckoo và đội ngũ phát triển domkegames The post Tựa game quản lý thị trấn mèo Cat Isle chính thức tung bản chơi thử trên Steam appeared first on GAMELADE.",
           "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/ss_d7b22791dc8edfaea63a4cfb2378219a0aedc841.1920x1080.jpg",
-          "title_ko": "고양이 마을 경영 게임 ‘Cat Isle’이 스팀에서 정식 체험판을 출시했다",
-          "snippet_ko": "퍼블리셔 pixelduckoo와 개발사 domkegames의 소식. “고양이 마을 경영 게임 ‘Cat Isle’이 스팀에서 정식 체험판을 출시했다”는 기사는 GAMELADE에 처음 게재되었습니다."
+          "summary_ko": ""
         },
         {
           "title": "Cộng đồng game thủ phẫn nộ trước đoạn video ra mắt công nghệ DLSS 5 của Nvidia",
           "link": "https://gamelade.vn/cong-dong-game-thu-phan-no-truoc-doan-video-ra-mat-cong-nghe-dlss-5-cua-nvidia/",
           "date": "Mar 20, 2026",
-          "snippet": "DLSS 5 với bước nhảy vọt lớn nhất trong công The post Cộng đồng game thủ phẫn nộ trước đoạn video ra mắt công nghệ DLSS 5 của Nvidia appeared first on GAMELADE.",
           "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/dlss-5-nvidia-ceo-1.jpg",
-          "title_ko": "Nvidia의 DLSS 5 기술 공개 영상에 게이머 커뮤니티가 분노하고 있다",
-          "snippet_ko": "DLSS 5, 기술적 측면에서 가장 큰 도약을 이뤘다. 이 게시물 “Nvidia의 DLSS 5 기술 공개 영상에 게이머 커뮤니티가 분노했다”는 GAMELADE에 처음 게재되었습니다."
+          "summary_ko": ""
         },
         {
           "title": "Anime Black Torch chính thức chốt lịch phát sóng",
           "link": "https://gamelade.vn/anime-black-torch-chinh-thuc-chot-lich-phat-song/",
           "date": "Mar 20, 2026",
-          "snippet": "Crunchyroll và Shueisha vừa chính thức công bố dự án The post Anime Black Torch chính thức chốt lịch phát sóng appeared first on GAMELADE.",
           "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/BLACKTORCH_TeaserKV_Blogsplash_1200x630.jpg",
-          "title_ko": "애니메이션 ‘블랙 토치’ 방영 일정 확정",
-          "snippet_ko": "Crunchyroll과 슈에이샤가 최근 ‘블랙 토치’ 애니메이션의 방영 일정을 공식 발표했습니다. 이 기사는 GAMELADE에 처음 게재되었습니다."
+          "summary_ko": ""
         }
       ],
       "error": false
@@ -235,28 +199,22 @@
           "title": "หลุดสเปก HUAWEI nova 16 Ultra ดันแบตทะลุ 7,000mAh พร้อมขยับไปใช้ชิปเรือธง Kirin 9 Series",
           "link": "https://droidsans.com/huawei-nova-16-ultra-spec-battery-leak/",
           "date": "Mar 19, 2026",
-          "snippet": "หลังจากเมื่อไม่กี่เดือนที่ผ่านมา ทาง HUAWEI ก็เพิ่งเปิดตัวมือถือรุ่นราคา Mid-Range อย่าง HUAWEI nova 15 Series ไปในประเทศจีน ล่าสุดก็เริ่มมีรายงานข้อมูลเบื้องหลังของมือถือตัวคุ้มรุ่นใหม่อย่าง HUAWEI n",
           "thumbnail": "",
-          "title_ko": "유출된 화웨이 노바 16 울트라의 사양에 따르면 배터리 용량이 7,000mAh를 넘으며, 플래그십급 기린 9 시리즈 칩으로 업그레이드된 것으로 드러났다.",
-          "snippet_ko": "몇 달 전 중국에서 중급형 스마트폰인 ‘화웨이 노바 15 시리즈’가 출시된 데 이어, 가성비 좋은 신제품인 ‘화웨이 n’의 사양에 관한 최신 보도가 나오기 시작했다."
+          "summary_ko": ""
         },
         {
           "title": "เปิดตัว realme Pad 3 และ realme Buds T500 Pro สเปคครบ ราคาดี",
           "link": "https://droidsans.com/realme-pad-3-and-realme-buds-t500-pro-now-launch-in-thailand/",
           "date": "Mar 19, 2026",
-          "snippet": "นอกจากสมาร์ตโฟนตัวใหม่ทั้ง 3 รุ่น realme 16 Series 5G ก็ยังมีการเปิดตัวแท็บเล็ตกับหูฟังรุ่นใหม่อย่าง realme Pad 3 กับ realme Buds T500 Pro ด้วยจุดเด่นที่ให้มาครบทั้งสเปคพร้อมใช้งาน ไปจนถึงราคาวางจำหน่",
           "thumbnail": "",
-          "title_ko": "realme Pad 3와 realme Buds T500 Pro를 소개합니다: 풍부한 사양과 합리적인 가격!",
-          "snippet_ko": "realme 16 시리즈 5G의 세 가지 신형 스마트폰 모델 외에도, realme는 새로운 태블릿인 realme Pad 3와 헤드폰인 realme Buds T500 Pro를 공개했습니다. 이 제품들은 뛰어난 사양, 바로 사용할 수 있는 편의 기능, 그리고 경쟁력 있는 가격으로 주목받고 있습니다."
+          "summary_ko": ""
         },
         {
           "title": "iQOO Z11 เตรียมเผยโฉม 26 มี.ค.นี้ ชูสเปกแบต 9,020mAh พร้อมยืนยันสเปกหน้าจอ 165Hz",
           "link": "https://droidsans.com/iqoo-z11-launch-in-26-march-2026/",
           "date": "Mar 19, 2026",
-          "snippet": "เตรียมเปิดตัวอย่างเป็นทางการอีกราย สำหรับสมาร์ตโฟนระดับกลางรุ่นใหม่อย่าง iQOO Z11 ที่ไม่กี่วันที่ผ่านมา ก็เพิ่งมีข่าวหลุดเรื่องคะแนนผลทดสอบบน Geekbench ไปหมาด ๆ ทำให้ล่าสุดทาง iQOO ก็ได้ประกาศกำหนดการ",
           "thumbnail": "",
-          "title_ko": "iQOO Z11은 3월 26일에 공개될 예정이며, 9,020mAh 배터리와 165Hz 디스플레이를 탑재할 것으로 알려졌다.",
-          "snippet_ko": "새로운 중급형 스마트폰인 iQOO Z11의 공식 출시가 예정되어 있습니다. 불과 며칠 전, 이 기기의 Geekbench 벤치마크 점수에 대한 소식이 유출되자 iQOO는 이에 따라 출시 일정을 발표했습니다."
+          "summary_ko": ""
         }
       ],
       "error": false
@@ -272,28 +230,22 @@
           "title": "Dev. Chill With You: Lo-Fi Story Temukan Bug yang Membuat Pemain Tidak Bisa Keluar dari Game",
           "link": "https://gamebrott.com/bug-chill-with-you-lofi-story-tidak-bisa-keluar/",
           "date": "Mar 20, 2026",
-          "snippet": "Sejumlah warganet justru berharap bug tersebut tidak perlu diperbaiki.",
           "thumbnail": "https://www.youtube.com/embed/bqTVOyqhnGs",
-          "title_ko": "개발사 Chill With You: Lo-Fi Story, 플레이어가 게임에서 나갈 수 없게 만드는 버그 발견",
-          "snippet_ko": "오히려 일부 네티즌들은 해당 버그가 수정되지 않기를 바라고 있다."
+          "summary_ko": ""
         },
         {
           "title": "CEO NVIDIA Sebut Gamer Salah Paham Terhadap DLSS 5",
           "link": "https://gamebrott.com/ceo-nvidia-dlss-5-gamer-salah-paham/",
           "date": "Mar 20, 2026",
-          "snippet": "Banyaknya kritikan dan juga meme terhadap DLSS 5, CEO NVIDIA mengatakan Gamer salah paham dengan teknologi baru DLSS. Apa alasannya?",
           "thumbnail": "",
-          "title_ko": "엔비디아 CEO, 게이머들이 DLSS 5를 오해하고 있다고 지적",
-          "snippet_ko": "DLSS 5에 대한 수많은 비판과 밈이 쏟아지는 가운데, 엔비디아 CEO는 게이머들이 새로운 DLSS 기술을 오해하고 있다고 말했습니다. 그 이유는 무엇일까요?"
+          "summary_ko": ""
         },
         {
           "title": "7 Game Santai Spesial Liburan Terbaik Saat Kumpul Lebaran Tahun 2026",
           "link": "https://gamebrott.com/game-santai-spesial-liburan-lebaran-tahun-2026/",
           "date": "Mar 20, 2026",
-          "snippet": "Game Santai Spesial Liburan 2026 &#8211; Tak terasa libur Idul Fitri hanya tinggal menghitung hari. Bicara soal liburan, biasanya masyarakat Indonesia miliki tradisi mudik dan kumpul keluarga. Meskipu",
           "thumbnail": "",
-          "title_ko": "2026년 이드 알피트 명절 모임 때 즐기기에 딱 좋은 최고의 휴가용 캐주얼 게임 7선",
-          "snippet_ko": "2026년 휴가 특집 캐주얼 게임 &#8211; 어느새 이드 알피트르 연휴가 며칠 남지 않았습니다. 휴가라고 하면, 보통 인도네시아 사람들은 고향 방문과 가족 모임이라는 전통을 가지고 있습니다. 비록"
+          "summary_ko": ""
         }
       ],
       "error": false
@@ -309,28 +261,22 @@
           "title": "iQOO 15R Smartphone Review: The Best Gaming Phone Of 2026 That Won’t Kill Your Wallet?",
           "link": "https://www.kakuchopurei.com/2026/03/iqoo-15r-smartphone-review-kkp/",
           "date": "Mar 20, 2026",
-          "snippet": "Marathon man.",
           "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/03/iqoo15r_02.jpg",
-          "title_ko": "iQOO 15R 스마트폰 리뷰: 지갑 사정을 크게 부담시키지 않는 2026년 최고의 게이밍 폰?",
-          "snippet_ko": "마라톤 선수."
+          "summary_ko": ""
         },
         {
           "title": "Gigabash’s Final Ascension DLC Stomps In With New Original Content This March",
           "link": "https://www.kakuchopurei.com/2026/03/gigabashs-final-ascension-dlc-out-26-march/",
           "date": "Mar 20, 2026",
-          "snippet": "Ultimate lifeform throwdown.",
           "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/03/gigabash2026_02.jpg",
-          "title_ko": "기가배시의 ‘파이널 어센션’ DLC가 올 3월, 새로운 오리지널 콘텐츠와 함께 출시됩니다",
-          "snippet_ko": "최강 생명체들의 대결."
+          "summary_ko": ""
         },
         {
           "title": "Fallen Tear: The Ascension Early Access Review",
           "link": "https://www.kakuchopurei.com/2026/03/fallen-tear-the-ascension-early-access-review/",
           "date": "Mar 19, 2026",
-          "snippet": "Bad in black.",
           "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/03/fallentearEA_01.jpg",
-          "title_ko": "Fallen Tear: The Ascension 얼리 액세스 리뷰",
-          "snippet_ko": "검은색은 안 어울려."
+          "summary_ko": ""
         }
       ],
       "error": false
