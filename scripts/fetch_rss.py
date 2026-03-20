@@ -1,7 +1,9 @@
 """
-SEA Game Pulse — RSS 수집 스크립트 v6
+SEA Game Pulse — RSS 수집 스크립트 ver2
 변경사항:
-- AFK Gaming 제거
+- DeepL 번역 제거
+- 기사 본문 크롤링 추가 (BeautifulSoup)
+- Gemini AI 한국어 요약 추가
 """
 
 import json
@@ -12,6 +14,7 @@ from datetime import datetime, timezone
 
 import feedparser
 import requests
+from bs4 import BeautifulSoup
 
 # ── 소스 목록 ──────────────────────────────────────────────────
 SOURCES = [
@@ -42,7 +45,6 @@ SOURCES = [
         "regionLabel": "SEA Wide",
         "rss": "https://gamingonphone.com/feed",
     },
-    # SEA Wide / Malaysia
     {
         "id": "lowyat",
         "name": "Lowyat.net",
@@ -106,10 +108,14 @@ HEADERS = {
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/122.0.0.0 Safari/537.36"
     ),
-    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 
-DEEPL_API_KEY = os.environ.get("DEEPL_API_KEY", "")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
+GEMINI_ENDPOINT = (
+    "https://generativelanguage.googleapis.com/v1beta/models/"
+    "gemini-1.5-flash:generateContent"
+)
 
 
 # ── 유틸리티 ───────────────────────────────────────────────────
@@ -176,46 +182,116 @@ def extract_thumbnail(entry) -> str:
     return ""
 
 
-# ── DeepL 번역 ─────────────────────────────────────────────────
+# ── 기사 본문 크롤링 ────────────────────────────────────────────
 
-def translate_texts(texts: list) -> list:
-    if not DEEPL_API_KEY:
-        print("  ⚠ DEEPL_API_KEY 없음 — 번역 건너뜀")
-        return texts
+# 사이트별 본문 영역 CSS 선택자
+CONTENT_SELECTORS = {
+    "back2gaming":   ["article", ".entry-content", ".post-content"],
+    "geekculture":   ["article", ".entry-content", ".post-content"],
+    "gamingonphone": ["article", ".entry-content", ".article-content"],
+    "lowyat":        [".entry-content", "article", ".post-body"],
+    "gamingph":      ["article", ".entry-content", ".post-content"],
+    "gamelade":      ["article", ".article-content", ".entry-content"],
+    "droidsans":     ["article", ".entry-content", ".post-content"],
+    "gamebrott":     ["article", ".entry-content", ".post-content"],
+    "kakuchopurei":  ["article", ".entry-content", ".post-content"],
+}
 
-    non_empty = [(i, t) for i, t in enumerate(texts) if t.strip()]
-    if not non_empty:
-        return texts
+# 본문에서 제거할 노이즈 태그
+NOISE_TAGS = ["script", "style", "nav", "header", "footer", "aside",
+              "figure", "figcaption", "iframe", "noscript", ".sharedaddy",
+              ".related-posts", ".comment", "#comments"]
 
-    results = list(texts)
-    endpoint = (
-        "https://api-free.deepl.com/v2/translate"
-        if DEEPL_API_KEY.endswith(":fx")
-        else "https://api.deepl.com/v2/translate"
-    )
 
+def crawl_article(url: str, source_id: str) -> str:
+    """기사 URL에서 본문 텍스트를 추출합니다."""
     try:
-        headers = {
-            "Authorization": f"DeepL-Auth-Key {DEEPL_API_KEY}",
-            "Content-Type": "application/json",
-        }
-        payload = {
-            "text": [t for _, t in non_empty],
-            "target_lang": "KO",
-        }
-        resp = requests.post(endpoint, headers=headers, json=payload, timeout=30)
+        resp = requests.get(url, headers=HEADERS, timeout=15)
         resp.raise_for_status()
-        translations = [t["text"] for t in resp.json()["translations"]]
+        soup = BeautifulSoup(resp.text, "html.parser")
 
-        for (orig_idx, _), translated in zip(non_empty, translations):
-            results[orig_idx] = translated
+        # 노이즈 제거
+        for tag in soup(["script", "style", "nav", "footer", "aside",
+                         "figure", "figcaption", "iframe", "noscript"]):
+            tag.decompose()
 
-        print(f"  ✅ DeepL 번역 완료 ({len(non_empty)}개 텍스트)")
-        return results
+        # 사이트별 선택자로 본문 탐색
+        selectors = CONTENT_SELECTORS.get(source_id, ["article", ".entry-content", ".post-content"])
+        content_el = None
+        for selector in selectors:
+            content_el = soup.select_one(selector)
+            if content_el:
+                break
+
+        # 선택자 실패 시 <main> 또는 <body> 폴백
+        if not content_el:
+            content_el = soup.find("main") or soup.find("body")
+
+        if not content_el:
+            return ""
+
+        # 텍스트 추출 및 정리
+        text = content_el.get_text(separator=" ")
+        text = re.sub(r"\s+", " ", text).strip()
+
+        # 최대 3,000자로 제한 (Gemini 토큰 절약)
+        return text[:3000]
 
     except Exception as e:
-        print(f"  ⚠ DeepL 번역 실패: {e} — 원문 유지")
-        return texts
+        print(f"    ⚠ 본문 크롤링 실패 ({url}): {e}")
+        return ""
+
+
+# ── Gemini AI 요약 ──────────────────────────────────────────────
+
+SUMMARY_PROMPT = """다음은 게임 관련 기사입니다. 아래 조건에 맞게 한국어로 요약해주세요.
+
+조건:
+- 반드시 3개의 핵심 포인트로 요약할 것
+- 각 포인트는 1~2문장으로 간결하게 작성
+- 게임 이름, 회사명, 고유명사는 원문 그대로 유지
+- 출력 형식: 번호 없이 각 포인트를 줄바꿈으로 구분
+- 불필요한 서두나 설명 없이 요약만 출력
+
+기사 제목: {title}
+
+기사 본문:
+{body}
+"""
+
+
+def summarize_with_gemini(title: str, body: str) -> str:
+    """Gemini API로 기사를 한국어 3포인트로 요약합니다."""
+    if not GEMINI_API_KEY:
+        return ""
+
+    if not body.strip():
+        return ""
+
+    prompt = SUMMARY_PROMPT.format(title=title, body=body)
+
+    try:
+        resp = requests.post(
+            GEMINI_ENDPOINT,
+            headers={"Content-Type": "application/json"},
+            params={"key": GEMINI_API_KEY},
+            json={
+                "contents": [{"parts": [{"text": prompt}]}],
+                "generationConfig": {
+                    "temperature": 0.3,
+                    "maxOutputTokens": 512,
+                },
+            },
+            timeout=30,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        summary = data["candidates"][0]["content"]["parts"][0]["text"].strip()
+        return summary
+
+    except Exception as e:
+        print(f"    ⚠ Gemini 요약 실패: {e}")
+        return ""
 
 
 # ── RSS 수집 ───────────────────────────────────────────────────
@@ -227,7 +303,11 @@ def fetch_feed(source: dict) -> list:
 
     for url in urls_to_try:
         try:
-            resp = requests.get(url, headers=HEADERS, timeout=15)
+            resp = requests.get(
+                url,
+                headers={**HEADERS, "Accept": "application/rss+xml, application/xml, text/xml, */*"},
+                timeout=15,
+            )
             resp.raise_for_status()
             feed = feedparser.parse(resp.content)
 
@@ -237,23 +317,15 @@ def fetch_feed(source: dict) -> list:
 
             articles = []
             for entry in feed.entries[:ARTICLES_PER_SOURCE]:
-                snippet_raw = ""
-                if hasattr(entry, "summary"):
-                    snippet_raw = strip_html(entry.summary)[:200]
-                elif hasattr(entry, "content") and entry.content:
-                    snippet_raw = strip_html(entry.content[0].get("value", ""))[:200]
-
                 articles.append({
-                    "title":      entry.get("title", "(No title)").strip(),
-                    "link":       entry.get("link", "#"),
-                    "date":       fmt_date(getattr(entry, "published_parsed", None)),
-                    "snippet":    snippet_raw,
-                    "thumbnail":  extract_thumbnail(entry),
-                    "title_ko":   "",
-                    "snippet_ko": "",
+                    "title":    entry.get("title", "(No title)").strip(),
+                    "link":     entry.get("link", "#"),
+                    "date":     fmt_date(getattr(entry, "published_parsed", None)),
+                    "thumbnail": extract_thumbnail(entry),
+                    "summary_ko": "",  # Gemini 요약 결과
                 })
 
-            print(f"  ✅ {source['name']}: {len(articles)}개 기사 수집 (URL: {url})")
+            print(f"  ✅ {source['name']}: {len(articles)}개 기사 수집")
             return articles
 
         except Exception as e:
@@ -263,18 +335,29 @@ def fetch_feed(source: dict) -> list:
     return []
 
 
-def translate_source_articles(articles: list) -> list:
-    if not articles or not DEEPL_API_KEY:
-        return articles
-
-    titles   = [a["title"]   for a in articles]
-    snippets = [a["snippet"] for a in articles]
-    translated = translate_texts(titles + snippets)
-    n = len(articles)
-
+def process_articles(articles: list, source_id: str) -> list:
+    """기사 본문 크롤링 + Gemini 요약을 순차 처리합니다."""
     for i, article in enumerate(articles):
-        article["title_ko"]   = translated[i]
-        article["snippet_ko"] = translated[n + i]
+        print(f"    [{i+1}/{len(articles)}] {article['title'][:40]}...")
+
+        # 본문 크롤링
+        body = crawl_article(article["link"], source_id)
+        if body:
+            print(f"      📄 본문 {len(body)}자 추출")
+        else:
+            print(f"      ⚠ 본문 추출 실패 — 요약 건너뜀")
+            continue
+
+        # Gemini 요약
+        summary = summarize_with_gemini(article["title"], body)
+        if summary:
+            article["summary_ko"] = summary
+            print(f"      ✅ Gemini 요약 완료")
+        else:
+            print(f"      ⚠ Gemini 요약 실패")
+
+        # API 레이트 리밋 방지 (분당 15회 제한)
+        time.sleep(1.5)
 
     return articles
 
@@ -283,27 +366,25 @@ def translate_source_articles(articles: list) -> list:
 
 def main():
     now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    print(f"\n[SEA Game Pulse v6] RSS 수집 시작 — {now_str}\n")
+    print(f"\n[SEA Game Pulse ver2] RSS 수집 시작 — {now_str}\n")
 
-    if DEEPL_API_KEY:
-        key_type = "Free" if DEEPL_API_KEY.endswith(":fx") else "Pro"
-        print(f"  🌐 DeepL API 키 확인됨 ({key_type}) — 번역 활성화\n")
+    if GEMINI_API_KEY:
+        print("  🤖 Gemini API 키 확인됨 — AI 요약 활성화\n")
     else:
-        print(f"  ⚠ DeepL API 키 없음 — 번역 비활성화\n")
+        print("  ⚠ GEMINI_API_KEY 없음 — 요약 비활성화\n")
 
     output = {
         "updated_at": now_str,
-        "translated": bool(DEEPL_API_KEY),
+        "ai_summary": bool(GEMINI_API_KEY),
         "sources": [],
     }
 
     for source in SOURCES:
+        print(f"\n▶ {source['name']} 처리 중...")
         articles = fetch_feed(source)
 
-        if articles and DEEPL_API_KEY:
-            print(f"  🌐 {source['name']} 번역 중...")
-            articles = translate_source_articles(articles)
-            time.sleep(0.3)
+        if articles and GEMINI_API_KEY:
+            articles = process_articles(articles, source["id"])
 
         output["sources"].append({
             "id":          source["id"],
