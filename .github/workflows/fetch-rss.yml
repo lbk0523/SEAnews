@@ -2,15 +2,15 @@ name: Fetch RSS Feeds
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # 매일 UTC 00:00 (한국시간 오전 9시) 자동 실행
-  workflow_dispatch:        # 수동 실행 버튼도 활성화
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   fetch-and-deploy:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write       # 파일 커밋 권한
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -22,14 +22,16 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests feedparser
+        run: pip install requests feedparser deepl
 
       - name: Run RSS fetch script
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: python scripts/fetch_rss.py
 
-       - name: Commit updated data
+      - name: Commit updated data
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/data.json
           git diff --staged --quiet && echo "No changes" && exit 0
