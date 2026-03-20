@@ -1,9 +1,8 @@
 """
-SEA Game Pulse — RSS 수집 스크립트 v3
+SEA Game Pulse — RSS 수집 스크립트 v4
 변경사항:
-- Online Station → Droidsans (태국어)
-- GameK → Gamelade (베트남어)
-- DeepL 인증 방식 수정 (Authorization 헤더 방식)
+- GamerBraves 제거
+- ONE Esports / GameAxis / Geek Culture / GamingonPhone 추가
 """
 
 import json
@@ -17,15 +16,42 @@ import requests
 
 # ── 소스 목록 ──────────────────────────────────────────────────
 SOURCES = [
+    # SEA Wide
     {
-        "id": "gamerbraves",
-        "name": "GamerBraves",
+        "id": "oneesports",
+        "name": "ONE Esports",
         "region": "sea",
         "flag": "🌏",
         "regionLabel": "SEA Wide",
-        "rss": "https://www.gamerbraves.com/feed/",
-        "rss_fallback": "https://gamerbraves.com/?feed=rss2",
+        "rss": "https://www.oneesports.gg/feed",
+        "rss_fallback": "https://oneesports.gg/feed/",
     },
+    {
+        "id": "gameaxis",
+        "name": "GameAxis",
+        "region": "sea",
+        "flag": "🌏",
+        "regionLabel": "SEA Wide",
+        "rss": "https://gameaxis.com/feed",
+    },
+    {
+        "id": "geekculture",
+        "name": "Geek Culture",
+        "region": "sea",
+        "flag": "🌏",
+        "regionLabel": "SEA Wide",
+        "rss": "https://geekculture.co/games/feed",
+        "rss_fallback": "https://geekculture.co/feed",
+    },
+    {
+        "id": "gamingonphone",
+        "name": "GamingonPhone",
+        "region": "sea",
+        "flag": "🌏",
+        "regionLabel": "SEA Wide",
+        "rss": "https://gamingonphone.com/feed",
+    },
+    # SEA Wide / Malaysia
     {
         "id": "lowyat",
         "name": "Lowyat.net",
@@ -34,6 +60,7 @@ SOURCES = [
         "regionLabel": "SEA Wide / Malaysia",
         "rss": "https://lowyat.net/feed",
     },
+    # Philippines
     {
         "id": "gamingph",
         "name": "GamingPH",
@@ -42,23 +69,26 @@ SOURCES = [
         "regionLabel": "Philippines",
         "rss": "https://www.gamingph.com/feed",
     },
+    # Vietnam
     {
         "id": "gamelade",
         "name": "Gamelade",
         "region": "vn",
         "flag": "🇻🇳",
         "regionLabel": "Vietnam",
-        "rss": "https://gamelade.vn/feed",          # GameK 대체
+        "rss": "https://gamelade.vn/feed",
     },
+    # Thailand
     {
         "id": "droidsans",
         "name": "Droidsans",
         "region": "th",
         "flag": "🇹🇭",
         "regionLabel": "Thailand",
-        "rss": "https://droidsans.com/feed",         # Online Station 대체
+        "rss": "https://droidsans.com/feed",
         "rss_fallback": "https://droidsans.com/?feed=rss2",
     },
+    # Indonesia
     {
         "id": "gamebrott",
         "name": "Gamebrott",
@@ -67,6 +97,7 @@ SOURCES = [
         "regionLabel": "Indonesia",
         "rss": "https://gamebrott.com/feed",
     },
+    # Malaysia
     {
         "id": "kakuchopurei",
         "name": "Kakuchopurei",
@@ -157,7 +188,6 @@ def extract_thumbnail(entry) -> str:
 # ── DeepL 번역 ─────────────────────────────────────────────────
 
 def translate_texts(texts: list) -> list:
-    """DeepL API로 텍스트 목록을 한국어로 번역 (Authorization 헤더 방식)"""
     if not DEEPL_API_KEY:
         print("  ⚠ DEEPL_API_KEY 없음 — 번역 건너뜀")
         return texts
@@ -167,13 +197,11 @@ def translate_texts(texts: list) -> list:
         return texts
 
     results = list(texts)
-
-    # Free 키는 api-free, 유료 키는 api 도메인 사용
-    # :fx 로 끝나면 Free 키
-    if DEEPL_API_KEY.endswith(":fx"):
-        endpoint = "https://api-free.deepl.com/v2/translate"
-    else:
-        endpoint = "https://api.deepl.com/v2/translate"
+    endpoint = (
+        "https://api-free.deepl.com/v2/translate"
+        if DEEPL_API_KEY.endswith(":fx")
+        else "https://api.deepl.com/v2/translate"
+    )
 
     try:
         headers = {
@@ -186,8 +214,7 @@ def translate_texts(texts: list) -> list:
         }
         resp = requests.post(endpoint, headers=headers, json=payload, timeout=30)
         resp.raise_for_status()
-        data = resp.json()
-        translations = [t["text"] for t in data["translations"]]
+        translations = [t["text"] for t in resp.json()["translations"]]
 
         for (orig_idx, _), translated in zip(non_empty, translations):
             results[orig_idx] = translated
@@ -219,8 +246,6 @@ def fetch_feed(source: dict) -> list:
 
             articles = []
             for entry in feed.entries[:ARTICLES_PER_SOURCE]:
-                thumbnail = extract_thumbnail(entry)
-
                 snippet_raw = ""
                 if hasattr(entry, "summary"):
                     snippet_raw = strip_html(entry.summary)[:200]
@@ -232,7 +257,7 @@ def fetch_feed(source: dict) -> list:
                     "link":       entry.get("link", "#"),
                     "date":       fmt_date(getattr(entry, "published_parsed", None)),
                     "snippet":    snippet_raw,
-                    "thumbnail":  thumbnail,
+                    "thumbnail":  extract_thumbnail(entry),
                     "title_ko":   "",
                     "snippet_ko": "",
                 })
@@ -253,7 +278,6 @@ def translate_source_articles(articles: list) -> list:
 
     titles   = [a["title"]   for a in articles]
     snippets = [a["snippet"] for a in articles]
-
     translated = translate_texts(titles + snippets)
     n = len(articles)
 
@@ -268,7 +292,7 @@ def translate_source_articles(articles: list) -> list:
 
 def main():
     now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    print(f"\n[SEA Game Pulse v3] RSS 수집 시작 — {now_str}\n")
+    print(f"\n[SEA Game Pulse v4] RSS 수집 시작 — {now_str}\n")
 
     if DEEPL_API_KEY:
         key_type = "Free" if DEEPL_API_KEY.endswith(":fx") else "Pro"
@@ -301,12 +325,11 @@ def main():
         })
 
     os.makedirs("docs", exist_ok=True)
-    output_path = "docs/data.json"
-    with open(output_path, "w", encoding="utf-8") as f:
+    with open("docs/data.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     total = sum(len(s["articles"]) for s in output["sources"])
-    print(f"\n✅ 완료: 총 {total}개 기사 → {output_path} 저장\n")
+    print(f"\n✅ 완료: 총 {total}개 기사 → docs/data.json 저장\n")
 
 
 if __name__ == "__main__":
