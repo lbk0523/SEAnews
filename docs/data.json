@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-20 01:23 UTC",
+  "updated_at": "2026-03-20 01:41 UTC",
   "translated": true,
   "sources": [
     {
-      "id": "oneesports",
-      "name": "ONE Esports",
+      "id": "afkgaming",
+      "name": "AFK Gaming",
       "region": "sea",
       "flag": "🌏",
       "regionLabel": "SEA Wide",
@@ -12,13 +12,41 @@
       "error": true
     },
     {
-      "id": "gameaxis",
-      "name": "GameAxis",
+      "id": "back2gaming",
+      "name": "Back2Gaming",
       "region": "sea",
       "flag": "🌏",
       "regionLabel": "SEA Wide",
-      "articles": [],
-      "error": true
+      "articles": [
+        {
+          "title": "CORSAIR Unveils the VANGUARD AIR 99 WIRELESS",
+          "link": "https://www.back2gaming.com/news/corsair-unveils-the-vanguard-air-99-wireless/",
+          "date": "Mar 19, 2026",
+          "snippet": "CORSAIR is expanding its low-profile lineup with the newly announced VANGUARD AIR 99 WIRELESS. Measuring just 18mm thick, this 99% form-factor gaming keyboard packs enthusiast-grade features, includin",
+          "thumbnail": "",
+          "title_ko": "코세어, ‘뱅가드 에어 99 무선’ 공개",
+          "snippet_ko": "CORSAIR는 이번에 새롭게 공개된 VANGUARD AIR 99 WIRELESS를 통해 저프로파일 제품군을 확대하고 있습니다. 두께가 불과 18mm에 불과한 이 99% 폼 팩터 게이밍 키보드는 매니아급 기능을 갖추고 있으며, 여기에는"
+        },
+        {
+          "title": "AMD Denounces Alleged CPU Mislabeling in CHUWI Devices, Reserves Right to Legal Action",
+          "link": "https://www.back2gaming.com/news/amd-denounces-alleged-cpu-mislabeling-in-chuwi-devices-reserves-right-to-legal-action/",
+          "date": "Mar 19, 2026",
+          "snippet": "Following a NotebookCheck investigation alleging that certain CHUWI laptops and mini-PCs shipped with older Ryzen 5 5500U processors disguised as newer Ryzen 5 7430U chips, AMD has officially stepped ",
+          "thumbnail": "",
+          "title_ko": "AMD, CHUWI 기기의 CPU 표기 오류 의혹을 규탄하며 법적 조치 권리를 유보",
+          "snippet_ko": "노트북체크(NotebookCheck)가 일부 CHUWI 노트북 및 미니 PC에 구형 Ryzen 5 5500U 프로세서가 탑재되었음에도 이를 신형 Ryzen 5 7430U 칩으로 위장해 출하했다는 의혹을 제기한 데 이어, AMD가 공식적으로 입장을 밝혔다 "
+        },
+        {
+          "title": "BlizzCon 2026 Esports Lineup: WoW, Overwatch World Cup, and the Classic Cup",
+          "link": "https://www.back2gaming.com/esports/blizzcon-2026-esports-lineup-wow-overwatch-world-cup-and-the-classic-cup/",
+          "date": "Mar 19, 2026",
+          "snippet": "BlizzCon 2026 is officially bringing the heat back to the Anaheim Convention Center this September with a massive slate of esports programming. From the 10-year anniversary of the Overwatch World Cup ",
+          "thumbnail": "",
+          "title_ko": "블리즈컨 2026 e스포츠 라인업: 월드 오브 워크래프트, 오버워치 월드컵, 클래식 컵",
+          "snippet_ko": "블리즈컨 2026이 오는 9월, 방대한 e스포츠 프로그램 라인업을 앞세워 애너하임 컨벤션 센터에 다시 한 번 열기를 불어넣을 예정입니다. 오버워치 월드컵 10주년을 시작으로 "
+        }
+      ],
+      "error": false
     },
     {
       "id": "geekculture",
@@ -34,7 +62,7 @@
           "snippet": "Secure your Steam copy today and save big before the whistle blows! The post Kick Off Your Career With Football Manager 26, Now 33% Off On Steam appeared first on Geek Culture.",
           "thumbnail": "https://geekculture.co/wp-content/uploads/2026/03/fm26-sale.jpg",
           "title_ko": "‘풋볼 매니저 26’으로 커리어를 시작하세요. 현재 스팀에서 33% 할인 중입니다.",
-          "snippet_ko": "지금 바로 스팀에서 구매하고, 시작 신호가 울리기 전에 큰 할인 혜택을 누리세요! “Football Manager 26으로 커리어를 시작하세요, 현재 스팀에서 33% 할인 중”이라는 게시물은 Geek Culture에 처음 게재되었습니다."
+          "snippet_ko": "지금 바로 스팀에서 게임을 구매하고, 시작 신호가 울리기 전에 큰 할인 혜택을 누리세요! “Football Manager 26으로 커리어를 시작하세요, 현재 스팀에서 33% 할인 중”이라는 게시물은 Geek Culture에 처음 게재되었습니다."
         },
         {
           "title": "‘Life is Strange’ TV Series: Yellowjackets’ Karyn Kusama To Direct First Two Episodes",
@@ -42,7 +70,7 @@
           "date": "Mar 19, 2026",
           "snippet": "Ready for the mosh pit, shaka brah! The post &#8216;Life is Strange&#8217; TV Series: Yellowjackets&#8217; Karyn Kusama To Direct First Two Episodes appeared first on Geek Culture.",
           "thumbnail": "https://geekculture.co/wp-content/uploads/2026/03/life-is-strange-series-karyn-kusama-3.jpg",
-          "title_ko": "드라마 ‘라이프 이즈 스트레인지’: ‘옐로우재킷’의 카린 쿠사마, 첫 두 에피소드 연출 맡아",
+          "title_ko": "드라마 ‘라이프 이즈 스트레인지’: ‘옐로재킷’의 카린 쿠사마, 첫 두 편 연출 맡아",
           "snippet_ko": "모쉬핏 준비됐어, 샤카 브라! “Life is Strange” TV 시리즈: ‘Yellowjackets’의 카린 쿠사마, 첫 두 에피소드 연출 맡는다. 이 기사는 Geek Culture에 처음 게재되었습니다."
         },
         {
@@ -89,7 +117,7 @@
           "snippet": "Apple Arcade brings a lineup of upcoming titles for April 2026. As I took a look at the list, I can assure the fans of another exciting month coming. The lineup confirmed three titles so far, includin",
           "thumbnail": "",
           "title_ko": "Apple Arcade: 2026년 4월 출시 예정인 모든 게임",
-          "snippet_ko": "Apple Arcade가 2026년 4월 출시 예정인 신작 라인업을 공개했습니다. 목록을 살펴본 결과, 팬 여러분께 또 한 번 흥미진진한 한 달이 될 것임을 확신합니다. 현재까지 세 가지 타이틀이 확정되었으며, 여기에는"
+          "snippet_ko": "Apple Arcade가 2026년 4월 출시 예정인 신작 라인업을 공개했습니다. 목록을 살펴본 결과, 팬 여러분께 또 한 번 흥미진진한 한 달이 될 것임을 확신합니다. 현재까지 확인된 라인업에는 다음 세 가지 타이틀이 포함되어 있습니다."
         }
       ],
       "error": false
@@ -102,13 +130,22 @@
       "regionLabel": "SEA Wide / Malaysia",
       "articles": [
         {
+          "title": "OPPO Find X9s, Find X9 Ultra Secure SIRIM Certification; Local Launch At Hand",
+          "link": "https://www.lowyat.net/2026/387297/oppo-find-x9s-find-x9-ultra-sirim/",
+          "date": "Mar 20, 2026",
+          "snippet": "OPPO just unveiled its newest book-style foldable earlier this month, but the brand is already moving on to other products. It seems that the next devices to launch are additions to the Find X9 flagsh",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2025/10/Oppo-Find-X9-Series-Launch-Pro-1-300x225.jpg",
+          "title_ko": "OPPO Find X9s, Find X9 Ultra, SIRIM 인증 획득… 국내 출시 임박",
+          "snippet_ko": "OPPO는 이달 초 최신 북형 폴더블 폰을 공개했지만, 이미 다른 제품으로 눈을 돌리고 있다. 다음으로 출시될 기기는 Find X9 플래그십 라인업의 신제품인 것으로 보인다."
+        },
+        {
           "title": "Sony RX1R III Lightning Review: Compact Documentarian",
           "link": "https://www.lowyat.net/2026/387260/sony-rx1r-iii-lightning-review-compact-documentarian/",
           "date": "Mar 19, 2026",
           "snippet": "A common question surrounding the Sony RX1R III is whether the decade-long wait was worth it. Unfortunately, I’ve never had the chance to try its predecessors, so I can’t answer that directly. What I ",
           "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/sony-rx1r-iii-review_07-300x225.jpg",
           "title_ko": "소니 RX1R III 속성 리뷰: 컴팩트한 다큐멘터리 촬영기",
-          "snippet_ko": "소니 RX1R III와 관련해 자주 제기되는 질문은 10년이나 기다린 보람이 있었느냐는 것입니다. 안타깝게도 저는 이전 모델들을 직접 써볼 기회가 없었기 때문에, 이 질문에 직접적인 답을 드릴 수는 없습니다. 제가 "
+          "snippet_ko": "소니 RX1R III와 관련해 자주 제기되는 질문은 10년이나 기다린 보람이 있었는지 여부입니다. 안타깝게도 저는 이전 모델들을 직접 써볼 기회가 없었기 때문에, 이 질문에 직접적인 답을 드릴 수는 없습니다. 제가 "
         },
         {
           "title": "PlayStation To Drop PSN, PlayStation Network Branding By September",
@@ -118,15 +155,6 @@
           "thumbnail": "https://www.lowyat.net/wp-content/uploads/2017/06/playstation-e3-2017-1.jpg",
           "title_ko": "플레이스테이션, 9월까지 PSN 및 플레이스테이션 네트워크 브랜드명 폐지 예정",
           "snippet_ko": "‘플레이스테이션 네트워크(PlayStation Network)’라는 이름, 혹은 그 약칭인 ‘PSN’은 사실상 이 비디오 게임 플랫폼의 온라인 인프라 전체와 떼려야 뗄 수 없는 관계입니다. 하지만 소니의 자회사가"
-        },
-        {
-          "title": "Memory Chip Shortage Could Last Until 2030, SK Group Chairman Warns",
-          "link": "https://www.lowyat.net/2026/387249/memory-chip-shortage-2030-sk-group/",
-          "date": "Mar 19, 2026",
-          "snippet": "It seems that the global memory chip shortage will likely stretch on for a couple more years. According to SK Group chairman Chey Tae-won, the shortage could continue until 2030, as supply constraints",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2025/12/DRAM-mobile-memory-1-300x179.jpg",
-          "title_ko": "SK그룹 회장, “메모리 칩 부족 사태 2030년까지 지속될 수 있다”고 경고",
-          "snippet_ko": "전 세계적인 메모리 칩 부족 사태가 앞으로 몇 년 더 이어질 것으로 보입니다. SK그룹의 최태원 회장에 따르면, 공급 제약으로 인해 이 부족 현상은 2030년까지 지속될 수 있다고 합니다."
         }
       ],
       "error": false
@@ -200,7 +228,7 @@
           "snippet": "Sonic Rumble – tựa game multiplayer tốc độ cao lấy The post Sonic Rumble công bố hợp tác The Smurfs appeared first on GAMELADE.",
           "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/q-5.jpg",
           "title_ko": "소닉 럼블, 스머프와의 협업 발표",
-          "snippet_ko": "Sonic Rumble – 고속 멀티플레이어 게임인 Sonic Rumble가 스머프와의 협업을 발표했습니다. 이 기사는 GAMELADE에 처음 게재되었습니다."
+          "snippet_ko": "Sonic Rumble – 고속 멀티플레이어 게임인 Sonic Rumble가 스머프와의 협업을 발표했습니다. 이 소식은 GAMELADE에 처음 게재되었습니다."
         }
       ],
       "error": false
@@ -264,7 +292,7 @@
           "date": "Mar 20, 2026",
           "snippet": "Game Santai Spesial Liburan 2026 &#8211; Tak terasa libur Idul Fitri hanya tinggal menghitung hari. Bicara soal liburan, biasanya masyarakat Indonesia miliki tradisi mudik dan kumpul keluarga. Meskipu",
           "thumbnail": "",
-          "title_ko": "2026년 이드 알피트 명절 모임 때 즐기기 좋은 최고의 휴가용 캐주얼 게임 7선",
+          "title_ko": "2026년 이드 알피트 명절 모임 때 즐기기에 딱 좋은 최고의 휴가용 캐주얼 게임 7선",
           "snippet_ko": "2026년 휴가 특집 캐주얼 게임 &#8211; 어느새 이드 알피트르 연휴가 며칠 남지 않았습니다. 휴가라고 하면, 보통 인도네시아 사람들은 고향에 내려가 가족과 함께 모이는 전통을 가지고 있습니다. 비록"
         },
         {
