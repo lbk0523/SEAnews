@@ -189,8 +189,9 @@ def load_summary_cache() -> dict:
             for article in source.get("articles", []):
                 link = article.get("link", "")
                 summary = article.get("summary_ko", "")
+                title_ko = article.get("title_ko", "")
                 if link and summary:
-                    cache[link] = summary
+                    cache[link] = {"summary_ko": summary, "title_ko": title_ko}
         print(f"  📦 캐시 로드: {len(cache)}개 기사 요약 재사용 가능\n")
     except FileNotFoundError:
         print("  📦 캐시 없음 (첫 실행)\n")
@@ -240,21 +241,28 @@ def crawl_article(url: str, source_id: str, snippet: str = "") -> str:
 
 # ── Gemini 배치 요약 ────────────────────────────────────────────
 
-BATCH_PROMPT = """You are a news summarizer. Below are {count} game-related articles.
-For EACH article, output exactly 3 lines of Korean summary.
-Separate each article's summary with "---" on its own line.
+BATCH_PROMPT = """You are a news summarizer and translator. Below are {count} game-related articles.
+For EACH article, output:
+  Line 1: Korean translation of the title (title only, no label)
+  Lines 2-4: 3 lines of Korean summary (one key point each)
+Then "---" to separate articles.
 
 STRICT OUTPUT FORMAT:
-- Article 1: 3 lines of Korean, then "---"
-- Article 2: 3 lines of Korean, then "---"
-- (and so on)
-- No bullet points, no numbers, no labels
+[Korean title]
+[summary point 1]
+[summary point 2]
+[summary point 3]
+---
+(repeat for each article)
+
+RULES:
+- No bullet points, no numbers, no labels like "제목:" or "요약:"
 - Game names, brand names, proper nouns stay in original language
-- Each line is one key point (1 sentence)
+- Each summary line is one concise sentence in Korean
 
 {articles}
 
-Output ({count} summaries separated by "---"):"""
+Output ({count} results separated by "---"):"""
 
 
 def summarize_batch_with_gemini(articles: list) -> list:
@@ -292,12 +300,16 @@ def summarize_batch_with_gemini(articles: list) -> list:
             raw = resp.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
             parts = [p.strip() for p in raw.split("---") if p.strip()]
 
-            results = [""] * len(articles)
+            # results: list of (title_ko, summary_ko) tuples
+            results = [("", "")] * len(articles)
             for j, (orig_idx, _) in enumerate(valid):
                 if j < len(parts):
-                    results[orig_idx] = parts[j]
+                    lines = [l.strip() for l in parts[j].split("\n") if l.strip()]
+                    title_ko   = lines[0] if len(lines) >= 1 else ""
+                    summary_ko = "\n".join(lines[1:]) if len(lines) >= 2 else ""
+                    results[orig_idx] = (title_ko, summary_ko)
 
-            print(f"  ✅ Gemini 배치 요약 완료 ({len(valid)}개 기사, 1회 API 호출)")
+            print(f"  ✅ Gemini 배치 요약+번역 완료 ({len(valid)}개 기사, 1회 API 호출)")
             return results
 
         except Exception as e:
@@ -308,9 +320,9 @@ def summarize_batch_with_gemini(articles: list) -> list:
                 time.sleep(wait)
             else:
                 print(f"  ⚠ Gemini 배치 요약 실패: {e}")
-                return [""] * len(articles)
+                return [("", "")] * len(articles)
 
-    return [""] * len(articles)
+    return [("", "")] * len(articles)
 
 
 # ── RSS 수집 ───────────────────────────────────────────────────
@@ -345,10 +357,11 @@ def fetch_feed(source: dict) -> list:
 
                 articles.append({
                     "title":      entry.get("title", "(No title)").strip(),
+                    "title_ko":   "",
                     "link":       entry.get("link", "#"),
                     "date":       fmt_date(getattr(entry, "published_parsed", None)),
                     "thumbnail":  extract_thumbnail(entry),
-                    "snippet":    snippet,   # 크롤링 폴백용
+                    "snippet":    snippet,
                     "body":       "",
                     "summary_ko": "",
                 })
@@ -394,9 +407,10 @@ def main():
         if articles:
             # 단계 2: 캐시 확인 — 이미 요약된 기사는 건너뜀
             for article in articles:
-                cached_summary = summary_cache.get(article["link"], "")
-                if cached_summary:
-                    article["summary_ko"] = cached_summary
+                cached = summary_cache.get(article["link"])
+                if cached:
+                    article["summary_ko"] = cached.get("summary_ko", "")
+                    article["title_ko"]   = cached.get("title_ko", "")
                     article["_cached"] = True
                     total_cached += 1
                 else:
@@ -417,9 +431,10 @@ def main():
 
                 # 신규 기사만 배치 요약
                 summaries = summarize_batch_with_gemini(new_articles)
-                for i, summary in enumerate(summaries):
-                    new_articles[i]["summary_ko"] = summary
-                    if summary:
+                for i, (title_ko, summary_ko) in enumerate(summaries):
+                    new_articles[i]["title_ko"]   = title_ko
+                    new_articles[i]["summary_ko"] = summary_ko
+                    if summary_ko:
                         total_new += 1
 
                 time.sleep(5)
