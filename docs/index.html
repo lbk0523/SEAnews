@@ -16,6 +16,7 @@
   --paper-card: #faf8f5;
   --rule:       #d4cfc6;
   --accent:     #c0392b;
+  --accent-ai:  #1a6b3c;
   --white:      #ffffff;
 }
 * { margin:0; padding:0; box-sizing:border-box; }
@@ -74,13 +75,13 @@ body {
   letter-spacing: 0.08em;
   color: var(--ink-faint);
 }
-.translate-badge {
+.ai-badge {
   font-size: 0.62rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   padding: 2px 8px;
-  border: 1px solid var(--accent);
-  color: var(--accent);
+  border: 1px solid var(--accent-ai);
+  color: var(--accent-ai);
 }
 
 /* ── NAV ── */
@@ -196,6 +197,7 @@ main {
 .article-card:hover { background: var(--white); }
 .article-card:first-child { border-left: 3px solid var(--accent); }
 
+/* 썸네일 */
 .card-thumb {
   width: 100%;
   aspect-ratio: 16 / 9;
@@ -205,11 +207,12 @@ main {
   flex-shrink: 0;
 }
 
+/* 카드 본문 */
 .card-body {
   padding: 18px 22px 20px;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 10px;
   flex: 1;
 }
 
@@ -237,70 +240,73 @@ main {
 }
 .card-date {
   font-size: 0.68rem;
-  letter-spacing: 0.08em;
   color: var(--ink-faint);
   margin-left: auto;
 }
 
-.card-title-ko {
-  font-family: 'Noto Sans KR', sans-serif;
-  font-size: 1rem;
-  font-weight: 700;
-  line-height: 1.4;
-  color: var(--ink);
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-.article-card:first-child .card-title-ko { font-size: 1.15rem; -webkit-line-clamp: 4; }
-
-.card-title-orig {
-  font-family: 'Source Serif 4', serif;
-  font-size: 0.75rem;
-  color: var(--ink-faint);
-  line-height: 1.4;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  font-style: italic;
-}
-
-.card-title-plain {
+/* 기사 제목 */
+.card-title {
   font-family: 'Playfair Display', serif;
   font-size: 1.05rem;
   font-weight: 700;
   line-height: 1.35;
   color: var(--ink);
   display: -webkit-box;
-  -webkit-line-clamp: 4;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-.article-card:first-child .card-title-plain { font-size: 1.25rem; }
+.article-card:first-child .card-title {
+  font-size: 1.2rem;
+  -webkit-line-clamp: 4;
+}
 
-.card-snippet-ko {
+/* AI 요약 영역 */
+.card-ai-summary {
+  border-top: 1px solid var(--rule);
+  padding-top: 10px;
+  flex: 1;
+}
+.card-ai-label {
+  font-size: 0.6rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent-ai);
+  font-weight: 600;
+  margin-bottom: 6px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.card-ai-points {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.card-ai-points li {
   font-family: 'Noto Sans KR', sans-serif;
   font-size: 0.8rem;
   color: var(--ink-light);
-  line-height: 1.65;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  flex: 1;
-}
-.card-snippet-plain {
-  font-family: 'Source Serif 4', serif;
-  font-size: 0.83rem;
-  color: var(--ink-light);
   line-height: 1.6;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  flex: 1;
+  padding-left: 12px;
+  position: relative;
+}
+.card-ai-points li::before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: var(--accent-ai);
+  font-weight: 700;
+}
+
+/* 요약 없을 때 폴백 */
+.card-no-summary {
+  font-size: 0.75rem;
+  color: var(--ink-faint);
+  font-style: italic;
+  padding-top: 8px;
+  border-top: 1px solid var(--rule);
 }
 
 .card-readmore {
@@ -315,6 +321,7 @@ main {
 }
 .article-card:hover .card-readmore { opacity: 1; }
 
+/* ── ERROR ── */
 .source-error {
   padding: 16px 20px;
   border-left: 3px solid var(--rule);
@@ -348,7 +355,7 @@ main {
     </div>
     <div class="masthead-right">
       <span class="updated-time" id="updatedTime"></span>
-      <span class="translate-badge" id="translateBadge" style="display:none">🌐 한국어 번역</span>
+      <span class="ai-badge" id="aiBadge" style="display:none">🤖 AI 요약</span>
     </div>
   </div>
 </header>
@@ -390,25 +397,27 @@ function filterRegion(region, el) {
   });
 }
 
-function buildCardHTML(art, src, idx, isTranslated) {
+function buildSummaryHTML(summaryText) {
+  if (!summaryText) {
+    return `<div class="card-no-summary">AI 요약을 불러올 수 없습니다.</div>`;
+  }
+  // 줄바꿈으로 분리하여 포인트 리스트 생성
+  const points = summaryText
+    .split('\n')
+    .map(p => p.trim())
+    .filter(p => p.length > 0);
+
+  const items = points.map(p => `<li>${p}</li>`).join('');
+  return `
+    <div class="card-ai-summary">
+      <div class="card-ai-label">🤖 AI 요약</div>
+      <ul class="card-ai-points">${items}</ul>
+    </div>`;
+}
+
+function buildCardHTML(art, src, idx) {
   const isLead = idx === 0;
   const hasThumbnail = art.thumbnail && art.thumbnail.startsWith('http');
-
-  let titleHTML = '';
-  if (isTranslated && art.title_ko) {
-    titleHTML = `
-      <div class="card-title-ko" ${isLead ? 'style="font-size:1.15rem;-webkit-line-clamp:4"' : ''}>${art.title_ko}</div>
-      <div class="card-title-orig">${art.title}</div>`;
-  } else {
-    titleHTML = `<div class="card-title-plain">${art.title}</div>`;
-  }
-
-  let snippetHTML = '';
-  if (art.snippet) {
-    snippetHTML = (isTranslated && art.snippet_ko)
-      ? `<div class="card-snippet-ko">${art.snippet_ko}</div>`
-      : `<div class="card-snippet-plain">${art.snippet}</div>`;
-  }
 
   const thumbHTML = hasThumbnail
     ? `<img class="card-thumb" src="${art.thumbnail}" alt="" loading="lazy" onerror="this.style.display='none'">`
@@ -423,8 +432,8 @@ function buildCardHTML(art, src, idx, isTranslated) {
           ${isLead ? '<span class="card-badge">Latest</span>' : ''}
           ${art.date ? `<span class="card-date">${art.date}</span>` : ''}
         </div>
-        ${titleHTML}
-        ${snippetHTML}
+        <div class="card-title">${art.title}</div>
+        ${buildSummaryHTML(art.summary_ko)}
         <div class="card-readmore">Read article →</div>
       </div>
     </a>`;
@@ -435,8 +444,8 @@ function render(data) {
   document.getElementById('dateline').textContent =
     new Date().toLocaleDateString('en-US', {weekday:'long', year:'numeric', month:'long', day:'numeric'});
 
-  if (data.translated) {
-    document.getElementById('translateBadge').style.display = 'inline-block';
+  if (data.ai_summary) {
+    document.getElementById('aiBadge').style.display = 'inline-block';
   }
 
   const activeSources = data.sources.filter(s => !s.error).length;
@@ -458,7 +467,7 @@ function render(data) {
       cardsHTML = `<div class="source-error">이 소스에서 기사를 불러오지 못했습니다.</div>`;
     } else {
       cardsHTML = `<div class="articles-grid">
-        ${src.articles.map((art, i) => buildCardHTML(art, src, i, data.translated)).join('')}
+        ${src.articles.map((art, i) => buildCardHTML(art, src, i)).join('')}
       </div>`;
     }
 
