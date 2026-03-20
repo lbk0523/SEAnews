@@ -2,7 +2,7 @@ name: Fetch RSS Feeds
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'   # 매일 UTC 00:00 (한국시간 오전 9시)
   workflow_dispatch:
 
 jobs:
@@ -22,11 +22,11 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests feedparser deepl
+        run: pip install requests feedparser beautifulsoup4 lxml
 
       - name: Run RSS fetch script
         env:
-          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/fetch_rss.py
 
       - name: Commit updated data
