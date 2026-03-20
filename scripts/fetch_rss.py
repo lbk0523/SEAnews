@@ -262,37 +262,43 @@ Output (3 lines of Korean only):"""
 
 
 def summarize_with_gemini(title: str, body: str) -> str:
-    """Gemini API로 기사를 한국어 3포인트로 요약합니다."""
-    if not GEMINI_API_KEY:
-        return ""
-
-    if not body.strip():
+    """Gemini API로 기사를 한국어 3포인트로 요약합니다. 429/503 시 자동 재시도."""
+    if not GEMINI_API_KEY or not body.strip():
         return ""
 
     prompt = SUMMARY_PROMPT.format(title=title, body=body)
+    max_retries = 3
 
-    try:
-        resp = requests.post(
-            GEMINI_ENDPOINT,
-            headers={"Content-Type": "application/json"},
-            params={"key": GEMINI_API_KEY},
-            json={
-                "contents": [{"parts": [{"text": prompt}]}],
-                "generationConfig": {
-                    "temperature": 0.3,
-                    "maxOutputTokens": 512,
+    for attempt in range(max_retries):
+        try:
+            resp = requests.post(
+                GEMINI_ENDPOINT,
+                headers={"Content-Type": "application/json"},
+                params={"key": GEMINI_API_KEY},
+                json={
+                    "contents": [{"parts": [{"text": prompt}]}],
+                    "generationConfig": {
+                        "temperature": 0.3,
+                        "maxOutputTokens": 512,
+                    },
                 },
-            },
-            timeout=30,
-        )
-        resp.raise_for_status()
-        data = resp.json()
-        summary = data["candidates"][0]["content"]["parts"][0]["text"].strip()
-        return summary
+                timeout=30,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            summary = data["candidates"][0]["content"]["parts"][0]["text"].strip()
+            return summary
 
-    except Exception as e:
-        print(f"    ⚠ Gemini 요약 실패: {e}")
-        return ""
+        except Exception as e:
+            status = getattr(e.response, 'status_code', 0) if hasattr(e, 'response') else 0
+            if status in (429, 503) and attempt < max_retries - 1:
+                wait = 15 * (attempt + 1)  # 15초 → 30초 → 45초
+                print(f"    ⏳ {status} 오류, {wait}초 후 재시도 ({attempt+1}/{max_retries-1})...")
+                time.sleep(wait)
+            else:
+                print(f"    ⚠ Gemini 요약 실패: {e}")
+                return ""
+    return ""
 
 
 # ── RSS 수집 ───────────────────────────────────────────────────
