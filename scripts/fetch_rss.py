@@ -244,20 +244,21 @@ def crawl_article(url: str, source_id: str) -> str:
 
 # ── Gemini AI 요약 ──────────────────────────────────────────────
 
-SUMMARY_PROMPT = """다음은 게임 관련 기사입니다. 아래 조건에 맞게 한국어로 요약해주세요.
+SUMMARY_PROMPT = """You are a news summarizer. Read the article below and output ONLY a Korean summary.
 
-조건:
-- 반드시 3개의 핵심 포인트로 요약할 것
-- 각 포인트는 1~2문장으로 간결하게 작성
-- 게임 이름, 회사명, 고유명사는 원문 그대로 유지
-- 출력 형식: 번호 없이 각 포인트를 줄바꿈으로 구분
-- 불필요한 서두나 설명 없이 요약만 출력
+STRICT OUTPUT FORMAT — follow exactly:
+- Output exactly 3 lines
+- Each line is one key point in Korean (1 sentence)
+- No bullet points, no numbers, no labels, no explanation
+- No preamble like "이 기사는..." or "요약:"
+- Game names, brand names, proper nouns must stay in original language
 
-기사 제목: {title}
+Article title: {title}
 
-기사 본문:
+Article body:
 {body}
-"""
+
+Output (3 lines of Korean only):"""
 
 
 def summarize_with_gemini(title: str, body: str) -> str:
@@ -357,7 +358,7 @@ def process_articles(articles: list, source_id: str) -> list:
             print(f"      ⚠ Gemini 요약 실패")
 
         # API 레이트 리밋 방지 (분당 15회 제한)
-        time.sleep(1.5)
+        time.sleep(6)
 
     return articles
 
