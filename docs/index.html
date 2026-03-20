@@ -244,7 +244,6 @@ main {
   margin-left: auto;
 }
 
-/* 기사 제목 */
 .card-title {
   font-family: 'Playfair Display', serif;
   font-size: 1.05rem;
@@ -259,6 +258,16 @@ main {
 .article-card:first-child .card-title {
   font-size: 1.2rem;
   -webkit-line-clamp: 4;
+}
+.card-title-orig {
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+  font-style: italic;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 /* AI 요약 영역 */
@@ -432,7 +441,8 @@ function buildCardHTML(art, src, idx) {
           ${isLead ? '<span class="card-badge">Latest</span>' : ''}
           ${art.date ? `<span class="card-date">${art.date}</span>` : ''}
         </div>
-        <div class="card-title">${art.title}</div>
+        <div class="card-title">${art.title_ko || art.title}</div>
+        ${art.title_ko ? `<div class="card-title-orig">${art.title}</div>` : ''}
         ${buildSummaryHTML(art.summary_ko)}
         <div class="card-readmore">Read article →</div>
       </div>
