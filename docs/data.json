@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20 07:46 UTC",
+  "updated_at": "2026-03-21 01:13 UTC",
   "ai_summary": true,
   "sources": [
     {
@@ -10,28 +10,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
-          "title": "CORSAIR Unveils the VANGUARD AIR 99 WIRELESS",
-          "title_ko": "",
-          "link": "https://www.back2gaming.com/news/corsair-unveils-the-vanguard-air-99-wireless/",
-          "date": "Mar 19, 2026",
+          "title": "How Kie.ai’s Gemini 3 Flash API Fits Gaming Tools, Live Chat, and Player Support",
+          "title_ko": "Kie.ai의 Gemini 3 Flash API가 게임 도구, 라이브 채팅 및 플레이어 지원에 적합한 이유",
+          "link": "https://www.back2gaming.com/news/how-kie-ais-gemini-3-flash-api-fits-gaming-tools-live-chat-and-player-support/",
+          "date": "Mar 20, 2026",
           "thumbnail": "",
-          "summary_ko": "CORSAIR가 18mm 두께의 프리미엄 로우 프로파일 광학 기계식 게이밍 키보드 VANGUARD AIR 99 WIRELESS를 출시했습니다.\n이 키보드는 1.5mm 작동 거리의 OPX 광학 스위치와 8,000Hz 폴링 레이트를 지원하여 빠른 반응 속도를 제공합니다.\nElgato Stream Deck와의 네이티브 통합, 6개의 프로그래밍 가능한 SD-키, 가상 Stream Deck 지원, LCD 화면이 특징입니다."
+          "summary_ko": "Kie.ai의 Gemini 3 Flash API는 낮은 지연 시간과 높은 빈도의 사용 사례에 최적화되어 있습니다.\n이 API는 게임 도구에 필요한 빠른 응답 속도와 복잡한 추론 능력을 모두 제공합니다.\n이를 통해 게임 개발팀은 플레이어 지원 및 커뮤니티 도구의 성능을 향상시킬 수 있습니다."
         },
         {
-          "title": "AMD Denounces Alleged CPU Mislabeling in CHUWI Devices, Reserves Right to Legal Action",
-          "title_ko": "",
-          "link": "https://www.back2gaming.com/news/amd-denounces-alleged-cpu-mislabeling-in-chuwi-devices-reserves-right-to-legal-action/",
-          "date": "Mar 19, 2026",
+          "title": "The Hidden Technology Behind Secure Online Transactions",
+          "title_ko": "안전한 온라인 거래의 숨겨진 기술",
+          "link": "https://www.back2gaming.com/igaming/the-hidden-technology-behind-secure-online-transactions/",
+          "date": "Mar 20, 2026",
           "thumbnail": "",
-          "summary_ko": "AMD는 CHUWI 기기에서 발생한 CPU 오표기 의혹에 대해 법적 조치를 포함한 대응을 예고했습니다.\nAMD는 해당 기기들의 CPU 표기 오류와 관련하여 어떠한 승인이나 관여도 없었음을 공식적으로 밝혔습니다.\n이러한 소비자 오인 행위는 시장 질서를 심각하게 교란하며, AMD는 법적 책임을 물을 권리를 보유한다고 강조했습니다."
+          "summary_ko": "온라인 거래 시 사용자의 개인 정보는 TLS와 토큰화 기술로 보호됩니다.\nTLS는 브라우저와 서버 간의 안전한 암호화 통신 채널을 생성합니다.\n토큰화는 실제 카드 정보를 무가치한 토큰으로 대체하여 보안을 강화합니다."
         },
         {
-          "title": "BlizzCon 2026 Esports Lineup: WoW, Overwatch World Cup, and the Classic Cup",
-          "title_ko": "",
-          "link": "https://www.back2gaming.com/esports/blizzcon-2026-esports-lineup-wow-overwatch-world-cup-and-the-classic-cup/",
-          "date": "Mar 19, 2026",
-          "thumbnail": "",
-          "summary_ko": "BlizzCon 2026에서 WoW, Overwatch World Cup, 그리고 새로운 Blizzard Classic Cup이 포함된 e스포츠 라인업이 공개되었습니다.\nBlizzard Classic Cup은 스타크래프트, 워크래프트, 히어로즈 오브 더 스톰 등 고전 게임으로 구성되며 총상금 10만 달러가 걸려 있습니다.\n월드 오브 워크래프트 아레나 월드 챔피언십과 미씩 던전 인터내셔널도 새로운 확장팩과 함께 돌아오며, 오버워치 월드컵도 10주년을 맞아 재개됩니다."
+          "title": "US Prosecutors Indict Three Individuals in Alleged AI Chip Export Conspiracy",
+          "title_ko": "AI 칩 수출 음모 혐의로 미국 검찰, 3명 기소",
+          "link": "https://www.back2gaming.com/news/us-prosecutors-indict-three-individuals-in-alleged-ai-chip-export-conspiracy/",
+          "date": "Mar 20, 2026",
+          "thumbnail": "https://www.youtube.com/embed/VZV_j35a4nY",
+          "summary_ko": "미국 검찰은 NVIDIA AI 칩이 장착된 고성능 서버를 중국으로 불법 수출하려 한 혐의로 3명을 기소했습니다.\n이들은 Super Micro Computer의 임직원 및 외부 계약자로, 중국 수출 통제 규정을 위반한 혐의를 받고 있습니다.\n검찰은 이들이 중간 업체를 이용하고 하드웨어 라벨을 조작하는 등 기만적인 수법을 사용했다고 주장합니다."
         }
       ],
       "error": false
@@ -43,6 +43,14 @@
       "flag": "🌏",
       "regionLabel": "SEA Wide",
       "articles": [
+        {
+          "title": "John Wick Creator Derek Kolstad’s ‘Streets of Rage’ Film Adaptation Is “Actively Inactive”",
+          "title_ko": "존 윅 제작자 데릭 콜스타드의 '스트리트 오브 레이지' 영화 각색은 \"적극적으로 비활성 상태\"",
+          "link": "https://geekculture.co/john-wick-creator-derek-kolstads-streets-of-rage-film-adaptation-is-actively-inactive/",
+          "date": "Mar 20, 2026",
+          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/03/derek-kolstad-streets-of-rage-movie-2.jpg",
+          "summary_ko": "존 윅 시리즈 제작자로 유명한 데릭 콜스타드가 각색한 '스트리트 오브 레이지' 영화 프로젝트가 현재 중단된 상태라고 밝혔습니다.\n그는 이 프로젝트에 많은 시간을 투자했으며, 여전히 열정을 가지고 있지만 할리우드의 다른 많은 프로젝트처럼 '적극적으로 비활성' 상태라고 설명했습니다.\n이 영화는 2022년에 발표되었으며, 라이온스게이트에서 제작 중이지만 4년 간의 공백 후에도 진행될지는 불확실합니다."
+        },
         {
           "title": "‘A Minecraft Movie’ Sequel Casts ‘Spider-Man’ Trilogy Star Kirsten Dunst As Alex",
           "title_ko": "마인크래프트 영화 속편",
@@ -58,14 +66,6 @@
           "date": "Mar 20, 2026",
           "thumbnail": "https://geekculture.co/wp-content/uploads/2026/03/sonic-the-hedgehog-4-teaser-2.jpeg.jpg",
           "summary_ko": "소닉 더 헤지혹 4의 티저 영상이 공개되었으며, 닥터 로보트닉과 섀도우의 복귀가 암시되었습니다.\n벤 킹슬리와 닉 오퍼먼 등 새로운 배우들도 합류하여 기대를 모으고 있습니다.\n이번 작품에서는 메탈 소닉의 등장도 예고되어 팬들의 관심을 끌고 있습니다."
-        },
-        {
-          "title": "Kick Off Your Career With Football Manager 26, Now 33% Off On Steam",
-          "title_ko": "",
-          "link": "https://geekculture.co/football-manager-26-now-33-percent-off-on-steam/",
-          "date": "Mar 20, 2026",
-          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/03/fm26-sale.jpg",
-          "summary_ko": "Football Manager 26이 Steam에서 33% 할인된 가격으로 판매 중입니다.\n최신 26.2 업데이트로 겨울 이적 시장 변경 사항과 선수 및 스태프 데이터가 반영되었습니다.\n향상된 이적 시장 및 영입 시스템으로 더욱 현실적인 팀 관리 경험을 제공합니다."
         }
       ],
       "error": false
@@ -78,28 +78,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
-          "title": "HEAVENHELLS: Anime Squad RPG: How to contact the customer support service",
-          "title_ko": "HEAVENHELLS: Anime Squad RPG 고객 지원 서비스 연락 방법",
-          "link": "https://gamingonphone.com/guides/heavenhells-anime-squad-rpg-how-to-contact-the-customer-support-service/",
+          "title": "Baseball Hits 26 redeem codes and how to use them (March 2026)",
+          "title_ko": "Baseball Hits 26 리딤 코드 및 사용법 (2026년 3월)",
+          "link": "https://gamingonphone.com/guides/baseball-hits-26-redeem-codes-and-how-to-use-them/",
           "date": "Mar 20, 2026",
           "thumbnail": "",
-          "summary_ko": "HEAVENHELLS: Anime Squad RPG에서 발생하는 기술적 문제를 해결하는 방법을 안내합니다.\n게임 내 고객 지원 메뉴를 통해 문의하는 방법을 설명합니다.\n공식 웹사이트를 통해 고객 지원팀에 연락하는 방법도 소개합니다."
+          "summary_ko": "현재 Baseball Hits 26 게임에는 활성화된 리딤 코드가 없습니다.\n게임은 플레이를 통한 진행에 중점을 두고 있으며, 현재 코드 시스템은 제공되지 않습니다.\n향후 코드 시스템이 추가되면 공식 소셜 미디어를 통해 공지될 예정입니다."
         },
         {
-          "title": "The Seven Deadly Sins: Origin All the rewards and bonus at launch",
-          "title_ko": "",
-          "link": "https://gamingonphone.com/news/the-seven-deadly-sins-origin-all-the-rewards-and-bonus-at-launch/",
+          "title": "Merchant of the Skies, a premium airship adventure opens pre-registration on mobile ahead of launch on April 14, 2026",
+          "title_ko": "Merchant of the Skies, 프리미엄 비행선 어드벤처 모바일 사전 등록 시작 (2026년 4월 14일 출시)",
+          "link": "https://gamingonphone.com/news/merchant-of-the-skies-a-premium-airship-adventure-opens-pre-registration-on-mobile-ahead-of-launch-on-april-14-2026/",
           "date": "Mar 20, 2026",
           "thumbnail": "",
-          "summary_ko": "The Seven Deadly Sins: Origin 출시 시 무료 5성 캐릭터와 20회 뽑기 티켓 등 다양한 보상을 제공합니다.\n사전 등록 보상으로 Tioreh 캐릭터와 무기 강화 재료, 골드 등을 받을 수 있습니다.\n게임 내 재화인 Star Fragments는 10회 뽑기에 3000개가 필요하며, 획득이 다소 어렵습니다."
+          "summary_ko": "Merchant of the Skies가 모바일 출시를 앞두고 안드로이드 및 iOS에서 사전 등록을 시작했습니다.\n이 프리미엄 비행선 무역 시뮬레이션 게임은 광고나 페이투윈 요소 없이 7.99달러에 출시될 예정입니다.\n플레이어는 비행선을 조종하며 섬을 탐험하고 무역 제국을 건설하며, 자신만의 하늘 저택을 꾸밀 수 있습니다."
         },
         {
-          "title": "NEOWIZ’s Cats & Soup: Magic Recipe is a cozy sequel packed with more cats and merge fun, arriving on mobile in late April",
-          "title_ko": "",
-          "link": "https://gamingonphone.com/news/neowizs-cats-soup-magic-recipe-is-a-cozy-sequel-packed-with-more-cats-and-merge-fun-arriving-on-mobile-in-late-april/",
+          "title": "Annulus brings a dark fantasy tactical RPG with a strong visual identity to mobile and PC on April 8, 2026",
+          "title_ko": "Annulus, 다크 판타지 전술 RPG가 2026년 4월 8일 모바일 및 PC로 출시됩니다.",
+          "link": "https://gamingonphone.com/news/annulus-brings-a-dark-fantasy-tactical-rpg-with-a-strong-visual-identity-to-mobile-and-pc-on-april-8-2026/",
           "date": "Mar 20, 2026",
           "thumbnail": "",
-          "summary_ko": "NEOWIZ의 신작 캐주얼 병합 퍼즐 게임 Cats & Soup: Magic Recipe가 4월 말 모바일로 출시됩니다.\n이 게임은 100종 이상의 귀여운 고양이와 함께 마법의 집을 짓고 아이템을 합치는 재미를 제공합니다.\n현재 미국, 캐나다 등 일부 국가에서 소프트 런칭 중이며, 글로벌 사전예약도 진행 중입니다."
+          "summary_ko": "Annulus는 수작업으로 제작된 비주얼, 몰입감 있는 세계관, 전술적 게임 플레이를 결합한 다크 판타지 RPG입니다.\n플레이어는 용병 부대를 지휘하며 턴제 전투에서 다양한 전략과 팀 구성을 활용해야 합니다.\n이 게임은 2026년 4월 8일 안드로이드, iOS, PC로 출시되며 현재 글로벌 사전 등록이 진행 중입니다."
         }
       ],
       "error": false
@@ -111,6 +111,14 @@
       "flag": "🌏",
       "regionLabel": "SEA Wide / Malaysia",
       "articles": [
+        {
+          "title": "Steam Spring Sale 2026 Ongoing; Here Are Some Suggestions",
+          "title_ko": "Steam Spring Sale 2026 진행 중, 추천 게임 목록 공개",
+          "link": "https://www.lowyat.net/2026/387309/steam-spring-sale-2026/",
+          "date": "Mar 20, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/Steam-Spring-Sale-2026-2-300x150.jpg",
+          "summary_ko": "Steam Spring Sale이 3월 27일까지 진행되며 최대 90% 할인 혜택을 제공합니다.\nResident Evil 3 2020, Call of Duty Modern Warfare 2023 등 다양한 인기 게임들이 할인 대상에 포함되었습니다.\n이번 세일 기간 동안 Resident Evil 시리즈의 많은 게임들이 큰 폭으로 할인되어 눈길을 끕니다."
+        },
         {
           "title": "Ubisoft To Cease Development At Red Storm Entertainment, Layoff More Than 100 Staff",
           "title_ko": "",
@@ -126,14 +134,6 @@
           "date": "Mar 20, 2026",
           "thumbnail": "https://www.lowyat.net/wp-content/uploads/2025/10/Oppo-Find-X9-Series-Launch-Pro-1-300x225.jpg",
           "summary_ko": "OPPO Find X9s와 Find X9 Ultra가 SIRIM 인증을 획득하여 현지 출시가 임박했습니다.\nFind X9s와 Find X9 Ultra 모델은 중국 시장 외 글로벌 시장에도 출시될 예정입니다.\nFind X9s는 6.3인치 OLED 디스플레이, 7,000mAh 배터리, 200MP 메인 카메라를 탑재할 것으로 예상됩니다."
-        },
-        {
-          "title": "Sony RX1R III Lightning Review: Compact Documentarian",
-          "title_ko": "",
-          "link": "https://www.lowyat.net/2026/387260/sony-rx1r-iii-lightning-review-compact-documentarian/",
-          "date": "Mar 19, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/sony-rx1r-iii-review_07-300x225.jpg",
-          "summary_ko": "Sony RX1R III는 61MP 고해상도 센서와 35mm 고정 초점 렌즈를 탑재한 하이엔드 컴팩트 카메라입니다.\n이 카메라는 이전 모델과 달리 더욱 깔끔해진 디자인과 내장형 EVF를 특징으로 하며, 경쟁 모델 대비 합리적인 가격을 제공합니다.\nRX1R III는 뛰어난 디테일과 저조도 성능을 자랑하며, 스텝 크롭 기능을 통해 50mm 및 70mm 초점 거리 시뮬레이션도 가능합니다."
         }
       ],
       "error": false
@@ -180,28 +180,28 @@
       "regionLabel": "Vietnam",
       "articles": [
         {
-          "title": "Sonic the Hedgehog 4 tung teaser trailer đầu tiên",
-          "title_ko": "Sonic the Hedgehog 4 첫 번째 티저 예고편 공개",
-          "link": "https://gamelade.vn/sonic-the-hedgehog-4-tung-teaser-trailer-dau-tien/",
+          "title": "Dissidia Duellum Final Fantasy ấn định ngày ra mắt, đưa dàn nhân vật huyền thoại đến Tokyo hiện đại",
+          "title_ko": "디시디아 듀얼럼 파이널 판타지, 현대 도쿄 배경으로 출시일 확정",
+          "link": "https://gamelade.vn/dissidia-duellum-final-fantasy-an-dinh-ngay-ra-mat-dua-dan-nhan-vat-huyen-thoai-den-tokyo-hien-dai/",
           "date": "Mar 20, 2026",
-          "thumbnail": "https://gamelade1.sgp1.digitaloceanspaces.com/wp-content/uploads/2026/03/MV5BMmIxMTdiNDctMDcyYi00N2RmLTk5Y2EtMWE5N2YzOTEyYjdlXkEyXkFqcGc%40._V1_-scaled.jpg",
-          "summary_ko": "Sonic the Hedgehog 4 영화의 첫 번째 티저 예고편이 공개되었으며, 2027년 개봉이 확정되었습니다.\n예고편은 에이미 로즈의 상징적인 망치가 등장하며 시작하여 카오스 에메랄드와 주요 캐릭터들의 모습을 보여줍니다.\n영화 로고의 숫자 4가 분홍색으로 디자인된 것은 에이미 로즈가 영화의 중심 역할을 할 것임을 암시합니다."
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/rrr-1.webp",
+          "summary_ko": "파이널 판타지 캐릭터들이 현대 도쿄를 배경으로 펼치는 RPG 게임입니다.\n3대3 팀 전투 시스템을 통해 협동과 경쟁의 재미를 동시에 제공합니다.\n새로운 멀티버스 위협에 맞서 싸우는 독특한 스토리를 선보입니다."
         },
         {
-          "title": "GigaBash công bố bản DLC Final Ascension cùng chai nhân vật mới",
-          "title_ko": "",
-          "link": "https://gamelade.vn/gigabash-cong-bo-ban-dlc-final-ascension-cung-chai-nhan-vat-moi/",
+          "title": "Two Point Museum vừa phát hành bản update 8.0 , mang đến màn hợp tác đáng chú ý với Angry Birds",
+          "title_ko": "투 포인트 뮤지엄, 앵그리버드와 협력한 8.0 업데이트 출시",
+          "link": "https://gamelade.vn/two-point-museum-vua-phat-hanh-ban-update-8-0-mang-den-man-hop-tac-dang-chu-y-voi-angry-birds/",
           "date": "Mar 20, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/Giga-Bash_2026_03-19-26_014-scaled.jpg",
-          "summary_ko": "GigaBash DLC Final Ascension이 새로운 캐릭터 Gaya Gigaman과 Zargorah를 포함하여 3월 26일에 출시됩니다.\n이 DLC는 새로운 맵, 음악, 그리고 스토리 모드의 새로운 챕터를 추가합니다.\nFinal Ascension은 GigaBash의 가장 야심찬 다운로드 가능한 콘텐츠로 평가받고 있습니다."
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/u-3.jpg",
+          "summary_ko": "투 포인트 뮤지엄에 앵그리버드 IP가 통합된 대규모 업데이트가 적용되었습니다.\n새로운 '디지버스 리프트'에서 앵그리버드 캐릭터와 함께 박물관을 꾸밀 수 있습니다.\n다양한 테마 상품과 상호작용 가능한 야생 동물 전시물이 추가되었습니다."
         },
         {
-          "title": "Sự trở lại đáng mong đợi của dự án game Neptunia Unlimited",
-          "title_ko": "",
-          "link": "https://gamelade.vn/su-tro-lai-dang-mong-doi-cua-du-an-game-neptunia-unlimited/",
+          "title": "Idle Clans tung bản update lớn nhất, bổ sung kỹ năng Invocation trước ngày rời Early Access",
+          "title_ko": "아이들 클랜, 얼리 액세스 종료 전 대규모 업데이트로 '소환' 스킬 추가",
+          "link": "https://gamelade.vn/idle-clans-tung-ban-update-lon-nhat-bo-sung-ky-nang-invocation-truoc-ngay-roi-early-access/",
           "date": "Mar 20, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/Neptunia-Unlimited-Ann_03-19-26.jpg",
-          "summary_ko": "Neptunia Unlimited가 10년 만에 새로운 메인 시리즈 게임으로 돌아옵니다.\n이 게임은 Nintendo Switch, Switch 2, PlayStation 4 및 PlayStation 5용으로 개발 중이며 8월 27일에 일본에서 출시될 예정입니다.\n새로운 캐릭터, 의상, 그리고 게임 플레이 메커니즘을 기대할 수 있습니다."
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/qqq-1.jpg",
+          "summary_ko": "아이들 클랜이 게임 출시 후 가장 큰 규모의 업데이트를 진행했습니다.\n새로운 '소환' 스킬은 유물 탐사와 전투 의식을 결합한 새로운 시스템입니다.\n이번 업데이트는 게임의 핵심인 아이들 루프를 더욱 풍부하게 만들 것입니다."
         }
       ],
       "error": false
@@ -214,28 +214,28 @@
       "regionLabel": "Thailand",
       "articles": [
         {
-          "title": "หลุดสเปก HUAWEI nova 16 Ultra ดันแบตทะลุ 7,000mAh พร้อมขยับไปใช้ชิปเรือธง Kirin 9 Series",
-          "title_ko": "",
-          "link": "https://droidsans.com/huawei-nova-16-ultra-spec-battery-leak/",
-          "date": "Mar 19, 2026",
+          "title": "หลุดสเปก OPPO Pad Mini ไซส์กะทัดรัด 8.8 นิ้ว จัดเต็มชิปเรือธง Snapdragon 8 Gen 5",
+          "title_ko": "OPPO Pad Mini สเปกแรง ชิป Snapdragon 8 Gen 5 จอ 8.8 นิ้ว",
+          "link": "https://droidsans.com/oppo-pad-mini-with-snapdragon-8-gen-5/",
+          "date": "Mar 20, 2026",
           "thumbnail": "",
-          "summary_ko": "HUAWEI nova 16 Ultra는 7,000mAh 배터리와 Kirin 9 시리즈 칩셋을 탑재할 것으로 예상됩니다.\n이 기기는 6.84인치 LTPO OLED 디스플레이와 1.5K 해상도를 제공할 것으로 보입니다.\n또한 50MP 메인 카메라와 50MP 초광각 카메라를 탑재할 가능성이 있습니다."
+          "summary_ko": "OPPO Pad Mini แท็บเล็ตขนาดกะทัดรัด 8.8 นิ้ว คาดว่าจะใช้ชิปเรือธง Snapdragon 8 Gen 5\nมีข่าวลือว่าแท็บเล็ตรุ่นนี้จะมาพร้อม RAM 8/12/16GB และพื้นที่เก็บข้อมูล 256/512GB\nคาดว่าจะเป็นคู่แข่งโดยตรงกับ HUAWEI MatePad Mini ในตลาดแท็บเล็ตขนาดเล็ก"
         },
         {
-          "title": "เปิดตัว realme Pad 3 และ realme Buds T500 Pro สเปคครบ ราคาดี",
-          "title_ko": "",
-          "link": "https://droidsans.com/realme-pad-3-and-realme-buds-t500-pro-now-launch-in-thailand/",
-          "date": "Mar 19, 2026",
+          "title": "วงในเผย Google เริ่มทดสอบ Gemini for Mac พร้อมฟีเจอร์ Desktop Intelligence สุดล้ำ",
+          "title_ko": "Google เริ่มทดสอบ Gemini for Mac พร้อมฟีเจอร์ Desktop Intelligence",
+          "link": "https://droidsans.com/google-testing-gemini-for-mac/",
+          "date": "Mar 20, 2026",
           "thumbnail": "",
-          "summary_ko": "realme Pad 3와 realme Buds T500 Pro가 출시되었습니다.\nrealme Pad 3는 11.6인치 2.8K 120Hz 디스플레이와 Dimensity 7300-Max 칩셋을 탑재했습니다.\n이 태블릿은 12,200mAh 배터리와 45W 고속 충전을 지원합니다."
+          "summary_ko": "Google กำลังทดสอบ Gemini for Mac ซึ่งคาดว่าจะมาพร้อมฟีเจอร์ Desktop Intelligence\nฟีเจอร์นี้จะช่วยให้ AI สามารถทำงานร่วมกับแอปพลิเคชันบน macOS ได้อย่างมีประสิทธิภาพมากขึ้น\nการทดสอบนี้บ่งชี้ว่า Google กำลังขยายการใช้งาน AI ไปยังแพลตฟอร์มเดสก์ท็อปอย่างจริงจัง"
         },
         {
-          "title": "iQOO Z11 เตรียมเผยโฉม 26 มี.ค.นี้ ชูสเปกแบต 9,020mAh พร้อมยืนยันสเปกหน้าจอ 165Hz",
-          "title_ko": "",
-          "link": "https://droidsans.com/iqoo-z11-launch-in-26-march-2026/",
-          "date": "Mar 19, 2026",
+          "title": "ผู้บริหารคอนเฟิร์ม Galaxy S26 Series จ่อรองรับ AirDrop ส่งไฟล์ข้ามค่ายได้เร็ว ๆ นี้",
+          "title_ko": "Galaxy S26 Series เตรียมรองรับ AirDrop ส่งไฟล์ข้ามค่ายได้เร็วๆ นี้",
+          "link": "https://droidsans.com/samsung-confirm-galaxy-s26-series-will-airdrop-supports/",
+          "date": "Mar 20, 2026",
           "thumbnail": "",
-          "summary_ko": "iQOO Z11이 3월 26일에 공개될 예정이며, 9,020mAh 배터리와 165Hz 디스플레이를 특징으로 합니다.\n이 기기는 MediaTek Dimensity 8500 칩셋과 16GB RAM을 탑재할 것으로 확인되었습니다.\nGeekbench 테스트 결과에 따르면 iQOO Z11은 뛰어난 성능을 보여줄 것으로 기대됩니다."
+          "summary_ko": "ผู้บริหารยืนยันว่า Galaxy S26 Series จะรองรับฟีเจอร์ส่งไฟล์แบบ AirDrop\nฟีเจอร์นี้จะช่วยให้การส่งไฟล์ระหว่างอุปกรณ์ Samsung และอุปกรณ์ค่ายอื่นเป็นไปได้อย่างสะดวกและรวดเร็ว\nคาดว่าฟีเจอร์นี้จะเปิดตัวพร้อมกับ Galaxy S26 Series ในปี 2025"
         }
       ],
       "error": false
@@ -248,28 +248,28 @@
       "regionLabel": "Indonesia",
       "articles": [
         {
-          "title": "Dev. Chill With You: Lo-Fi Story Temukan Bug yang Membuat Pemain Tidak Bisa Keluar dari Game",
-          "title_ko": "",
-          "link": "https://gamebrott.com/bug-chill-with-you-lofi-story-tidak-bisa-keluar/",
-          "date": "Mar 20, 2026",
-          "thumbnail": "https://www.youtube.com/embed/bqTVOyqhnGs",
-          "summary_ko": "Dev. Chill With You: Lo-Fi Story에서 플레이어가 게임을 종료할 수 없는 버그가 발견되었습니다.\n이 버그는 게임의 특별한 기능으로 인해 발생한 것으로 보입니다.\n이로 인해 게임의 재미가 반감될 수 있다는 우려가 있습니다."
+          "title": "Bethesda Beri Dukungan Terhadap Teknologi DLSS 5 Milik NVIDIA",
+          "title_ko": "Bethesda, NVIDIA DLSS 5 기술 지원 발표",
+          "link": "https://gamebrott.com/bethesda-dlss-5-nvidia/",
+          "date": "Mar 21, 2026",
+          "thumbnail": "",
+          "summary_ko": "Starfield가 PS5 버전으로 출시될 예정입니다.\n두 번째 스토리 DLC인 \"Terran Armada\"도 함께 제공됩니다.\nBethesda는 NVIDIA의 DLSS 5 기술을 지원할 것입니다."
         },
         {
-          "title": "CEO NVIDIA Sebut Gamer Salah Paham Terhadap DLSS 5",
-          "title_ko": "",
-          "link": "https://gamebrott.com/ceo-nvidia-dlss-5-gamer-salah-paham/",
-          "date": "Mar 20, 2026",
+          "title": "7 Game RPG Terbaik 2026 Edisi Lebaran, Cocok untuk Libur Panjang",
+          "title_ko": "2026년 최고의 RPG 게임 7가지, 긴 휴가에 적합",
+          "link": "https://gamebrott.com/game-rpg-terbaik-2026-edisi-lebaran/",
+          "date": "Mar 21, 2026",
           "thumbnail": "",
-          "summary_ko": "NVIDIA CEO는 게이머들이 DLSS 5에 대해 오해하고 있다고 밝혔습니다.\n새롭게 발표된 DLSS 5는 오히려 인터넷에서 밈의 소재가 되었습니다.\n이는 DLSS 5의 새로운 기능에 대한 게이머들의 반응이 예상과 달랐기 때문입니다."
+          "summary_ko": "Lo-Fi Story 개발팀은 플레이어가 게임을 종료할 수 없는 버그를 발견했습니다.\n일부 네티즌들은 이 버그가 수정되지 않기를 바라고 있습니다.\n이 버그는 플레이어가 게임에서 벗어날 수 없게 만듭니다."
         },
         {
-          "title": "7 Game Santai Spesial Liburan Terbaik Saat Kumpul Lebaran Tahun 2026",
-          "title_ko": "",
-          "link": "https://gamebrott.com/game-santai-spesial-liburan-lebaran-tahun-2026/",
+          "title": "7 Game Anime Terbaik Spesial Lebaran 2026, Pengisi Libur Panjang Kamu",
+          "title_ko": "2026년 특별 애니메이션 게임 7가지, 긴 휴가에 적합",
+          "link": "https://gamebrott.com/game-anime-terbaik-spesial-lebaran/",
           "date": "Mar 20, 2026",
           "thumbnail": "",
-          "summary_ko": "2026년 명절 기간에 즐기기 좋은 편안한 게임 7가지가 소개되었습니다.\n특히 라마단 기간에 즐기기 좋은 시뮬레이션 게임들이 추천되었습니다.\n이 게임들은 가족들과 함께 모여 즐거운 시간을 보내기에 적합합니다."
+          "summary_ko": "2026년 라마단 기간 동안 향수를 불러일으키는 추억을 되살릴 수 있는 최고의 옛날 게임 20가지\n이 게임들은 라마단 기간 동안 향수를 불러일으킬 것입니다.\n이 게임들은 긴 휴가를 보내기에 적합합니다."
         }
       ],
       "error": false
