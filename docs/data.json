@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24 01:15 UTC",
+  "updated_at": "2026-03-25 01:20 UTC",
   "ai_summary": true,
   "sources": [
     {
@@ -10,28 +10,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
-          "title": "How Kie.ai’s Gemini 3 Flash API Fits Gaming Tools, Live Chat, and Player Support",
-          "title_ko": "Kie.ai의 Gemini 3 Flash API가 게임 도구, 라이브 채팅 및 플레이어 지원에 적합한 이유",
-          "link": "https://www.back2gaming.com/news/how-kie-ais-gemini-3-flash-api-fits-gaming-tools-live-chat-and-player-support/",
-          "date": "Mar 20, 2026",
-          "thumbnail": "",
-          "summary_ko": "Kie.ai의 Gemini 3 Flash API는 낮은 지연 시간과 높은 빈도의 사용 사례에 최적화되어 있습니다.\n이 API는 게임 도구에 필요한 빠른 응답 속도와 복잡한 추론 능력을 모두 제공합니다.\n이를 통해 게임 개발팀은 플레이어 지원 및 커뮤니티 도구의 성능을 향상시킬 수 있습니다."
+          "title": "Arm Debuts AGI CPU: Their First Physical Product Co-Developed with Meta",
+          "title_ko": "Arm, Meta 공동 개발 AGI CPU 공개",
+          "link": "https://www.back2gaming.com/news/arm-debuts-agi-cpu-their-first-physical-product-co-developed-with-meta/",
+          "date": "Mar 25, 2026",
+          "thumbnail": "https://www.youtube.com/embed/sqJancqeVbk",
+          "summary_ko": "Arm이 35년 역사상 처음으로 자체 실리콘 제품인 Arm AGI CPU를 선보입니다.\n이 고성능 프로세서는 Meta와 협력하여 대규모 Agentic AI 인프라를 지원하도록 설계되었습니다.\nArm은 완성된 실리콘을 제공하여 하이퍼스케일러의 칩 설계 및 배포 시간을 단축합니다."
         },
         {
-          "title": "The Hidden Technology Behind Secure Online Transactions",
-          "title_ko": "안전한 온라인 거래의 숨겨진 기술",
-          "link": "https://www.back2gaming.com/igaming/the-hidden-technology-behind-secure-online-transactions/",
-          "date": "Mar 20, 2026",
+          "title": "Colorful Announces Intel Core Ultra 200S Plus Support and New 800-Series Motherboards",
+          "title_ko": "Colorful, Intel Core Ultra 200S Plus 지원 및 신형 800 시리즈 메인보드 발표",
+          "link": "https://www.back2gaming.com/news/colorful-announces-intel-core-ultra-200s-plus-support-and-new-800-series-motherboards/",
+          "date": "Mar 24, 2026",
           "thumbnail": "",
-          "summary_ko": "온라인 거래 시 사용자의 개인 정보는 TLS와 토큰화 기술로 보호됩니다.\nTLS는 브라우저와 서버 간의 안전한 암호화 통신 채널을 생성합니다.\n토큰화는 실제 카드 정보를 무가치한 토큰으로 대체하여 보안을 강화합니다."
+          "summary_ko": "Colorful은 Intel 800 시리즈 메인보드에 대한 BIOS 업데이트를 통해 Core Ultra 200S Plus 프로세서 호환성을 제공합니다.\n새로운 메인보드 라인업에는 BTF 3.0을 지원하는 iGame Z890M ULTRA Z와 흰색 테마의 iGame Z890 ULTRA-S W 등이 포함됩니다.\n기존 800 시리즈 메인보드 사용자들은 공식 웹사이트에서 Core Ultra 200S Plus BIOS 업데이트를 다운로드할 수 있습니다."
         },
         {
-          "title": "US Prosecutors Indict Three Individuals in Alleged AI Chip Export Conspiracy",
-          "title_ko": "AI 칩 수출 음모 혐의로 미국 검찰, 3명 기소",
-          "link": "https://www.back2gaming.com/news/us-prosecutors-indict-three-individuals-in-alleged-ai-chip-export-conspiracy/",
-          "date": "Mar 20, 2026",
-          "thumbnail": "https://www.youtube.com/embed/VZV_j35a4nY",
-          "summary_ko": "미국 검찰은 NVIDIA AI 칩이 장착된 고성능 서버를 중국으로 불법 수출하려 한 혐의로 3명을 기소했습니다.\n이들은 Super Micro Computer의 임직원 및 외부 계약자로, 중국 수출 통제 규정을 위반한 혐의를 받고 있습니다.\n검찰은 이들이 중간 업체를 이용하고 하드웨어 라벨을 조작하는 등 기만적인 수법을 사용했다고 주장합니다."
+          "title": "NBI Seizes ₱31.4M in Counterfeit Seagate and Sandisk Storage Devices in Manila",
+          "title_ko": "NBI, 마닐라에서 3140만 페소 상당의 위조 Seagate 및 Sandisk 저장 장치 압수",
+          "link": "https://www.back2gaming.com/news/nbi-seizes-%e2%82%b131-4m-in-counterfeit-seagate-and-sandisk-storage-devices-in-manila/",
+          "date": "Mar 24, 2026",
+          "thumbnail": "https://www.youtube.com/embed/KmmUGO3ZQJU",
+          "summary_ko": "필리핀 국립수사국(NBI)이 마닐라에서 3140만 페소 상당의 위조 데이터 저장 장치를 압수했습니다.\n압수된 물품에는 SANDISK 및 SEAGATE 상표를 위조한 SD 카드, USB 드라이브, 외장 하드 드라이브 등이 포함되었습니다.\n관련 업체들은 상표권 침해 혐의로 형사 기소될 예정입니다."
         }
       ],
       "error": false
@@ -78,28 +78,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
-          "title": "Subnautica: Below Zero Review: A mesmerizing return that doesn’t fail in giving you the chills",
-          "title_ko": "Subnautica: Below Zero 리뷰: 오싹함을 선사하는 매혹적인 복귀",
-          "link": "https://gamingonphone.com/reviews/subnautica-below-zero-game-review/",
+          "title": "Kuroko’s Basketball Street Rivals redeem codes and how to use them (March 2026)",
+          "title_ko": "쿠로코의 농구 스트리트 라이벌 리딤 코드 및 사용 방법",
+          "link": "https://gamingonphone.com/guides/kurokos-basketball-street-rivals-redeem-codes-and-how-to-use-them/",
+          "date": "Mar 25, 2026",
+          "thumbnail": "",
+          "summary_ko": "쿠로코의 농구 스트리트 라이벌 게임에서 사용할 수 있는 리딤 코드 목록을 제공합니다.\n리딤 코드는 게임 진행에 도움이 되는 아이템을 무료로 제공합니다.\n리딤 코드는 기간 한정으로 제공되므로 만료 전에 사용해야 합니다."
+        },
+        {
+          "title": "Lilith Games’ Ace Trainers, now renamed to Clash of Critters, opens global pre-registration on mobile",
+          "title_ko": "Clash of Critters, 모바일 글로벌 사전 등록 시작",
+          "link": "https://gamingonphone.com/news/lilith-games-ace-trainers-now-renamed-to-clash-of-critters-opens-global-pre-registration-on-mobile/",
           "date": "Mar 24, 2026",
           "thumbnail": "",
-          "summary_ko": "Subnautica: Below Zero는 전작과 유사한 생존 루프를 유지하면서도 새로운 스토리와 얼음 환경을 제공합니다.\n플레이어는 로빈이 되어 여동생의 죽음에 얽힌 미스터리를 파헤치며 고립감 속에서도 완전히 혼자가 아니라는 느낌을 받습니다.\n이 게임은 모바일에서도 플레이할 수 있으며, 익숙한 행성에서 펼쳐지는 더욱 개인적인 이야기가 특징입니다."
+          "summary_ko": "Clash of Critters는 크리처 수집, 좀비 전투, 그리고 예상치 못한 핀볼 요소가 결합된 게임입니다.\n이전 Ace Trainers에서 이름이 변경되었으며, 100종 이상의 크리처와 강력한 콤보, 기지 건설 등을 제공합니다.\n글로벌 출시는 2026년 5월 22일로 예상되며, 현재 사전 등록을 받고 있습니다."
         },
         {
-          "title": "Wild Tamer redeem codes and how to use them (March 2026)",
-          "title_ko": "Wild Tamer 리딤 코드 및 사용 방법 (2026년 3월)",
-          "link": "https://gamingonphone.com/guides/wild-tamer-redeem-codes-and-how-to-use-them/",
-          "date": "Mar 23, 2026",
+          "title": "Kuroko’s Basketball Street Rivals Team Composition Guide and Tips",
+          "title_ko": "쿠로코의 농구 스트리트 라이벌 팀 구성 가이드 및 팁",
+          "link": "https://gamingonphone.com/guides/kurokos-basketball-street-rivals-team-composition-guide-and-tips/",
+          "date": "Mar 24, 2026",
           "thumbnail": "",
-          "summary_ko": "Wild Tamer는 현재 사용 가능한 리딤 코드가 없으며, 게임 내 코드 입력 기능도 아직 지원하지 않습니다.\n개발사는 커뮤니티 지원을 위해 향후 리딤 코드를 출시할 가능성이 있으며, 출시 시 기사에서 업데이트될 예정입니다.\n이 게임은 111%에서 개발한 액션 RPG로, 다양한 몬스터를 길들여 전투하는 재미를 제공합니다."
-        },
-        {
-          "title": "BALL x PIT redeem codes and how to use them (March 2026)",
-          "title_ko": "BALL x PIT 리딤 코드 및 사용 방법 (2026년 3월)",
-          "link": "https://gamingonphone.com/guides/ball-x-pitball-x-pit-redeem-codes-and-how-to-use-them/",
-          "date": "Mar 23, 2026",
-          "thumbnail": "",
-          "summary_ko": "BALL x PIT는 현재 사용 가능한 리딤 코드가 없으며, 게임 내 코드 입력 기능도 아직 지원하지 않습니다.\n개발사는 향후 리딤 코드를 출시할 가능성이 있으며, 출시 시 공식 소셜 미디어 채널이나 이 기사를 통해 업데이트될 것입니다.\n이 게임은 DevolverDigital에서 출시한 베이스 빌딩 서바이벌 로그라이트 게임으로, 독특한 볼과 보물 사냥꾼을 활용하여 뉴 볼라비온을 재건하는 내용을 담고 있습니다."
+          "summary_ko": "개별 능력만으로는 승리하기 어렵기 때문에 균형 잡힌 팀 구성이 중요합니다.\n이 가이드에서는 팀 역할과 실용적인 팀 구성 예시를 제공하여 승리하는 팀을 만드는 데 도움을 줍니다.\n가드, 포워드, 센터의 세 가지 필수 포지션을 이해하고 각 역할에 맞는 선수를 배치해야 합니다."
         }
       ],
       "error": false
@@ -112,28 +112,28 @@
       "regionLabel": "SEA Wide / Malaysia",
       "articles": [
         {
-          "title": "Tecno Camon 50 Ultra Review: A Fancy Facade",
-          "title_ko": "Tecno Camon 50 Ultra 리뷰: 화려한 외관",
-          "link": "https://www.lowyat.net/2026/386829/tecno-camon-50-ultra-review/",
+          "title": "Intel Core Ultra 7 270K Plus Review: Far Better Performance Than I Expected",
+          "title_ko": "Intel Core Ultra 7 270K Plus 리뷰: 예상보다 훨씬 뛰어난 성능",
+          "link": "https://www.lowyat.net/2026/387375/intel-core-ultra-7-270k-plus-review/",
           "date": "Mar 24, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/tecno-camon-50-ultra-review-1-300x225.jpg",
-          "summary_ko": "Tecno Camon 50 Ultra는 Tecno의 카메라 중심 Camon 50 시리즈 중 유일하게 출시된 모델입니다.\n이 기기는 midrange 범주에 속하며, 다른 변형 모델에 비해 고급스러운 디자인을 갖추고 있습니다.\nAI 기능이 탑재되어 있으며, 원터치 버튼의 위치와 기능에 대한 설명이 포함되어 있습니다."
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/Intel-Core-Ultra-7-270K-Plus-Review-1-300x169.jpg",
+          "summary_ko": "Intel Core Ultra 200S Plus 시리즈의 Core Ultra 7 270K Plus는 예상보다 뛰어난 성능을 보여줍니다.\n새로운 Direct-to-Device (D2D) 명령어와 Binary Optimisation Tool이 성능 향상의 핵심입니다.\nCore Ultra 9 285K와 유사한 코어 수와 클럭 속도를 가지면서도 더 저렴한 가격으로 출시되었습니다."
         },
         {
-          "title": "Nintendo Switch 2 To Get Replaceable Battery Design For EU Market",
-          "title_ko": "Nintendo Switch 2, EU 시장용 교체 가능 배터리 디자인 적용",
-          "link": "https://www.lowyat.net/2026/387327/nintendo-switch-2-to-get-replaceable-battery-design-for-eu-market/",
-          "date": "Mar 23, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2025/06/Nintendo-Switch-2-Aus-Unit-17-300x225.jpg",
-          "summary_ko": "Nintendo는 유럽 연합(EU) 시장을 위해 Nintendo Switch 2의 특별 버전을 출시할 예정입니다.\n2027년 2월부터 EU 국가에서 판매되는 모든 Switch 2는 소비자가 쉽게 배터리를 교체할 수 있도록 설계될 것입니다.\n이는 EU의 수리권 법규 준수를 위한 것으로, 휴대용 기기의 전자 폐기물을 줄이는 것을 목표로 합니다."
+          "title": "You Can Now Print Documents At Select 7-Eleven Malaysia Outlets",
+          "title_ko": "이제 말레이시아 일부 7-Eleven 매장에서 문서를 인쇄할 수 있습니다.",
+          "link": "https://www.lowyat.net/2026/387361/you-can-now-print-documents-at-select-7-eleven-malaysia-outlets/",
+          "date": "Mar 24, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/7-eleven-print-1-300x169.jpg",
+          "summary_ko": "7-Eleven Malaysia는 Print@7E라는 문서 인쇄 서비스를 새롭게 선보입니다.\n이 서비스는 24시간 이용 가능하며, 온라인으로 문서를 업로드하고 QR 코드를 통해 매장에서 인쇄할 수 있습니다.\n페이지당 30센트부터 시작하는 합리적인 가격으로 이용 가능하며, 온라인 및 현금 결제가 모두 지원됩니다."
         },
         {
-          "title": "Two Problems With Spider-Man Having A Samsung Galaxy Z Flip7 In Brand New Day Trailer",
-          "title_ko": "Spider-Man: Brand New Day 트레일러에서 Peter Parker가 Samsung Galaxy Z Flip7을 사용하는 두 가지 문제점",
-          "link": "https://www.lowyat.net/2026/387324/two-problems-spider-man-a-samsung-galaxy-z-flip7-brand-new-day/",
-          "date": "Mar 23, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/Spider-Man-Brand-New-Day-300x169.jpg",
-          "summary_ko": "Sony는 자사 영화에서 자사 휴대폰을 홍보하는 경향이 있지만, Spider-Man: Brand New Day 트레일러에서는 Samsung Galaxy Z Flip7이 등장합니다.\nPeter Parker는 저소득층 학생으로 묘사되는데, 고가의 Samsung Galaxy Z Flip7을 사용하는 것은 그의 재정 상황과 맞지 않습니다.\n또한, Sony 영화임에도 불구하고 Sony 휴대폰이 아닌 Samsung 휴대폰이 등장하며, 일부 Sony 휴대폰은 해당 시장에서 5G 문제로 판매되지 않는다는 점도 지적됩니다."
+          "title": "OPPO Find X9 Ultra To Get April Launch In Malaysia",
+          "title_ko": "OPPO Find X9 Ultra, 말레이시아 4월 출시 예정",
+          "link": "https://www.lowyat.net/2026/387358/oppo-find-x9-ultra-april-launch-malaysia/",
+          "date": "Mar 24, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/OPPO-Find-X9-Ultra-April-300x200.jpg",
+          "summary_ko": "OPPO는 말레이시아에서 Find X9 Ultra 스마트폰을 4월에 출시할 예정이라고 밝혔습니다.\n이전 유출 정보에 따르면 6.8인치 2K 화면, Snapdragon 8 Elite Gen 5, 7,000mAh 배터리가 탑재될 것으로 예상됩니다.\n카메라 구성은 200MP 메인 센서를 포함한 Hasselblad 협업 제품이 될 것으로 보입니다."
         }
       ],
       "error": false
@@ -180,28 +180,28 @@
       "regionLabel": "Vietnam",
       "articles": [
         {
-          "title": "Potion Permit phát hành miễn phí trên Epic Games Store, trải nghiệm làm “thầy thuốc” giữa thế giới giả tưởng",
-          "title_ko": "Potion Permit, 판타지 세계에서 \"의사\"가 되는 시뮬레이션 게임, Epic Games Store에서 무료 제공",
-          "link": "https://gamelade.vn/potion-permit-phat-hanh-mien-phi-tren-epic-games-store-trai-nghiem-lam-thay-thuoc-giua-the-gioi-gia-tuong/",
-          "date": "Mar 23, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/q-8.jpg",
-          "summary_ko": "Potion Permit은 Epic Games Store에서 기간 한정 무료로 제공됩니다.\n플레이어는 Moonbury 마을의 의사 역할을 맡아 주민들의 신뢰를 얻어야 합니다.\n이 게임은 진단, 치료, 퍼즐 미니게임을 포함한 다양한 게임 플레이를 제공합니다."
+          "title": "Huyền thoại Patlabor trở lại với phiên bản game hành động 3D mới trên PS5 và PC",
+          "title_ko": "PATLABOR the Case Files",
+          "link": "https://gamelade.vn/huyen-thoai-patlabor-tro-lai-voi-phien-ban-game-hanh-dong-3d-moi-tren-ps5-va-pc/",
+          "date": "Mar 24, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/e-7.jpg",
+          "summary_ko": "전설적인 Patlabor가 PS5와 PC용 신규 3D 액션 게임으로 돌아옵니다.\n이 게임은 원작의 명장면들을 재현하며, 20종 이상의 다양한 Labor 기체가 등장합니다.\n플레이어는 특수 차량 섹션 2를 조종하거나 상대방의 시점에서 미션을 수행할 수 있습니다."
         },
         {
-          "title": "Annulus gây chú ý trước ngày ra mắt với phong cách nghệ thuật độc đáo",
-          "title_ko": "Annulus, 독특한 아트 스타일로 출시 전부터 주목받는 게임",
-          "link": "https://gamelade.vn/annulus-gay-chu-y-truoc-ngay-ra-mat-voi-phong-cach-nghe-thuat-doc-dao/",
-          "date": "Mar 23, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/e-3.webp",
-          "summary_ko": "Annulus는 4월 6일 iOS 및 Android 출시 예정인 신작 RPG 전략 게임입니다.\n어두운 판타지 배경과 세밀한 캐릭터 및 환경 디자인이 특징입니다.\nFire Emblem이나 Final Fantasy Tactics와 유사한 턴제 전투 시스템을 제공합니다."
+          "title": "Mochi-O ra mắt trên mobile với gameplay hành động tốc độ cao kết hợp nuôi thú ảo độc đáo",
+          "title_ko": "Mochi-O",
+          "link": "https://gamelade.vn/mochi-o-ra-mat-tren-mobile-voi-gameplay-hanh-dong-toc-do-cao-ket-hop-nuoi-thu-ao-doc-dao/",
+          "date": "Mar 24, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/qq-2.jpg",
+          "summary_ko": "Mochi-O가 독특한 육성 요소와 결합된 고속 액션 게임플레이로 모바일에 출시되었습니다.\n플레이어는 작은 햄스터를 조종하여 침략 세력에 맞서 싸우며, 동시에 햄스터를 육성해야 합니다.\n이 게임은 일본 게임 특유의 높은 엔터테인먼트성과 유머를 연상시킵니다."
         },
         {
-          "title": "Mamon King chính thức ra mắt trên PS5",
-          "title_ko": "Mamon King, PS5에 공식 출시",
-          "link": "https://gamelade.vn/mamon-king-chinh-thuc-ra-mat-tren-ps5/",
-          "date": "Mar 23, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/u-5.jpg",
-          "summary_ko": "Mamon King이 3월 20일 PlayStation 5에 출시되었습니다.\n플레이어는 Mamons를 육성하고 훈련하여 Mamon King 타이틀을 획득해야 합니다.\n38종의 Mamons와 170개 이상의 스킬을 통해 깊이 있는 게임 플레이를 제공합니다."
+          "title": "Coffee Talk chính thức phát hành tập đầu tiên trên mobile",
+          "title_ko": "Coffee Talk",
+          "link": "https://gamelade.vn/coffee-talk-chinh-thuc-phat-hanh-tap-dau-tien-tren-mobile/",
+          "date": "Mar 24, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/w-4.webp",
+          "summary_ko": "인기 비주얼 노벨 게임 Coffee Talk의 첫 번째 에피소드가 모바일로 출시되었습니다.\n플레이어는 바리스타가 되어 손님들의 이야기를 듣고 음료를 제공하며 교감합니다.\n이 게임은 빠른 액션 대신 느긋한 게임플레이와 편안한 분위기를 제공합니다."
         }
       ],
       "error": false
@@ -214,28 +214,28 @@
       "regionLabel": "Thailand",
       "articles": [
         {
-          "title": "Microsoft ประกาศยกระดับ Windows 11 ย้ายตำแหน่ง Taskbar ได้ ลดจุดเข้าใช้ Copilot ในแอปต่าง ๆ",
-          "title_ko": "Windows 11, 작업 표시줄 위치 변경 및 Copilot 접근성 개선",
-          "link": "https://droidsans.com/microsoft-prepared-to-give-windows-11-reworks-a-lot-in-2026/",
+          "title": "หลุดสเปก REDMI Note 16 Series เตรียมจัดหนักแบต 10,000mAh เล็งขึ้นแท่นมือถือแบตเยอะสุดของค่าย",
+          "title_ko": "REDMI Note 16 Series 배터리 10,000mAh 탑재 루머",
+          "link": "https://droidsans.com/redmi-note-16-series-spec-leak-with-battery-10000-mah/",
           "date": "Mar 24, 2026",
           "thumbnail": "",
-          "summary_ko": "Microsoft는 Windows 11의 작업 표시줄 위치를 사용자가 원하는 곳으로 옮길 수 있도록 업데이트합니다.\n또한 다양한 앱에서 Copilot에 더 쉽게 접근할 수 있도록 기능을 개선했습니다.\n이번 업데이트는 사용자 편의성을 높이는 데 중점을 두었습니다."
+          "summary_ko": "REDMI Note 16 시리즈는 10,000mAh의 대용량 배터리를 탑재할 것으로 예상됩니다.\n이는 해당 제조사에서 출시될 스마트폰 중 가장 큰 배터리 용량이 될 수 있습니다.\n200MP 카메라와 100W 고속 충전 지원도 루머에 포함되어 있습니다."
         },
         {
-          "title": "เปิดตัว HUAWEI Enjoy 90 Pro Max มือถือแบต 8,500mAh ชิป Kirin 8000",
-          "title_ko": "HUAWEI Enjoy 90 Pro Max, 8,500mAh 배터리와 Kirin 8000 칩셋 탑재",
-          "link": "https://droidsans.com/huawei-enjoy-90-pro-max-china-spec/",
-          "date": "Mar 23, 2026",
+          "title": "หลุดสเปก OnePlus Ace 6 Ultra จ่อใช้ Dimensity 9500 หวังท้าชน REDMI K90 Ultra",
+          "title_ko": "OnePlus Ace 6 Ultra, Dimensity 9500 탑재 루머로 REDMI K90 Ultra와 경쟁 예상",
+          "link": "https://droidsans.com/oneplus-ace-6-ultra-spec-leak-with-dimensity-9500/",
+          "date": "Mar 24, 2026",
           "thumbnail": "",
-          "summary_ko": "HUAWEI Enjoy 90 Pro Max가 8,500mAh의 대용량 배터리와 Kirin 8000 칩셋을 탑재하고 출시되었습니다.\n이 스마트폰은 40W SuperCharge 고속 충전을 지원합니다.\nHarmonyOS를 기반으로 하며, 뛰어난 성능과 긴 배터리 수명을 제공합니다."
+          "summary_ko": "OnePlus Ace 6 Ultra는 Dimensity 9500 칩셋을 탑재하여 REDMI K90 Ultra와 경쟁할 것으로 보입니다.\n이 스마트폰은 6.8인치 165Hz 디스플레이와 9,000mAh 배터리를 탑재할 것으로 예상됩니다.\n80W 고속 충전 기능도 지원할 것으로 알려졌습니다."
         },
         {
-          "title": "HUAWEI Mate 80 Pro เปิดจองในไทยแล้ว สเปคจัดเต็ม ของแถมพรีออเดอร์จัดหนัก",
-          "title_ko": "HUAWEI Mate 80 Pro, 태국 사전 예약 시작 및 최고 사양 제공",
-          "link": "https://droidsans.com/huawei-mate-80-pro-promotion-thailand-details/",
-          "date": "Mar 23, 2026",
+          "title": "OnePlus Nord 6 จ่อเปิดตัว 7 เม.ย. นี้ ลุ้นมาพร้อมรุ่นพิเศษ Naruto Edition",
+          "title_ko": "OnePlus Nord 6, 4월 7일 출시 예정 및 Naruto 에디션 가능성",
+          "link": "https://droidsans.com/oneplus-nord-6-launch-in-7-april/",
+          "date": "Mar 24, 2026",
           "thumbnail": "",
-          "summary_ko": "HUAWEI Mate 80 Pro가 태국에서 사전 예약에 들어갔으며, 최고 사양과 풍성한 사전 예약 혜택을 제공합니다.\n이 모델은 XMAGE 기술, Kunlun Glass, IP68 및 IP69 방수 방진 기능 등을 갖추고 있습니다.\n7.95mm의 얇은 두께와 120Hz 주사율의 OLED 디스플레이를 특징으로 합니다."
+          "summary_ko": "OnePlus Nord 6가 4월 7일에 출시될 예정이며, Naruto 스페셜 에디션이 함께 공개될 가능성이 있습니다.\n이 모델은 Snapdragon 8s Gen 4 칩셋과 12GB RAM을 탑재할 것으로 예상됩니다.\n9,000mAh 배터리와 80W 고속 충전을 지원할 것으로 보입니다."
         }
       ],
       "error": false
@@ -247,6 +247,14 @@
       "flag": "🇮🇩",
       "regionLabel": "Indonesia",
       "articles": [
+        {
+          "title": "Crimson Desert Sukses Catat Penjualan 3 Juta Unit",
+          "title_ko": "크림슨 디센트, 300만 장 판매 기록",
+          "link": "https://gamebrott.com/crimson-desert-sukses-catat-penjualan-3-juta-unit/",
+          "date": "Mar 24, 2026",
+          "thumbnail": "https://www.youtube.com/embed/VWIw_f8e9Pg",
+          "summary_ko": "크림슨 디센트가 스팀에서 23만 9천 명의 동시 접속자 수를 기록했습니다.\n이 게임의 판매량은 앞으로도 계속 증가할 것으로 예상됩니다."
+        },
         {
           "title": "ByteDance Telah Setuju Menjual Moonton ke Perusahaan Asal Arab Saudi",
           "title_ko": "바이트댄스, 무툰 사우디아라비아 기업에 매각 합의",
@@ -262,14 +270,6 @@
           "date": "Mar 22, 2026",
           "thumbnail": "",
           "summary_ko": "Ubisoft Ghost Recon 스튜디오 팀에서 또 다른 해고 사건이 발생했습니다.\n이번 사건은 Ghost Recon 팀을 대상으로 이루어졌습니다.\n이전에도 Ubisoft 직원 해고 사례가 있었습니다."
-        },
-        {
-          "title": "Crimson Desert Catat Jumlah Pemain Bersamaan Sebanyak 239 Ribu Orang di Steam",
-          "title_ko": "Crimson Desert, Steam 동시 접속자 23만 9천 명 기록",
-          "link": "https://gamebrott.com/crimson-desert-jumlah-pemain-239-ribu-steam/",
-          "date": "Mar 22, 2026",
-          "thumbnail": "",
-          "summary_ko": "Crimson Desert가 Steam에서 23만 9천 명의 동시 접속자 수를 기록했습니다.\nCrimson Desert 출시 후 Pearl Abyss 주가가 약 30% 하락했습니다.\nPearl Abyss는 Crimson Desert의 개발사입니다."
         }
       ],
       "error": false
@@ -282,28 +282,28 @@
       "regionLabel": "Malaysia",
       "articles": [
         {
+          "title": "Daredevil: Born Again Season 2 Review – A Grittier Follow-Up To The Man In Red",
+          "title_ko": "데어데블: 본 어게인 시즌 2 리뷰 – 붉은 망토를 두른 자의 더 거친 후속작",
+          "link": "https://www.kakuchopurei.com/2026/03/daredevil-born-again-season-2-review-kkp/",
+          "date": "Mar 25, 2026",
+          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/03/daredevilBA_S2_01.jpg",
+          "summary_ko": "시즌 2는 이전 시즌의 단점들을 개선하여 호평을 받았습니다.\n주인공 맷 머독과 카렌 페이지는 윌슨 피스크 시장의 부패에 맞서 싸웁니다.\n새로운 인물들과 함께 긴장감 넘치는 전개가 펼쳐집니다."
+        },
+        {
+          "title": "Project Hail Mary Review – Interstellar",
+          "title_ko": "프로젝트 헤일 메리 리뷰 – 인터스텔라",
+          "link": "https://www.kakuchopurei.com/2026/03/project-hail-mary-review-kkp/",
+          "date": "Mar 24, 2026",
+          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/03/projecthailmary_03.png",
+          "summary_ko": "라이언 고슬링은 영화에서 과학 교사 출신 우주비행사로 완벽한 연기를 선보입니다.\n주인공은 지구의 태양 소멸 문제를 해결하기 위해 우주 임무를 수행합니다.\n외계 생명체 '로키'와 협력하며 지구로 돌아갈 방법을 찾습니다."
+        },
+        {
           "title": "Screamer (2026) Review: Arcade Racing’s Back, Baby!",
           "title_ko": "스크리머 (2026) 리뷰: 아케이드 레이싱이 돌아왔다!",
           "link": "https://www.kakuchopurei.com/2026/03/screamer-2026-review-kkp/",
           "date": "Mar 23, 2026",
           "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/03/screamer2026_02.jpg",
           "summary_ko": "Screamer (2026)은 90년대 아케이드 레이싱의 정신을 계승한 게임입니다.\n이 게임은 플레이어와 차량이 충돌 시 부활하는 신기술을 특징으로 하는 불법 스트리트 레이싱 토너먼트를 중심으로 이야기가 전개됩니다.\n다양한 팀과 그들의 레이서들이 등장하며, 게임 플레이와 함께 스토리 모드가 진행됩니다."
-        },
-        {
-          "title": "HyperX Solocast 2 Review: Shout It Out",
-          "title_ko": "HyperX SoloCast 2 리뷰: 소리쳐봐",
-          "link": "https://www.kakuchopurei.com/2026/03/hyperx-solocast-2-review/",
-          "date": "Mar 22, 2026",
-          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/03/hyperX_Solocast2_02.jpg",
-          "summary_ko": "HyperX SoloCast 2는 합리적인 가격에 뛰어난 성능을 제공하는 USB 마이크입니다.\n설치가 간편하며, 깔끔한 디자인과 견고한 만듦새를 자랑합니다.\n24비트/96kHz 녹음, 팝 필터, 쇼크 마운트 등 전문적인 기능도 갖추고 있습니다."
-        },
-        {
-          "title": "iQOO 15R Smartphone Review: The Best Gaming Phone Of 2026 That Won’t Kill Your Wallet?",
-          "title_ko": "",
-          "link": "https://www.kakuchopurei.com/2026/03/iqoo-15r-smartphone-review-kkp/",
-          "date": "Mar 20, 2026",
-          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/03/iqoo15r_02.jpg",
-          "summary_ko": "iQOO 15R은 합리적인 가격으로 플래그십급 성능을 제공하는 미드레인지 스마트폰입니다.\n스냅드래곤 8 Gen 5 칩셋과 12GB RAM으로 앱과 게임이 매우 부드럽게 실행됩니다.\n견고한 본체와 OriginOS 6 운영체제가 뛰어난 사용자 경험을 제공합니다."
         }
       ],
       "error": false
