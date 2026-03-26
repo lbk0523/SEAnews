@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25 01:20 UTC",
+  "updated_at": "2026-03-26 01:25 UTC",
   "ai_summary": true,
   "sources": [
     {
@@ -10,28 +10,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
+          "title": "CHUWI Issues Response to Mislabelled CPU Scandal",
+          "title_ko": "CHUWI, mislabeled CPU 스캔들에 대한 공식 입장 발표",
+          "link": "https://www.back2gaming.com/news/chuwi-issues-response-to-mislabelled-cpu-scandal/",
+          "date": "Mar 25, 2026",
+          "thumbnail": "",
+          "summary_ko": "CHUWI는 노트북에 잘못 표기된 CPU가 발견된 논란에 대해 공식 성명을 발표했습니다.\n회사는 이를 의도적인 허위 표시가 아닌 생산 과정의 오류로 설명했습니다.\n영향을 받은 사용자에게는 환불 프로그램을 제공할 예정입니다."
+        },
+        {
+          "title": "US FCC Bans New Authorizations for Foreign-Made Consumer Routers Over Security Concerns",
+          "title_ko": "미국 FCC, 안보 우려로 외국산 소비자용 라우터 신규 승인 금지",
+          "link": "https://www.back2gaming.com/news/us-fcc-bans-new-authorizations-for-foreign-made-consumer-routers-over-security-concerns/",
+          "date": "Mar 25, 2026",
+          "thumbnail": "",
+          "summary_ko": "미국 연방 통신 위원회(FCC)는 외국산 소비자용 라우터의 신규 모델에 대한 장비 승인을 금지했습니다.\n이번 조치는 공급망 취약점과 심각한 사이버 보안 위험을 초래한다는 판단에 따른 것입니다.\n기존에 소유하고 있는 장치에는 소급 적용되지 않으며, 새로운 모델에만 해당됩니다."
+        },
+        {
           "title": "Arm Debuts AGI CPU: Their First Physical Product Co-Developed with Meta",
           "title_ko": "Arm, Meta 공동 개발 AGI CPU 공개",
           "link": "https://www.back2gaming.com/news/arm-debuts-agi-cpu-their-first-physical-product-co-developed-with-meta/",
           "date": "Mar 25, 2026",
           "thumbnail": "https://www.youtube.com/embed/sqJancqeVbk",
           "summary_ko": "Arm이 35년 역사상 처음으로 자체 실리콘 제품인 Arm AGI CPU를 선보입니다.\n이 고성능 프로세서는 Meta와 협력하여 대규모 Agentic AI 인프라를 지원하도록 설계되었습니다.\nArm은 완성된 실리콘을 제공하여 하이퍼스케일러의 칩 설계 및 배포 시간을 단축합니다."
-        },
-        {
-          "title": "Colorful Announces Intel Core Ultra 200S Plus Support and New 800-Series Motherboards",
-          "title_ko": "Colorful, Intel Core Ultra 200S Plus 지원 및 신형 800 시리즈 메인보드 발표",
-          "link": "https://www.back2gaming.com/news/colorful-announces-intel-core-ultra-200s-plus-support-and-new-800-series-motherboards/",
-          "date": "Mar 24, 2026",
-          "thumbnail": "",
-          "summary_ko": "Colorful은 Intel 800 시리즈 메인보드에 대한 BIOS 업데이트를 통해 Core Ultra 200S Plus 프로세서 호환성을 제공합니다.\n새로운 메인보드 라인업에는 BTF 3.0을 지원하는 iGame Z890M ULTRA Z와 흰색 테마의 iGame Z890 ULTRA-S W 등이 포함됩니다.\n기존 800 시리즈 메인보드 사용자들은 공식 웹사이트에서 Core Ultra 200S Plus BIOS 업데이트를 다운로드할 수 있습니다."
-        },
-        {
-          "title": "NBI Seizes ₱31.4M in Counterfeit Seagate and Sandisk Storage Devices in Manila",
-          "title_ko": "NBI, 마닐라에서 3140만 페소 상당의 위조 Seagate 및 Sandisk 저장 장치 압수",
-          "link": "https://www.back2gaming.com/news/nbi-seizes-%e2%82%b131-4m-in-counterfeit-seagate-and-sandisk-storage-devices-in-manila/",
-          "date": "Mar 24, 2026",
-          "thumbnail": "https://www.youtube.com/embed/KmmUGO3ZQJU",
-          "summary_ko": "필리핀 국립수사국(NBI)이 마닐라에서 3140만 페소 상당의 위조 데이터 저장 장치를 압수했습니다.\n압수된 물품에는 SANDISK 및 SEAGATE 상표를 위조한 SD 카드, USB 드라이브, 외장 하드 드라이브 등이 포함되었습니다.\n관련 업체들은 상표권 침해 혐의로 형사 기소될 예정입니다."
         }
       ],
       "error": false
@@ -43,6 +43,14 @@
       "flag": "🌏",
       "regionLabel": "SEA Wide",
       "articles": [
+        {
+          "title": "NieR Orchestra Nov 2026 Concert In Singapore Is Asia’s Only Show",
+          "title_ko": "NieR Orchestra 2026 싱가포르 콘서트, 아시아 유일 공연 확정",
+          "link": "https://geekculture.co/nier-orchestra-nov-2026-concert-in-singapore-is-asias-only-show/",
+          "date": "Mar 25, 2026",
+          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/03/nier-orchestra-concert-singapore-2.jpg",
+          "summary_ko": "NieR 시리즈의 오케스트라 콘서트 투어가 2026년 11월 싱가포르에서 아시아 지역 유일의 공연을 개최합니다.\n이번 공연은 오리지널 보컬리스트와 함께 게임 장면 영상과 함께 풀 오케스트라 및 합창단이 연주를 선보일 예정입니다.\n게임 디렉터 요코 타로와 작곡가 오카베 케이이치가 싱가포르 공연에 참석하며 VIP 티켓 소지자는 만남의 기회도 가질 수 있습니다."
+        },
         {
           "title": "‘Monster Hunter Stories 3: Twisted Reflection’ And Japan Rail Cafe Fuel Up For Culinary Quest In Singapore",
           "title_ko": "‘Monster Hunter Stories 3: Twisted Reflection’과 Japan Rail Cafe, 싱가포르에서 요리 퀘스트를 위한 준비 완료",
@@ -58,14 +66,6 @@
           "date": "Mar 23, 2026",
           "thumbnail": "https://geekculture.co/wp-content/uploads/2026/03/marvel-tokon-fighting-souls-interview-00.jpg",
           "summary_ko": "Arc System Works는 ‘Marvel Tōkon: Fighting Souls’를 통해 신규 플레이어와 기존 팬 모두를 만족시키는 균형 잡힌 접근 방식을 취했습니다.\n이 게임은 어시스트 기능, 고전 및 신규 마블 캐릭터의 재해석, 그리고 테마에 맞는 전투 시스템에 중점을 둡니다.\n개발팀은 깊이 있는 경쟁 플레이 경험과 동시에 어린아이도 쉽게 즐길 수 있는 접근성을 제공하는 것을 목표로 했습니다."
-        },
-        {
-          "title": "‘Marvel Tōkon: Fighting Souls’ Unleashes The Unbreakable X-Men With Distinct And Surprising Character Additions",
-          "title_ko": "마블 토콘: 파이팅 소울즈, 강력한 X-Men과 독특하고 놀라운 캐릭터 추가 공개",
-          "link": "https://geekculture.co/marvel-tokon-fighting-souls-preview/",
-          "date": "Mar 21, 2026",
-          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/03/marvel-tokon-fighting-souls-preview-1.jpg",
-          "summary_ko": "마블 토콘: 파이팅 소울즈는 4대4 2.5D 격투 게임으로, 아크 시스템 웍스가 개발했습니다.\n울버린, 매직, 데인저를 포함한 세 명의 새로운 X-Men 캐릭터가 추가되었습니다.\n게임은 총 20명의 캐릭터로 출시되며, 5개의 팀으로 나뉘지만 플레이어는 자유롭게 조합할 수 있습니다."
         }
       ],
       "error": false
@@ -78,28 +78,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
-          "title": "Kuroko’s Basketball Street Rivals redeem codes and how to use them (March 2026)",
-          "title_ko": "쿠로코의 농구 스트리트 라이벌 리딤 코드 및 사용 방법",
-          "link": "https://gamingonphone.com/guides/kurokos-basketball-street-rivals-redeem-codes-and-how-to-use-them/",
+          "title": "Magicmon: World Guide: Tips to Level Up quickly",
+          "title_ko": "매직몬: 월드 가이드: 빠르게 레벨업하는 팁",
+          "link": "https://gamingonphone.com/guides/magicmon-world-guide-tips-to-level-up-quickly/",
           "date": "Mar 25, 2026",
           "thumbnail": "",
-          "summary_ko": "쿠로코의 농구 스트리트 라이벌 게임에서 사용할 수 있는 리딤 코드 목록을 제공합니다.\n리딤 코드는 게임 진행에 도움이 되는 아이템을 무료로 제공합니다.\n리딤 코드는 기간 한정으로 제공되므로 만료 전에 사용해야 합니다."
+          "summary_ko": "매직몬: 월드에서 레벨업은 새로운 시스템을 잠금 해제하고 더 많은 콘텐츠를 즐기는 데 중요합니다.\n주요 퀘스트를 최우선으로 완료하면 가장 크고 일관된 경험치 보상을 얻을 수 있습니다.\n부수적인 퀘스트와 일일 임무를 꾸준히 완료하는 것도 레벨업에 도움이 됩니다."
         },
         {
-          "title": "Lilith Games’ Ace Trainers, now renamed to Clash of Critters, opens global pre-registration on mobile",
-          "title_ko": "Clash of Critters, 모바일 글로벌 사전 등록 시작",
-          "link": "https://gamingonphone.com/news/lilith-games-ace-trainers-now-renamed-to-clash-of-critters-opens-global-pre-registration-on-mobile/",
-          "date": "Mar 24, 2026",
+          "title": "Honkai: Star Rail Ashveil Build Guide: Best Relics, Light Cone, Team Comps, and more",
+          "title_ko": "혼카이: 스타 레일 아슈베일 빌드 가이드: 최고의 유물, 라이트 코어, 팀 구성 등",
+          "link": "https://gamingonphone.com/guides/honkai-star-rail-ashveil-build-guide-best-relics-light-cone-team-comps-and-more/",
+          "date": "Mar 25, 2026",
           "thumbnail": "",
-          "summary_ko": "Clash of Critters는 크리처 수집, 좀비 전투, 그리고 예상치 못한 핀볼 요소가 결합된 게임입니다.\n이전 Ace Trainers에서 이름이 변경되었으며, 100종 이상의 크리처와 강력한 콤보, 기지 건설 등을 제공합니다.\n글로벌 출시는 2026년 5월 22일로 예상되며, 현재 사전 등록을 받고 있습니다."
+          "summary_ko": "아슈베일은 새로운 5성 번개 사냥 캐릭터로, 메인 및 서브 DPS 역할을 수행합니다.\n그의 스킬은 적의 방어력을 감소시키고, 스킬 포인트를 생성하며, 추격 공격으로 피해를 입힙니다.\n최적의 성능을 위해 최고의 유물, 라이트 코어, 팀 구성 및 전문 팁을 활용하세요."
         },
         {
-          "title": "Kuroko’s Basketball Street Rivals Team Composition Guide and Tips",
-          "title_ko": "쿠로코의 농구 스트리트 라이벌 팀 구성 가이드 및 팁",
-          "link": "https://gamingonphone.com/guides/kurokos-basketball-street-rivals-team-composition-guide-and-tips/",
-          "date": "Mar 24, 2026",
+          "title": "PUBG Mobile celebrates 8th Anniversary with One Republic track, star-studded collabs, WOW DASH event, global festivals, and more",
+          "title_ko": "PUBG Mobile, 원 리퍼블릭 트랙, 스타급 콜라보, WOW DASH 이벤트, 글로벌 페스티벌 등으로 8주년 기념",
+          "link": "https://gamingonphone.com/news/pubg-mobile-celebrates-8th-anniversary-with-onerepublic-track-star-studded-collabs-wow-dash-event-global-festivals-and-more/",
+          "date": "Mar 25, 2026",
           "thumbnail": "",
-          "summary_ko": "개별 능력만으로는 승리하기 어렵기 때문에 균형 잡힌 팀 구성이 중요합니다.\n이 가이드에서는 팀 역할과 실용적인 팀 구성 예시를 제공하여 승리하는 팀을 만드는 데 도움을 줍니다.\n가드, 포워드, 센터의 세 가지 필수 포지션을 이해하고 각 역할에 맞는 선수를 배치해야 합니다."
+          "summary_ko": "PUBG Mobile 8주년 기념으로 원 리퍼블릭의 \"LEAN\"과 함께 K팝, MrBeast, 주술회전, 운동선수 콜라보가 진행됩니다.\n진화하는 우주 모드, 클래식 모드 업그레이드, WOW DASH 이벤트, 기념 보상 등이 추가되었습니다.\n이집트 기자 피라미드 근처 카니발, 터키 갈라, 인도네시아 \"8EYOND THE CIRCLE\" 페스티벌 등 실제 행사도 열립니다."
         }
       ],
       "error": false
@@ -112,28 +112,28 @@
       "regionLabel": "SEA Wide / Malaysia",
       "articles": [
         {
-          "title": "Intel Core Ultra 7 270K Plus Review: Far Better Performance Than I Expected",
-          "title_ko": "Intel Core Ultra 7 270K Plus 리뷰: 예상보다 훨씬 뛰어난 성능",
-          "link": "https://www.lowyat.net/2026/387375/intel-core-ultra-7-270k-plus-review/",
-          "date": "Mar 24, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/Intel-Core-Ultra-7-270K-Plus-Review-1-300x169.jpg",
-          "summary_ko": "Intel Core Ultra 200S Plus 시리즈의 Core Ultra 7 270K Plus는 예상보다 뛰어난 성능을 보여줍니다.\n새로운 Direct-to-Device (D2D) 명령어와 Binary Optimisation Tool이 성능 향상의 핵심입니다.\nCore Ultra 9 285K와 유사한 코어 수와 클럭 속도를 가지면서도 더 저렴한 가격으로 출시되었습니다."
+          "title": "“Cancelled” Intel Core Ultra 9 290K Plus Still Appearing On Geekbench",
+          "title_ko": "취소된 Intel Core Ultra 9 290K Plus, Geekbench에서 여전히 등장",
+          "link": "https://www.lowyat.net/2026/387445/cancelled-intel-core-ultra-9-290k-plus-still-appearing-on-geekbench/",
+          "date": "Mar 25, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/Intel-Core-Ultra-7-270K-Core-Ultra-5-250K-Plus-Review-5-300x169.jpg",
+          "summary_ko": "취소되었다는 Intel Core Ultra 9 290K Plus의 성능 지표가 Geekbench에 나타났습니다.\n이 CPU는 싱글 코어 테스트에서 3,747점, 멀티 코어 테스트에서 26,117점을 기록했습니다.\n이는 24코어(P-코어 8개, E-코어 16개) 구성으로, 기존 루머와 동일한 코어 수입니다."
         },
         {
-          "title": "You Can Now Print Documents At Select 7-Eleven Malaysia Outlets",
-          "title_ko": "이제 말레이시아 일부 7-Eleven 매장에서 문서를 인쇄할 수 있습니다.",
-          "link": "https://www.lowyat.net/2026/387361/you-can-now-print-documents-at-select-7-eleven-malaysia-outlets/",
-          "date": "Mar 24, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/7-eleven-print-1-300x169.jpg",
-          "summary_ko": "7-Eleven Malaysia는 Print@7E라는 문서 인쇄 서비스를 새롭게 선보입니다.\n이 서비스는 24시간 이용 가능하며, 온라인으로 문서를 업로드하고 QR 코드를 통해 매장에서 인쇄할 수 있습니다.\n페이지당 30센트부터 시작하는 합리적인 가격으로 이용 가능하며, 온라인 및 현금 결제가 모두 지원됩니다."
+          "title": "OnePlus Reportedly Ceasing Global Operations As Early As April 2026",
+          "title_ko": "OnePlus, 2026년 4월 조기 글로벌 운영 중단 보도",
+          "link": "https://www.lowyat.net/2026/387440/oneplus-exiting-global-market-april/",
+          "date": "Mar 25, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2025/11/oneplus-15r-pad-go-2-watch-lite-unveiled-2025-2-300x153.jpg",
+          "summary_ko": "OnePlus가 2026년 4월부터 유럽 등 여러 지역에서 운영을 중단할 계획이라는 보도가 나왔습니다.\n이 소식은 내부 관계자를 통해 전해졌으며, 일부 직원은 이미 해고 통보와 퇴직금을 받은 것으로 알려졌습니다.\n회사는 인도 시장에 집중하고 저가 및 중가 제품에 주력할 것으로 예상됩니다."
         },
         {
-          "title": "OPPO Find X9 Ultra To Get April Launch In Malaysia",
-          "title_ko": "OPPO Find X9 Ultra, 말레이시아 4월 출시 예정",
-          "link": "https://www.lowyat.net/2026/387358/oppo-find-x9-ultra-april-launch-malaysia/",
-          "date": "Mar 24, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/OPPO-Find-X9-Ultra-April-300x200.jpg",
-          "summary_ko": "OPPO는 말레이시아에서 Find X9 Ultra 스마트폰을 4월에 출시할 예정이라고 밝혔습니다.\n이전 유출 정보에 따르면 6.8인치 2K 화면, Snapdragon 8 Elite Gen 5, 7,000mAh 배터리가 탑재될 것으로 예상됩니다.\n카메라 구성은 200MP 메인 센서를 포함한 Hasselblad 협업 제품이 될 것으로 보입니다."
+          "title": "OpenAI Is Shutting Down Its Sora AI Video Generation Platform",
+          "title_ko": "OpenAI, Sora AI 비디오 생성 플랫폼 종료",
+          "link": "https://www.lowyat.net/2026/387436/openai-is-shutting-down-its-sora-ai-video-generation-platform/",
+          "date": "Mar 25, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/Sora-main-site-1-300x164.jpg",
+          "summary_ko": "OpenAI가 출시한 AI 비디오 플랫폼 Sora가 종료될 예정입니다.\n이는 OpenAI의 새로운 \"슈퍼앱\" 구축 계획의 일환으로, ChatGPT, Codex, Atlas 등 다른 앱들을 통합하기 위한 결정입니다.\nSora 연구팀은 로봇 공학 발전을 위한 월드 시뮬레이션 연구에 계속 집중할 것입니다."
         }
       ],
       "error": false
@@ -145,6 +145,14 @@
       "flag": "🇵🇭",
       "regionLabel": "Philippines",
       "articles": [
+        {
+          "title": "Ragnarok Origin Classic Officially Launches Today!  Embark on a New Era of Fair Adventure",
+          "title_ko": "라그나로크 오리진 클래식, 오늘 정식 출시! 공정한 모험의 새 시대 개막",
+          "link": "https://gamingph.com/2026/03/ragnarok-origin-classic-officially-launches-today-embark-on-a-new-era-of-fair-adventure/",
+          "date": "Mar 26, 2026",
+          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/03/image-7.jpeg?resize=950%2C534&#038;ssl=1",
+          "summary_ko": "라그나로크 오리진 클래식이 오늘 iOS, Google Play, PC 플랫폼에서 정식 출시되었습니다.\n이번 신작은 대만/홍콩/마카오, 동남아시아, 한국 플레이어들에게 공정하고 장대한 모험의 새 시대를 열어줍니다.\n월정액만으로 성장하는 'Grow with Monthly Pass Only' 철학을 통해 전략과 실력 중심의 공정한 여정을 제공합니다."
+        },
         {
           "title": "Lost & Found Brings a Filipino Story-Driven Mystery Game Filled with Meaningful Everyday Stories",
           "title_ko": "",
@@ -160,14 +168,6 @@
           "date": "Mar 19, 2026",
           "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/03/image.jpeg?resize=950%2C534&#038;ssl=1",
           "summary_ko": "애니메이션 스타일 MMORPG Blue Protocol: Star Resonance가 시즌 2 \"Echoes of Lost Nightmare\"를 시작했습니다.\n새로운 지역 \"Bahamar Highlands\"와 함께 Shangri-La Frontier 애니메이션과의 콜라보레이션이 진행됩니다.\n5월에는 FAIRY TAIL 애니메이션과의 콜라보레이션도 예정되어 있습니다."
-        },
-        {
-          "title": "“Phones, Only Buy the Best Value”: Why Gamers Should Choose the POCO X8 Pro in 2026",
-          "title_ko": "",
-          "link": "https://gamingph.com/2026/03/phones-only-buy-the-best-value-why-gamers-should-choose-the-poco-x8-pro-in-2026/",
-          "date": "Mar 19, 2026",
-          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/03/image-17.jpg?resize=815%2C1024&#038;ssl=1",
-          "summary_ko": "POCO X8 Pro는 2026년 가성비 좋은 게이밍 스마트폰으로 추천됩니다.\n고강도 메탈 프레임과 6500mAh 대용량 배터리, Dimensity 8500-Ultra 칩셋을 탑재했습니다.\n플래그십 수준의 디자인과 성능으로 모바일 게이머들에게 매력적인 선택지가 될 것입니다."
         }
       ],
       "error": false
@@ -180,28 +180,28 @@
       "regionLabel": "Vietnam",
       "articles": [
         {
-          "title": "Huyền thoại Patlabor trở lại với phiên bản game hành động 3D mới trên PS5 và PC",
-          "title_ko": "PATLABOR the Case Files",
-          "link": "https://gamelade.vn/huyen-thoai-patlabor-tro-lai-voi-phien-ban-game-hanh-dong-3d-moi-tren-ps5-va-pc/",
-          "date": "Mar 24, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/e-7.jpg",
-          "summary_ko": "전설적인 Patlabor가 PS5와 PC용 신규 3D 액션 게임으로 돌아옵니다.\n이 게임은 원작의 명장면들을 재현하며, 20종 이상의 다양한 Labor 기체가 등장합니다.\n플레이어는 특수 차량 섹션 2를 조종하거나 상대방의 시점에서 미션을 수행할 수 있습니다."
+          "title": "Seven Knights Idle Adventure tung loạt sự kiện kỷ niệm 2.5 năm",
+          "title_ko": "Seven Knights Idle Adventure, 2.5 năm kỷ niệm sự kiện",
+          "link": "https://gamelade.vn/seven-knights-idle-adventure-tung-loat-su-kien-ky-niem-2-5-nam/",
+          "date": "Mar 25, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/a-2.jpg",
+          "summary_ko": "Seven Knights Idle Adventure가 2.5주년을 기념하여 다양한 이벤트를 시작합니다.\n새로운 캐릭터 On Stage Dellons가 업데이트에 추가되었습니다.\n플레이어들은 로그인 보상과 챌린저 패스를 통해 희귀 아이템을 얻을 수 있습니다."
         },
         {
-          "title": "Mochi-O ra mắt trên mobile với gameplay hành động tốc độ cao kết hợp nuôi thú ảo độc đáo",
-          "title_ko": "Mochi-O",
-          "link": "https://gamelade.vn/mochi-o-ra-mat-tren-mobile-voi-gameplay-hanh-dong-toc-do-cao-ket-hop-nuoi-thu-ao-doc-dao/",
-          "date": "Mar 24, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/qq-2.jpg",
-          "summary_ko": "Mochi-O가 독특한 육성 요소와 결합된 고속 액션 게임플레이로 모바일에 출시되었습니다.\n플레이어는 작은 햄스터를 조종하여 침략 세력에 맞서 싸우며, 동시에 햄스터를 육성해야 합니다.\n이 게임은 일본 게임 특유의 높은 엔터테인먼트성과 유머를 연상시킵니다."
+          "title": "Million Depth tung update 2.0 với chế độ khó mới và nâng cấp toàn diện gameplay",
+          "title_ko": "Million Depth, 새로운 난이도 모드와 게임플레이 개선 업데이트 2.0 출시",
+          "link": "https://gamelade.vn/million-depth-tung-update-2-0-voi-che-do-kho-moi-va-nang-cap-toan-dien-gameplay/",
+          "date": "Mar 25, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/r-5.jpg",
+          "summary_ko": "Million Depth가 새로운 난이도 모드와 전반적인 게임플레이 개선을 포함한 업데이트 2.0을 출시했습니다.\n'Dimension Over Mode'는 진 엔딩을 완료한 플레이어를 위한 새로운 도전 과제를 제공합니다.\n이 모드는 스피드런 기능을 지원하여 플레이어들이 자신의 기록을 단축하도록 장려합니다."
         },
         {
-          "title": "Coffee Talk chính thức phát hành tập đầu tiên trên mobile",
-          "title_ko": "Coffee Talk",
-          "link": "https://gamelade.vn/coffee-talk-chinh-thuc-phat-hanh-tap-dau-tien-tren-mobile/",
-          "date": "Mar 24, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/w-4.webp",
-          "summary_ko": "인기 비주얼 노벨 게임 Coffee Talk의 첫 번째 에피소드가 모바일로 출시되었습니다.\n플레이어는 바리스타가 되어 손님들의 이야기를 듣고 음료를 제공하며 교감합니다.\n이 게임은 빠른 액션 대신 느긋한 게임플레이와 편안한 분위기를 제공합니다."
+          "title": "Iris Odyssey: Hephaistos’s Ring ấn định ngày ra mắt",
+          "title_ko": "Iris Odyssey: Hephaistos’s Ring, 출시일 확정",
+          "link": "https://gamelade.vn/iris-odyssey-hephaistoss-ring-an-dinh-ngay-ra-mat/",
+          "date": "Mar 25, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/t.png",
+          "summary_ko": "Iris Odyssey: Hephaistos’s Ring이 5월 29일 PC Steam을 통해 출시될 예정입니다.\n이 비주얼 노벨은 현대 배경과 마법 요소를 결합한 감동적인 스토리를 제공합니다.\n플레이어의 선택에 따라 다양한 스토리 분기가 열리는 선택 기반 게임플레이가 특징입니다."
         }
       ],
       "error": false
@@ -214,28 +214,28 @@
       "regionLabel": "Thailand",
       "articles": [
         {
-          "title": "หลุดสเปก REDMI Note 16 Series เตรียมจัดหนักแบต 10,000mAh เล็งขึ้นแท่นมือถือแบตเยอะสุดของค่าย",
-          "title_ko": "REDMI Note 16 Series 배터리 10,000mAh 탑재 루머",
-          "link": "https://droidsans.com/redmi-note-16-series-spec-leak-with-battery-10000-mah/",
-          "date": "Mar 24, 2026",
+          "title": "หลุดสเปก vivo T5 Pro ลุ้นมาพร้อมแบตเตอรี่ 9,020mAh ชาร์จไว 90W เตรียมขึ้นแท่นแบตอึดสุดของค่าย",
+          "title_ko": "vivo T5 Pro สเปกหลุด แบตเตอรี่ 9,020mAh ชาร์จไว 90W",
+          "link": "https://droidsans.com/vivo-t5-pro-battery-spec-leak/",
+          "date": "Mar 25, 2026",
           "thumbnail": "",
-          "summary_ko": "REDMI Note 16 시리즈는 10,000mAh의 대용량 배터리를 탑재할 것으로 예상됩니다.\n이는 해당 제조사에서 출시될 스마트폰 중 가장 큰 배터리 용량이 될 수 있습니다.\n200MP 카메라와 100W 고속 충전 지원도 루머에 포함되어 있습니다."
+          "summary_ko": "คาด vivo T5 Pro มาพร้อมแบตเตอรี่ขนาดใหญ่ 9,020mAh\nรองรับการชาร์จเร็ว 90W\nอาจขึ้นแท่นสมาร์ทโฟนแบตอึดที่สุดของ vivo"
         },
         {
-          "title": "หลุดสเปก OnePlus Ace 6 Ultra จ่อใช้ Dimensity 9500 หวังท้าชน REDMI K90 Ultra",
-          "title_ko": "OnePlus Ace 6 Ultra, Dimensity 9500 탑재 루머로 REDMI K90 Ultra와 경쟁 예상",
-          "link": "https://droidsans.com/oneplus-ace-6-ultra-spec-leak-with-dimensity-9500/",
-          "date": "Mar 24, 2026",
+          "title": "HONOR 600 โผล่ทดสอบบน Geekbench คาดใช้ชิป Snapdragon 7 Gen 4 พร้อม RAM 8GB",
+          "title_ko": "HONOR 600 ทดสอบบน Geekbench คาดใช้ชิป Snapdragon 7 Gen 4 RAM 8GB",
+          "link": "https://droidsans.com/honor-600-geekbench-leak/",
+          "date": "Mar 25, 2026",
           "thumbnail": "",
-          "summary_ko": "OnePlus Ace 6 Ultra는 Dimensity 9500 칩셋을 탑재하여 REDMI K90 Ultra와 경쟁할 것으로 보입니다.\n이 스마트폰은 6.8인치 165Hz 디스플레이와 9,000mAh 배터리를 탑재할 것으로 예상됩니다.\n80W 고속 충전 기능도 지원할 것으로 알려졌습니다."
+          "summary_ko": "HONOR 600 ปรากฏบน Geekbench พร้อมชิป Snapdragon 7 Gen 4\nคาดว่าจะมี RAM 8GB และรัน Android 16\nอาจเป็นสมาร์ทโฟนระดับกลางที่เน้นประสิทธิภาพ"
         },
         {
-          "title": "OnePlus Nord 6 จ่อเปิดตัว 7 เม.ย. นี้ ลุ้นมาพร้อมรุ่นพิเศษ Naruto Edition",
-          "title_ko": "OnePlus Nord 6, 4월 7일 출시 예정 및 Naruto 에디션 가능성",
-          "link": "https://droidsans.com/oneplus-nord-6-launch-in-7-april/",
-          "date": "Mar 24, 2026",
+          "title": "OnePlus ซุ่มพัฒนาเครื่องเกมพกพา Android สเปกเรือธง เน้นจอทัชสกรีนเอาใจสาย FPS",
+          "title_ko": "OnePlus พัฒนาเครื่องเกมพกพา Android สเปกระดับเรือธง เน้นจอทัชสกรีนสำหรับเกม FPS",
+          "link": "https://droidsans.com/oneplus-android-gaming-handheld-leak/",
+          "date": "Mar 25, 2026",
           "thumbnail": "",
-          "summary_ko": "OnePlus Nord 6가 4월 7일에 출시될 예정이며, Naruto 스페셜 에디션이 함께 공개될 가능성이 있습니다.\n이 모델은 Snapdragon 8s Gen 4 칩셋과 12GB RAM을 탑재할 것으로 예상됩니다.\n9,000mAh 배터리와 80W 고속 충전을 지원할 것으로 보입니다."
+          "summary_ko": "OnePlus กำลังพัฒนาเครื่องเกมพกพาที่ใช้ระบบ Android\nคาดว่าจะมีสเปกระดับเรือธงและเน้นหน้าจอสัมผัสสำหรับเกม FPS\nอาจเปิดตัวพร้อมกับสมาร์ทโฟนรุ่นใหม่ๆ ของ OnePlus"
         }
       ],
       "error": false
@@ -248,28 +248,28 @@
       "regionLabel": "Indonesia",
       "articles": [
         {
-          "title": "Crimson Desert Sukses Catat Penjualan 3 Juta Unit",
-          "title_ko": "크림슨 디센트, 300만 장 판매 기록",
-          "link": "https://gamebrott.com/crimson-desert-sukses-catat-penjualan-3-juta-unit/",
-          "date": "Mar 24, 2026",
-          "thumbnail": "https://www.youtube.com/embed/VWIw_f8e9Pg",
-          "summary_ko": "크림슨 디센트가 스팀에서 23만 9천 명의 동시 접속자 수를 기록했습니다.\n이 게임의 판매량은 앞으로도 계속 증가할 것으로 예상됩니다."
+          "title": "Ragnarok Origin Classic Resmi Hadir pada 26 Maret, Mengundang Petualang ke Era Petualangan Epik yang Adil",
+          "title_ko": "라그나로크 오리진 클래식, 3월 26일 정식 출시",
+          "link": "https://gamebrott.com/ragnarok-origin-classic-resmi-hadir-pada-26-maret-mengundang-petualang-ke-era-petualangan-epik-yang-adil/",
+          "date": "Mar 26, 2026",
+          "thumbnail": "",
+          "summary_ko": "라그나로크 오리진 클래식이 3월 26일에 정식 출시됩니다.\n플레이어들은 공정한 모험의 시대로 초대받습니다.\n이번 출시는 라그나로크 더 뉴 월드의 파일럿 테스트 경험을 바탕으로 합니다."
         },
         {
-          "title": "ByteDance Telah Setuju Menjual Moonton ke Perusahaan Asal Arab Saudi",
-          "title_ko": "바이트댄스, 무툰 사우디아라비아 기업에 매각 합의",
-          "link": "https://gamebrott.com/bytedance-jual-moonton-ke-savvy-games-group/",
-          "date": "Mar 23, 2026",
+          "title": "Player Final Fantasy VII Rebirth Rata-rata Berusia di Atas 30 Tahun",
+          "title_ko": "Final Fantasy VII Rebirth 플레이어 평균 연령 30세 이상",
+          "link": "https://gamebrott.com/player-final-fantasy-vii-rebirth-usia-di-atas-30/",
+          "date": "Mar 25, 2026",
           "thumbnail": "",
-          "summary_ko": "바이트댄스가 무툰을 사우디아라비아 기업에 매각하기로 합의했습니다.\n크래프톤은 서브노티카 2의 전 CEO를 다시 영입하라는 지시를 받았습니다.\nCEO 자리는 복원되어야 합니다."
+          "summary_ko": "Final Fantasy VII Rebirth 플레이어들의 평균 연령이 30세 이상인 것으로 나타났습니다.\n테츠야 노무라는 다른 게임이나 프로젝트 작업 시 세피로스와 같은 캐릭터 디자인을 요청받았습니다.\n이 내용은 인터뷰에서 공개되었습니다."
         },
         {
-          "title": "Kasus Karyawan Ubisoft Kena PHK Terjadi Lagi, Kali Ini Dialami Tim Studio Ghost Recon",
-          "title_ko": "Ubisoft Ghost Recon 스튜디오 팀 직원의 해고 사건 재발",
-          "link": "https://gamebrott.com/karyawan-ubisoft-phk-studio-ghost-recon/",
-          "date": "Mar 22, 2026",
+          "title": "Capcom Tidak akan Menggunakan Generative AI untuk Aset Game Mereka",
+          "title_ko": "Capcom, 게임 에셋 제작에 생성형 AI 사용하지 않을 것",
+          "link": "https://gamebrott.com/capcom-ai-tidak-akan-gunakan-dalam-aset-game/",
+          "date": "Mar 25, 2026",
           "thumbnail": "",
-          "summary_ko": "Ubisoft Ghost Recon 스튜디오 팀에서 또 다른 해고 사건이 발생했습니다.\n이번 사건은 Ghost Recon 팀을 대상으로 이루어졌습니다.\n이전에도 Ubisoft 직원 해고 사례가 있었습니다."
+          "summary_ko": "Capcom은 게임 에셋 제작에 생성형 AI를 사용하지 않을 것이라고 밝혔습니다.\nOpenAI의 비디오 AI 애플리케이션 Sora가 공식적으로 종료되었습니다.\n이 소식은 최근에 보고되었습니다."
         }
       ],
       "error": false
