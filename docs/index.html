@@ -358,10 +358,7 @@ main {
   .dateline { min-width: 140px; font-size: 0.65rem; }
   .masthead-right { min-width: 140px; }
   .articles-grid { grid-template-columns: repeat(2, 1fr); }
-  .article-card:first-child {
-    border-left: none;
-    border-top: 3px solid var(--accent);
-  }
+  .article-card:first-child { border-left: none; }
 }
 
 /* 모바일 (≤ 600px) */
@@ -462,22 +459,6 @@ main {
     font-size: 0.92rem;
     -webkit-line-clamp: 3;
   }
-  .article-card:first-child {
-    flex-direction: column;
-    border-top: 3px solid var(--accent);
-  }
-  .article-card:first-child .card-thumb {
-    width: 100%;
-    aspect-ratio: 16 / 9;
-    height: auto;
-  }
-  .article-card:first-child .card-body {
-    padding: 14px 16px 16px;
-  }
-  .article-card:first-child .card-title {
-    font-size: 1.05rem;
-  }
-
   /* AI 요약: 모바일에서 축약 */
   .card-ai-points li {
     font-size: 0.75rem;
