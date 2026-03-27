@@ -90,7 +90,10 @@ body {
   padding: 0 40px;
   display: flex;
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
 }
+.nav-bar::-webkit-scrollbar { display: none; }
 .nav-btn {
   background: transparent;
   border: none;
@@ -104,6 +107,7 @@ body {
   transition: all 0.15s;
   white-space: nowrap;
   border-bottom: 2px solid transparent;
+  min-height: 44px;
 }
 .nav-btn:hover  { color: var(--white); }
 .nav-btn.active { color: var(--white); border-bottom-color: var(--accent); }
@@ -116,6 +120,7 @@ body {
   display: flex;
   align-items: center;
   gap: 24px;
+  flex-wrap: wrap;
 }
 .stat-item { display: flex; align-items: baseline; gap: 5px; }
 .stat-num  { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 1.1rem; color: var(--accent); }
@@ -342,14 +347,155 @@ main {
 .source-section.hidden { display: none; }
 
 /* ── RESPONSIVE ── */
+
+/* 태블릿 (≤ 900px) */
 @media (max-width: 900px) {
-  .masthead, .nav-bar, .stats-ribbon, main { padding-left: 20px; padding-right: 20px; }
+  .masthead, .nav-bar, .stats-ribbon, main {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
   .publication-name { font-size: 2rem; }
+  .dateline { min-width: 140px; font-size: 0.65rem; }
+  .masthead-right { min-width: 140px; }
   .articles-grid { grid-template-columns: repeat(2, 1fr); }
-  .article-card:first-child { border-left: none; border-top: 3px solid var(--accent); }
+  .article-card:first-child {
+    border-left: none;
+    border-top: 3px solid var(--accent);
+  }
 }
-@media (max-width: 540px) {
-  .articles-grid { grid-template-columns: 1fr; }
+
+/* 모바일 (≤ 600px) */
+@media (max-width: 600px) {
+  /* 헤더: 세로 스택 레이아웃 */
+  .masthead {
+    padding: 0 16px;
+  }
+  .masthead-top {
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    padding: 14px 0 12px;
+  }
+  .dateline {
+    min-width: unset;
+    text-align: center;
+    font-size: 0.62rem;
+    order: 2;
+  }
+  .pub-title {
+    order: 1;
+  }
+  .publication-name {
+    font-size: 1.75rem;
+  }
+  .publication-tagline {
+    font-size: 0.62rem;
+    letter-spacing: 0.16em;
+  }
+  .masthead-right {
+    min-width: unset;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    order: 3;
+    gap: 10px;
+  }
+  .updated-time {
+    font-size: 0.62rem;
+  }
+
+  /* 내비게이션 */
+  .nav-bar {
+    padding: 0 8px;
+  }
+  .nav-btn {
+    padding: 12px 14px;
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+  }
+
+  /* 통계 리본 */
+  .stats-ribbon {
+    padding: 8px 16px;
+    gap: 12px;
+  }
+  .stat-sep { display: none; }
+  .stat-num { font-size: 1rem; }
+  .stat-label { font-size: 0.65rem; }
+
+  /* 본문 */
+  main {
+    padding: 20px 12px 40px;
+  }
+
+  /* 섹션 헤더 */
+  .source-section {
+    margin-bottom: 36px;
+  }
+  .section-name { font-size: 1.15rem; }
+  .section-region { display: none; }
+
+  /* 카드 그리드: 1열 */
+  .articles-grid {
+    grid-template-columns: 1fr;
+  }
+
+  /* 카드 레이아웃: 가로형 (썸네일 + 내용 나란히) */
+  .article-card {
+    flex-direction: row;
+    min-height: 0;
+  }
+  .card-thumb {
+    width: 120px;
+    min-width: 120px;
+    aspect-ratio: unset;
+    height: auto;
+    align-self: stretch;
+    object-fit: cover;
+  }
+  .card-body {
+    padding: 12px 14px 14px;
+    gap: 7px;
+    min-width: 0;
+  }
+  .card-title {
+    font-size: 0.92rem;
+    -webkit-line-clamp: 3;
+  }
+  .article-card:first-child {
+    flex-direction: column;
+    border-top: 3px solid var(--accent);
+  }
+  .article-card:first-child .card-thumb {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    height: auto;
+  }
+  .article-card:first-child .card-body {
+    padding: 14px 16px 16px;
+  }
+  .article-card:first-child .card-title {
+    font-size: 1.05rem;
+  }
+
+  /* AI 요약: 모바일에서 축약 */
+  .card-ai-points li {
+    font-size: 0.75rem;
+  }
+
+  /* 읽기 더보기 버튼: 모바일에서 항상 표시 */
+  .card-readmore {
+    opacity: 1;
+  }
+}
+
+/* 아주 작은 화면 (≤ 360px) */
+@media (max-width: 360px) {
+  .publication-name { font-size: 1.5rem; }
+  .card-thumb {
+    width: 100px;
+    min-width: 100px;
+  }
 }
 </style>
 </head>
@@ -410,7 +556,6 @@ function buildSummaryHTML(summaryText) {
   if (!summaryText) {
     return `<div class="card-no-summary">AI 요약을 불러올 수 없습니다.</div>`;
   }
-  // 줄바꿈으로 분리하여 포인트 리스트 생성
   const points = summaryText
     .split('\n')
     .map(p => p.trim())
