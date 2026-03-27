@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26 01:25 UTC",
+  "updated_at": "2026-03-27 01:25 UTC",
   "ai_summary": true,
   "sources": [
     {
@@ -9,6 +9,14 @@
       "flag": "🌏",
       "regionLabel": "SEA Wide",
       "articles": [
+        {
+          "title": "AMD Announces Ryzen 9 9950X3D2 Dual Edition: 192MB L3 Cache to Counter Intel “Plus” Series",
+          "title_ko": "AMD, 인텔 \"Plus\" 시리즈에 대응하는 192MB L3 캐시 탑재 Ryzen 9 9950X3D2 Dual Edition 발표",
+          "link": "https://www.back2gaming.com/news/amd-announces-ryzen-9-9950x3d2-dual-edition-192mb-l3-cache-to-counter-intel-plus-series/",
+          "date": "Mar 26, 2026",
+          "thumbnail": "",
+          "summary_ko": "AMD는 2026년 4월 22일에 Ryzen 9 9950X3D2 Dual Edition을 출시할 예정입니다.\n이 새로운 플래그십 프로세서는 양쪽 코어 복합 다이(CCD)에 3D V-Cache를 적용하여 이전 모델의 비대칭 구성을 해결했습니다.\n이를 통해 게임뿐만 아니라 생산성 작업에서도 상당한 성능 향상을 제공할 것으로 기대됩니다."
+        },
         {
           "title": "CHUWI Issues Response to Mislabelled CPU Scandal",
           "title_ko": "CHUWI, mislabeled CPU 스캔들에 대한 공식 입장 발표",
@@ -24,14 +32,6 @@
           "date": "Mar 25, 2026",
           "thumbnail": "",
           "summary_ko": "미국 연방 통신 위원회(FCC)는 외국산 소비자용 라우터의 신규 모델에 대한 장비 승인을 금지했습니다.\n이번 조치는 공급망 취약점과 심각한 사이버 보안 위험을 초래한다는 판단에 따른 것입니다.\n기존에 소유하고 있는 장치에는 소급 적용되지 않으며, 새로운 모델에만 해당됩니다."
-        },
-        {
-          "title": "Arm Debuts AGI CPU: Their First Physical Product Co-Developed with Meta",
-          "title_ko": "Arm, Meta 공동 개발 AGI CPU 공개",
-          "link": "https://www.back2gaming.com/news/arm-debuts-agi-cpu-their-first-physical-product-co-developed-with-meta/",
-          "date": "Mar 25, 2026",
-          "thumbnail": "https://www.youtube.com/embed/sqJancqeVbk",
-          "summary_ko": "Arm이 35년 역사상 처음으로 자체 실리콘 제품인 Arm AGI CPU를 선보입니다.\n이 고성능 프로세서는 Meta와 협력하여 대규모 Agentic AI 인프라를 지원하도록 설계되었습니다.\nArm은 완성된 실리콘을 제공하여 하이퍼스케일러의 칩 설계 및 배포 시간을 단축합니다."
         }
       ],
       "error": false
@@ -78,28 +78,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
-          "title": "Magicmon: World Guide: Tips to Level Up quickly",
-          "title_ko": "매직몬: 월드 가이드: 빠르게 레벨업하는 팁",
-          "link": "https://gamingonphone.com/guides/magicmon-world-guide-tips-to-level-up-quickly/",
-          "date": "Mar 25, 2026",
+          "title": "CookieRun: OvenSmash: Full Currency Guide with tips",
+          "title_ko": "쿠키런: 오븐스매시: 모든 재화 가이드와 팁",
+          "link": "https://gamingonphone.com/guides/cookierun-ovensmash-full-currency-guide-with-tips/",
+          "date": "Mar 26, 2026",
           "thumbnail": "",
-          "summary_ko": "매직몬: 월드에서 레벨업은 새로운 시스템을 잠금 해제하고 더 많은 콘텐츠를 즐기는 데 중요합니다.\n주요 퀘스트를 최우선으로 완료하면 가장 크고 일관된 경험치 보상을 얻을 수 있습니다.\n부수적인 퀘스트와 일일 임무를 꾸준히 완료하는 것도 레벨업에 도움이 됩니다."
+          "summary_ko": "레인보우 크레딧은 쿠키런: 오븐스매시의 유일한 프리미엄 재화입니다.\n다양한 재화를 얻는 방법과 효과적인 사용처를 알아보세요.\n코인, 크리스탈 등 게임 내 재화 획득 및 활용법을 안내합니다."
         },
         {
-          "title": "Honkai: Star Rail Ashveil Build Guide: Best Relics, Light Cone, Team Comps, and more",
-          "title_ko": "혼카이: 스타 레일 아슈베일 빌드 가이드: 최고의 유물, 라이트 코어, 팀 구성 등",
-          "link": "https://gamingonphone.com/guides/honkai-star-rail-ashveil-build-guide-best-relics-light-cone-team-comps-and-more/",
-          "date": "Mar 25, 2026",
+          "title": "FIFA Heroes is bringing its five-a-side football fun this April 28th on Android and iOS",
+          "title_ko": "FIFA Heroes, 4월 28일 안드로이드 및 iOS 출시",
+          "link": "https://gamingonphone.com/news/fifa-heroes-is-bringing-its-five-a-side-football-fun-this-april-28th-on-android-and-ios/",
+          "date": "Mar 26, 2026",
           "thumbnail": "",
-          "summary_ko": "아슈베일은 새로운 5성 번개 사냥 캐릭터로, 메인 및 서브 DPS 역할을 수행합니다.\n그의 스킬은 적의 방어력을 감소시키고, 스킬 포인트를 생성하며, 추격 공격으로 피해를 입힙니다.\n최적의 성능을 위해 최고의 유물, 라이트 코어, 팀 구성 및 전문 팁을 활용하세요."
+          "summary_ko": "빠른 템포의 5대5 아케이드 축구 경기가 특징입니다.\n실제 선수, FIFA 마스코트, 신화 속 캐릭터가 등장합니다.\n90초 내외의 짧은 경기 시간으로 박진감 넘치는 플레이를 제공합니다."
         },
         {
-          "title": "PUBG Mobile celebrates 8th Anniversary with One Republic track, star-studded collabs, WOW DASH event, global festivals, and more",
-          "title_ko": "PUBG Mobile, 원 리퍼블릭 트랙, 스타급 콜라보, WOW DASH 이벤트, 글로벌 페스티벌 등으로 8주년 기념",
-          "link": "https://gamingonphone.com/news/pubg-mobile-celebrates-8th-anniversary-with-onerepublic-track-star-studded-collabs-wow-dash-event-global-festivals-and-more/",
-          "date": "Mar 25, 2026",
+          "title": "League of Legends: Wild Rift x Porsche collab revealed alongside racing-themed Patch 7.1 update",
+          "title_ko": "리그 오브 레전드: 와일드 리프트 x 포르쉐 협업 공개 및 레이싱 테마 패치 7.1 업데이트",
+          "link": "https://gamingonphone.com/news/league-of-legends-wild-rift-x-porsche-collab-revealed-alongside-racing-themed-patch-7-1-update/",
+          "date": "Mar 26, 2026",
           "thumbnail": "",
-          "summary_ko": "PUBG Mobile 8주년 기념으로 원 리퍼블릭의 \"LEAN\"과 함께 K팝, MrBeast, 주술회전, 운동선수 콜라보가 진행됩니다.\n진화하는 우주 모드, 클래식 모드 업그레이드, WOW DASH 이벤트, 기념 보상 등이 추가되었습니다.\n이집트 기자 피라미드 근처 카니발, 터키 갈라, 인도네시아 \"8EYOND THE CIRCLE\" 페스티벌 등 실제 행사도 열립니다."
+          "summary_ko": "와일드 리프트와 포르쉐의 협업으로 테마 동반자 및 이벤트가 추가됩니다.\n패치 7.1은 리도 그랑프리 이벤트, 신규 챔피언, 게임 플레이 업데이트 등을 포함합니다.\n레이싱 테마의 스킨과 다양한 보상을 제공하는 업데이트가 적용됩니다."
         }
       ],
       "error": false
@@ -112,28 +112,28 @@
       "regionLabel": "SEA Wide / Malaysia",
       "articles": [
         {
-          "title": "“Cancelled” Intel Core Ultra 9 290K Plus Still Appearing On Geekbench",
-          "title_ko": "취소된 Intel Core Ultra 9 290K Plus, Geekbench에서 여전히 등장",
-          "link": "https://www.lowyat.net/2026/387445/cancelled-intel-core-ultra-9-290k-plus-still-appearing-on-geekbench/",
-          "date": "Mar 25, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/Intel-Core-Ultra-7-270K-Core-Ultra-5-250K-Plus-Review-5-300x169.jpg",
-          "summary_ko": "취소되었다는 Intel Core Ultra 9 290K Plus의 성능 지표가 Geekbench에 나타났습니다.\n이 CPU는 싱글 코어 테스트에서 3,747점, 멀티 코어 테스트에서 26,117점을 기록했습니다.\n이는 24코어(P-코어 8개, E-코어 16개) 구성으로, 기존 루머와 동일한 코어 수입니다."
+          "title": "BUDI95 Monthly Quota Temporarily Adjusted To 200 Litres Starting 1 April 2026",
+          "title_ko": "BUDI95 월간 할당량, 2026년 4월 1일부터 200리터로 임시 조정",
+          "link": "https://www.lowyat.net/2026/387527/budi95-monthly-quota-temporarily-adjusted-to-200-litres-starting-1-april-2026/",
+          "date": "Mar 26, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2023/03/ron95-petrol-fuel.jpg",
+          "summary_ko": "정부는 BUDI95 보조금 월간 할당량을 300리터에서 200리터로 줄입니다.\n이 변경 사항은 2026년 4월 1일부터 발효되며, 보조금 지급 유가는 리터당 1.99링깃으로 유지됩니다.\n이번 결정은 대다수의 소비자에게 영향을 미치지 않을 것이며, e-호출 운전자 및 긱 워커의 연료 상한선은 변경되지 않습니다."
         },
         {
-          "title": "OnePlus Reportedly Ceasing Global Operations As Early As April 2026",
-          "title_ko": "OnePlus, 2026년 4월 조기 글로벌 운영 중단 보도",
-          "link": "https://www.lowyat.net/2026/387440/oneplus-exiting-global-market-april/",
-          "date": "Mar 25, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2025/11/oneplus-15r-pad-go-2-watch-lite-unveiled-2025-2-300x153.jpg",
-          "summary_ko": "OnePlus가 2026년 4월부터 유럽 등 여러 지역에서 운영을 중단할 계획이라는 보도가 나왔습니다.\n이 소식은 내부 관계자를 통해 전해졌으며, 일부 직원은 이미 해고 통보와 퇴직금을 받은 것으로 알려졌습니다.\n회사는 인도 시장에 집중하고 저가 및 중가 제품에 주력할 것으로 예상됩니다."
+          "title": "Samsung Officially Launches Its Own Browser For Windows",
+          "title_ko": "삼성, 윈도우용 자체 브라우저 공식 출시",
+          "link": "https://www.lowyat.net/2026/387521/samsung-officially-launches-its-own-browser-for-windows/",
+          "date": "Mar 26, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/Samsung-Browser-Windows-1-300x200.jpg",
+          "summary_ko": "삼성 브라우저는 윈도우 플랫폼에 공식 출시되었으며, Agentic AI 기능을 제공합니다.\n이 브라우저는 모바일과 PC 간의 원활한 브라우징 경험을 지원하며, 북마크 및 브라우저 기록 동기화를 지원합니다.\nAgentic AI는 웹페이지의 맥락을 이해하여 맞춤형 솔루션을 제공하고, 자연어 검색을 통해 브라우징 기록을 쉽게 찾을 수 있도록 합니다."
         },
         {
-          "title": "OpenAI Is Shutting Down Its Sora AI Video Generation Platform",
-          "title_ko": "OpenAI, Sora AI 비디오 생성 플랫폼 종료",
-          "link": "https://www.lowyat.net/2026/387436/openai-is-shutting-down-its-sora-ai-video-generation-platform/",
-          "date": "Mar 25, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/Sora-main-site-1-300x164.jpg",
-          "summary_ko": "OpenAI가 출시한 AI 비디오 플랫폼 Sora가 종료될 예정입니다.\n이는 OpenAI의 새로운 \"슈퍼앱\" 구축 계획의 일환으로, ChatGPT, Codex, Atlas 등 다른 앱들을 통합하기 위한 결정입니다.\nSora 연구팀은 로봇 공학 발전을 위한 월드 시뮬레이션 연구에 계속 집중할 것입니다."
+          "title": "Gentari To Introduce Idle Fees For EVs Left Too Long After Charging",
+          "title_ko": "Gentari, 충전 후 장시간 방치된 EV에 대한 유휴 요금 도입",
+          "link": "https://www.lowyat.net/2026/387508/gentari-idle-fees-for-evs/",
+          "date": "Mar 26, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2022/09/gentari-ev-charger-suria-klcc-01.jpeg",
+          "summary_ko": "Gentari는 충전 완료 후 15분 이상 차량을 계속 연결해 두는 경우 분당 0.40링깃의 유휴 요금을 부과합니다.\n이 새로운 요금은 기존의 초과 체류 요금을 대체하며, EV 운전자들이 충전 후 차량을 신속하게 이동하도록 장려합니다.\n일부 예외 장소를 제외한 모든 Gentari 충전소에 적용되며, 요금에는 최대 상한선이 없습니다."
         }
       ],
       "error": false
@@ -145,6 +145,14 @@
       "flag": "🇵🇭",
       "regionLabel": "Philippines",
       "articles": [
+        {
+          "title": "Legend of Ymir Highlights New Class and Strong Philippine-Inspired Direction Following Recent Media Session",
+          "title_ko": "Legend of Ymir, 새로운 클래스와 필리핀 영감의 방향성 강조",
+          "link": "https://gamingph.com/2026/03/legend-of-ymir-highlights-new-class-and-strong-philippine-inspired-direction-following-recent-media-session/",
+          "date": "Mar 26, 2026",
+          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/03/image-19.png?resize=950%2C534&#038;ssl=1",
+          "summary_ko": "최근 미디어 세션에서 새로운 Rune Fighter 클래스와 필리핀 문화 요소의 통합이 공개되었습니다.\nRune Fighter는 방어, 전방 내구력, 지역 교란에 중점을 둔 탱커 및 유틸리티 클래스입니다.\n게임은 필리핀 신화에서 영감을 받은 크리처와 동반자를 게임 세계관에 깊이 통합하고 있습니다."
+        },
         {
           "title": "Ragnarok Origin Classic Officially Launches Today!  Embark on a New Era of Fair Adventure",
           "title_ko": "라그나로크 오리진 클래식, 오늘 정식 출시! 공정한 모험의 새 시대 개막",
@@ -160,14 +168,6 @@
           "date": "Mar 19, 2026",
           "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/03/image-16.png?resize=950%2C534&#038;ssl=1",
           "summary_ko": "필리핀 개발사가 만든 스토리 중심 미스터리 게임 Lost & Found가 공개되었습니다.\n플레이어는 주인공 리코가 되어 고향 루이스아나에서 잃어버린 물건을 찾아주며 진실을 파헤쳐야 합니다.\n게임은 필리핀의 일상과 문화를 담아내며 독특한 비주얼 스타일을 선보입니다."
-        },
-        {
-          "title": "Blue Protocol: Star Resonance Season 2 Begins! New Area “Bahamar Highlands” and Shangri-La Frontier Collaboration Revealed",
-          "title_ko": "",
-          "link": "https://gamingph.com/2026/03/blue-protocol-star-resonance-season-2-begins-new-area-bahamar-highlands-and-shangri-la-frontier-collaboration-revealed/",
-          "date": "Mar 19, 2026",
-          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/03/image.jpeg?resize=950%2C534&#038;ssl=1",
-          "summary_ko": "애니메이션 스타일 MMORPG Blue Protocol: Star Resonance가 시즌 2 \"Echoes of Lost Nightmare\"를 시작했습니다.\n새로운 지역 \"Bahamar Highlands\"와 함께 Shangri-La Frontier 애니메이션과의 콜라보레이션이 진행됩니다.\n5월에는 FAIRY TAIL 애니메이션과의 콜라보레이션도 예정되어 있습니다."
         }
       ],
       "error": false
@@ -180,28 +180,28 @@
       "regionLabel": "Vietnam",
       "articles": [
         {
-          "title": "Seven Knights Idle Adventure tung loạt sự kiện kỷ niệm 2.5 năm",
-          "title_ko": "Seven Knights Idle Adventure, 2.5 năm kỷ niệm sự kiện",
-          "link": "https://gamelade.vn/seven-knights-idle-adventure-tung-loat-su-kien-ky-niem-2-5-nam/",
-          "date": "Mar 25, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/a-2.jpg",
-          "summary_ko": "Seven Knights Idle Adventure가 2.5주년을 기념하여 다양한 이벤트를 시작합니다.\n새로운 캐릭터 On Stage Dellons가 업데이트에 추가되었습니다.\n플레이어들은 로그인 보상과 챌린저 패스를 통해 희귀 아이템을 얻을 수 있습니다."
+          "title": "FIFA Heroes ấn định ngày ra mắt, gây tò mò với dàn nhân vật từ huyền thoại bóng đá đến thần thoại",
+          "title_ko": "FIFA Heroes ngày ra mắt ấn định, nhân vật đa dạng từ bóng đá đến thần thoại",
+          "link": "https://gamelade.vn/fifa-heroes-an-dinh-ngay-ra-mat-gay-to-mo-voi-dan-nhan-vat-tu-huyen-thoai-bong-da-den-than-thoai/",
+          "date": "Mar 26, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/rr-3.jpg",
+          "summary_ko": "FIFA Heroes는 5v5 아케이드 스타일의 축구 게임으로 모바일 출시를 확정했습니다.\n게임은 4월 28일 iOS 및 Android에서 출시되며, 새로운 트레일러가 공개되었습니다.\n축구 스타와 함께 토르, 손오공 같은 신화 속 캐릭터도 등장합니다."
         },
         {
-          "title": "Million Depth tung update 2.0 với chế độ khó mới và nâng cấp toàn diện gameplay",
-          "title_ko": "Million Depth, 새로운 난이도 모드와 게임플레이 개선 업데이트 2.0 출시",
-          "link": "https://gamelade.vn/million-depth-tung-update-2-0-voi-che-do-kho-moi-va-nang-cap-toan-dien-gameplay/",
-          "date": "Mar 25, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/r-5.jpg",
-          "summary_ko": "Million Depth가 새로운 난이도 모드와 전반적인 게임플레이 개선을 포함한 업데이트 2.0을 출시했습니다.\n'Dimension Over Mode'는 진 엔딩을 완료한 플레이어를 위한 새로운 도전 과제를 제공합니다.\n이 모드는 스피드런 기능을 지원하여 플레이어들이 자신의 기록을 단축하도록 장려합니다."
+          "title": "Genesis War mở đăng ký toàn cầu, mang chiến thuật RPG đậm chất Fire Emblem lên mobile",
+          "title_ko": "Genesis War, Fire Emblem 스타일 전략 RPG 모바일 출시",
+          "link": "https://gamelade.vn/genesis-war-mo-dang-ky-toan-cau-mang-chien-thuat-rpg-dam-chat-fire-emblem-len-mobile/",
+          "date": "Mar 26, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/u-2.webp",
+          "summary_ko": "Genesis War는 The War of Genesis 시리즈 기반의 신작 전략 RPG로 글로벌 사전 등록을 시작했습니다.\n턴제 전투와 그리드 기반 전술이 결합된 게임플레이를 제공합니다.\nFire Emblem과 유사하게 유닛 배치와 지형 활용이 중요하며, 방대한 스토리를 자랑합니다."
         },
         {
-          "title": "Iris Odyssey: Hephaistos’s Ring ấn định ngày ra mắt",
-          "title_ko": "Iris Odyssey: Hephaistos’s Ring, 출시일 확정",
-          "link": "https://gamelade.vn/iris-odyssey-hephaistoss-ring-an-dinh-ngay-ra-mat/",
-          "date": "Mar 25, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/t.png",
-          "summary_ko": "Iris Odyssey: Hephaistos’s Ring이 5월 29일 PC Steam을 통해 출시될 예정입니다.\n이 비주얼 노벨은 현대 배경과 마법 요소를 결합한 감동적인 스토리를 제공합니다.\n플레이어의 선택에 따라 다양한 스토리 분기가 열리는 선택 기반 게임플레이가 특징입니다."
+          "title": "Nintendo chính thức xác nhận game kỹ thuật số trên Switch 2 sẽ rẻ hơn băng vật lý",
+          "title_ko": "Nintendo Switch 2, 디지털 게임이 실물 패키지보다 저렴해진다",
+          "link": "https://gamelade.vn/nintendo-chinh-thuc-xac-nhan-game-ky-thuat-so-tren-switch-2-se-re-hon-bang-vat-ly/",
+          "date": "Mar 26, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/03/952474_686e0a9b6e4bd3.98680961.jpg",
+          "summary_ko": "Nintendo는 Switch 2에서 디지털 게임이 실물 게임보다 저렴하게 판매될 것이라고 공식 발표했습니다.\n이 정책은 5월 21일 출시 예정인 Yoshi and the Mysterious Book부터 적용됩니다.\n북미와 유럽 시장에서 디지털 버전이 실물 버전보다 약 10달러/파운드 저렴하게 책정되었습니다."
         }
       ],
       "error": false
@@ -214,28 +214,28 @@
       "regionLabel": "Thailand",
       "articles": [
         {
-          "title": "หลุดสเปก vivo T5 Pro ลุ้นมาพร้อมแบตเตอรี่ 9,020mAh ชาร์จไว 90W เตรียมขึ้นแท่นแบตอึดสุดของค่าย",
-          "title_ko": "vivo T5 Pro สเปกหลุด แบตเตอรี่ 9,020mAh ชาร์จไว 90W",
-          "link": "https://droidsans.com/vivo-t5-pro-battery-spec-leak/",
-          "date": "Mar 25, 2026",
+          "title": "เผยข้อมูล Infinix Hot 70 Series โผล่บน FCC คอนเฟิร์มมี 2 รุ่น คาดรุ่นท็อปได้แบต 5,600mAh ชาร์จไว 45W",
+          "title_ko": "Infinix Hot 70 Series FCC 인증 통과, 2가지 모델 출시 예상",
+          "link": "https://droidsans.com/infinix-hot-70-series-battery-leak-fcc/",
+          "date": "Mar 26, 2026",
           "thumbnail": "",
-          "summary_ko": "คาด vivo T5 Pro มาพร้อมแบตเตอรี่ขนาดใหญ่ 9,020mAh\nรองรับการชาร์จเร็ว 90W\nอาจขึ้นแท่นสมาร์ทโฟนแบตอึดที่สุดของ vivo"
+          "summary_ko": "최상위 모델은 5,600mAh 배터리와 45W 고속 충전 지원 전망\n새로운 Infinix Hot 70 시리즈는 FCC 인증을 통과했으며, 2가지 모델로 출시될 것으로 예상됩니다."
         },
         {
-          "title": "HONOR 600 โผล่ทดสอบบน Geekbench คาดใช้ชิป Snapdragon 7 Gen 4 พร้อม RAM 8GB",
-          "title_ko": "HONOR 600 ทดสอบบน Geekbench คาดใช้ชิป Snapdragon 7 Gen 4 RAM 8GB",
-          "link": "https://droidsans.com/honor-600-geekbench-leak/",
-          "date": "Mar 25, 2026",
+          "title": "หลุดสเปก vivo Pad6 Pro แท็บเล็ตเรือธงจอ 4K คาดมาพร้อมชิป Snapdragon 8 Elite Gen 5",
+          "title_ko": "vivo Pad6 Pro, 4K 디스플레이와 Snapdragon 8 Elite Gen 5 탑재 예상",
+          "link": "https://droidsans.com/vivo-pad6-pro-spec-leak-with-snapdragon-8-elite-gen-5/",
+          "date": "Mar 26, 2026",
           "thumbnail": "",
-          "summary_ko": "HONOR 600 ปรากฏบน Geekbench พร้อมชิป Snapdragon 7 Gen 4\nคาดว่าจะมี RAM 8GB และรัน Android 16\nอาจเป็นสมาร์ทโฟนระดับกลางที่เน้นประสิทธิภาพ"
+          "summary_ko": "MWC 2026에서 공개될 것으로 보이는 vivo Pad6 Pro의 사양이 유출되었습니다.\n이 태블릿은 13.2인치 4K 144Hz 디스플레이와 최신 Snapdragon 8 Elite Gen 5 칩셋을 탑재할 것으로 보입니다."
         },
         {
-          "title": "OnePlus ซุ่มพัฒนาเครื่องเกมพกพา Android สเปกเรือธง เน้นจอทัชสกรีนเอาใจสาย FPS",
-          "title_ko": "OnePlus พัฒนาเครื่องเกมพกพา Android สเปกระดับเรือธง เน้นจอทัชสกรีนสำหรับเกม FPS",
-          "link": "https://droidsans.com/oneplus-android-gaming-handheld-leak/",
-          "date": "Mar 25, 2026",
+          "title": "OPPO K15 Pro Series เปิดตัว 1 เม.ย. นี้ ชูจุดเด่นพัดลมระบายความร้อนทุกรุ่น เล่นเกมได้ยาว ๆ",
+          "title_ko": "OPPO K15 Pro 시리즈, 4월 1일 출시 예정 및 게임 특화 기능 강조",
+          "link": "https://droidsans.com/oppo-k15-pro-series-launch-in-1-april-2026/",
+          "date": "Mar 26, 2026",
           "thumbnail": "",
-          "summary_ko": "OnePlus กำลังพัฒนาเครื่องเกมพกพาที่ใช้ระบบ Android\nคาดว่าจะมีสเปกระดับเรือธงและเน้นหน้าจอสัมผัสสำหรับเกม FPS\nอาจเปิดตัวพร้อมกับสมาร์ทโฟนรุ่นใหม่ๆ ของ OnePlus"
+          "summary_ko": "모든 모델에 냉각 팬 탑재로 장시간 게임 플레이 지원\nOPPO K15 Pro 시리즈는 4월 1일에 출시될 예정이며, 특히 게임 경험 향상을 위한 냉각 팬 기능이 강조되었습니다."
         }
       ],
       "error": false
@@ -248,28 +248,28 @@
       "regionLabel": "Indonesia",
       "articles": [
         {
-          "title": "Ragnarok Origin Classic Resmi Hadir pada 26 Maret, Mengundang Petualang ke Era Petualangan Epik yang Adil",
-          "title_ko": "라그나로크 오리진 클래식, 3월 26일 정식 출시",
-          "link": "https://gamebrott.com/ragnarok-origin-classic-resmi-hadir-pada-26-maret-mengundang-petualang-ke-era-petualangan-epik-yang-adil/",
+          "title": "Bayar Gaji Developer, Budget Game Triple A Kini Melebihi 300 Juta Dollar",
+          "title_ko": "트리플 A 게임 개발자 급여, 3억 달러 초과",
+          "link": "https://gamebrott.com/budget-game-triple-a-sentuh-300-juta-lebih/",
+          "date": "Mar 27, 2026",
+          "thumbnail": "",
+          "summary_ko": "개발자 급여 상승으로 트리플 A 게임 제작 비용이 증가했습니다.\n혁신 없는 트리플 A 게임에 대한 비판이 제기되었습니다.\nBioshock 개발자 Ken Levine이 이에 대한 의견을 밝혔습니다."
+        },
+        {
+          "title": "Harga Konsol PS5 Dirumorkan Kembali Naik",
+          "title_ko": "PS5 콘솔 가격 재인상 루머",
+          "link": "https://gamebrott.com/harga-konsol-ps5-bakal-naik-lagi/",
+          "date": "Mar 27, 2026",
+          "thumbnail": "",
+          "summary_ko": "PS5를 리눅스 기반 PC로 개조하는 것이 가능해졌습니다.\n한 모더가 PS5에 리눅스 운영체제를 설치하는 데 성공했습니다.\n이로 인해 GTA V 실행도 가능해졌습니다."
+        },
+        {
+          "title": "Developer Crimson Desert Minta Maaf Terkait Penggunaan AI untuk Aset Gamenya",
+          "title_ko": "Crimson Desert 개발사, 게임 에셋 AI 사용에 사과",
+          "link": "https://gamebrott.com/developer-crimson-desert-ai-minta-maaf/",
           "date": "Mar 26, 2026",
           "thumbnail": "",
-          "summary_ko": "라그나로크 오리진 클래식이 3월 26일에 정식 출시됩니다.\n플레이어들은 공정한 모험의 시대로 초대받습니다.\n이번 출시는 라그나로크 더 뉴 월드의 파일럿 테스트 경험을 바탕으로 합니다."
-        },
-        {
-          "title": "Player Final Fantasy VII Rebirth Rata-rata Berusia di Atas 30 Tahun",
-          "title_ko": "Final Fantasy VII Rebirth 플레이어 평균 연령 30세 이상",
-          "link": "https://gamebrott.com/player-final-fantasy-vii-rebirth-usia-di-atas-30/",
-          "date": "Mar 25, 2026",
-          "thumbnail": "",
-          "summary_ko": "Final Fantasy VII Rebirth 플레이어들의 평균 연령이 30세 이상인 것으로 나타났습니다.\n테츠야 노무라는 다른 게임이나 프로젝트 작업 시 세피로스와 같은 캐릭터 디자인을 요청받았습니다.\n이 내용은 인터뷰에서 공개되었습니다."
-        },
-        {
-          "title": "Capcom Tidak akan Menggunakan Generative AI untuk Aset Game Mereka",
-          "title_ko": "Capcom, 게임 에셋 제작에 생성형 AI 사용하지 않을 것",
-          "link": "https://gamebrott.com/capcom-ai-tidak-akan-gunakan-dalam-aset-game/",
-          "date": "Mar 25, 2026",
-          "thumbnail": "",
-          "summary_ko": "Capcom은 게임 에셋 제작에 생성형 AI를 사용하지 않을 것이라고 밝혔습니다.\nOpenAI의 비디오 AI 애플리케이션 Sora가 공식적으로 종료되었습니다.\n이 소식은 최근에 보고되었습니다."
+          "summary_ko": "Crimson Desert가 300만 유닛 판매를 기록했습니다.\n이는 게임 출시 후 일주일도 채 되지 않아 달성한 성과입니다.\n개발사는 게임 에셋 제작에 AI를 사용한 것에 대해 사과했습니다."
         }
       ],
       "error": false
@@ -281,6 +281,14 @@
       "flag": "🇲🇾",
       "regionLabel": "Malaysia",
       "articles": [
+        {
+          "title": "They Will Kill You Review: Heartbreak Residence",
+          "title_ko": "They Will Kill You 리뷰: Heartbreak Residence",
+          "link": "https://www.kakuchopurei.com/2026/03/they-will-kill-you-review-kkp/",
+          "date": "Mar 26, 2026",
+          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/03/MV5BY2U5MTYxZjItZTQ1NS00YjQzLWFiMWItZDhjNzRlY2MwMDlkXkEyXkFqcGc@._V1_-scaled.jpg",
+          "summary_ko": "영화 제목처럼 처음부터 끝까지 잔혹하고 스타일리시한 호러 액션을 선보입니다.\n주인공 아시아는 실종된 여동생을 찾기 위해 악마 숭배 집단이 있는 레지던스에 들어가 탈출해야 합니다.\n독특한 촬영 기법과 함께 끊임없는 액션과 잔인한 장면들이 영화의 특징입니다."
+        },
         {
           "title": "Daredevil: Born Again Season 2 Review – A Grittier Follow-Up To The Man In Red",
           "title_ko": "데어데블: 본 어게인 시즌 2 리뷰 – 붉은 망토를 두른 자의 더 거친 후속작",
@@ -296,14 +304,6 @@
           "date": "Mar 24, 2026",
           "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/03/projecthailmary_03.png",
           "summary_ko": "라이언 고슬링은 영화에서 과학 교사 출신 우주비행사로 완벽한 연기를 선보입니다.\n주인공은 지구의 태양 소멸 문제를 해결하기 위해 우주 임무를 수행합니다.\n외계 생명체 '로키'와 협력하며 지구로 돌아갈 방법을 찾습니다."
-        },
-        {
-          "title": "Screamer (2026) Review: Arcade Racing’s Back, Baby!",
-          "title_ko": "스크리머 (2026) 리뷰: 아케이드 레이싱이 돌아왔다!",
-          "link": "https://www.kakuchopurei.com/2026/03/screamer-2026-review-kkp/",
-          "date": "Mar 23, 2026",
-          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/03/screamer2026_02.jpg",
-          "summary_ko": "Screamer (2026)은 90년대 아케이드 레이싱의 정신을 계승한 게임입니다.\n이 게임은 플레이어와 차량이 충돌 시 부활하는 신기술을 특징으로 하는 불법 스트리트 레이싱 토너먼트를 중심으로 이야기가 전개됩니다.\n다양한 팀과 그들의 레이서들이 등장하며, 게임 플레이와 함께 스토리 모드가 진행됩니다."
         }
       ],
       "error": false
