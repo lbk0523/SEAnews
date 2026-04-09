@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08 01:28 UTC",
+  "updated_at": "2026-04-09 01:20 UTC",
   "ai_summary": true,
   "sources": [
     {
@@ -9,6 +9,14 @@
       "flag": "🌏",
       "regionLabel": "SEA Wide",
       "articles": [
+        {
+          "title": "AMD Ryzen 9 9950X3D2 Dual Edition Launches April 22 with $899 Price Tag",
+          "title_ko": "AMD Ryzen 9 9950X3D2 듀얼 에디션, 4월 22일 899달러에 출시",
+          "link": "https://www.back2gaming.com/news/amd-ryzen-9-9950x3d2-dual-edition-launches-april-22-with-899-price-tag/",
+          "date": "Apr 08, 2026",
+          "thumbnail": "",
+          "summary_ko": "AMD는 세계 최초의 듀얼 3D V-Cache 데스크톱 프로세서인 Ryzen 9 9950X3D2를 4월 22일 899달러에 출시한다고 발표했습니다.\n이 프로세서는 개발자와 콘텐츠 제작자를 위한 워크스테이션급 성능에 초점을 맞추고 있으며, 양쪽 CCD에 3D V-Cache를 탑재하여 코어 간 지연 시간을 제거했습니다.\nAMD는 게이밍 성능에 대한 언급을 줄여 자사 제품 간의 판매 간섭을 피하려는 전략을 취하는 것으로 보입니다."
+        },
         {
           "title": "General Audience: Key Features to Consider When Shopping for Versatile Work and Weekend Skirts",
           "title_ko": "다용도 스커트 쇼핑 시 고려해야 할 주요 기능",
@@ -24,14 +32,6 @@
           "date": "Apr 07, 2026",
           "thumbnail": "",
           "summary_ko": "유럽 소비자들은 개인 정보 보호에 대한 우려가 높으며, 프랑스와 독일이 특히 두드러집니다.\n아시아에서는 도박 규제가 엄격한 국가에서 플레이어들이 개인 정보 보호를 더욱 중요하게 생각합니다.\n개인 정보 보호에 민감한 플레이어들이 특정 지역에서 강한 지지를 얻는 이유를 이해하는 것이 중요합니다."
-        },
-        {
-          "title": "Milla Jovovich Co-Devs in Open Source MemPalace Project: An AI Memory System That Never Forgets",
-          "title_ko": "밀라 요보비치, AI 메모리 시스템 MemPalace 프로젝트에 공동 개발 참여",
-          "link": "https://www.back2gaming.com/news/milla-jovovich-co-devs-in-open-source-mempalace-project-an-ai-memory-system-that-never-forgets/",
-          "date": "Apr 07, 2026",
-          "thumbnail": "",
-          "summary_ko": "밀라 요보비치는 AI 메모리 시스템 MemPalace를 공동 개발하여 AI의 기억력 문제를 해결하고자 합니다.\nMemPalace는 대화가 끝난 후 AI가 모든 것을 잊어버리는 문제를 해결하기 위해 모든 것을 저장하고 빠르게 찾을 수 있도록 구성합니다.\n이 시스템은 기존 AI 솔루션과 달리 AI가 기억할 내용을 결정하는 대신 모든 대화 내용을 저장합니다."
         }
       ],
       "error": false
@@ -78,28 +78,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
-          "title": "Plants vs Zombies 3: Evolved begins global rollout with the mobile early access in Ireland and the Philippines",
-          "title_ko": "Plants vs Zombies 3: Evolved, 아일랜드와 필리핀에서 모바일 조기 액세스 시작",
-          "link": "https://gamingonphone.com/news/plants-vs-zombies-3-evolved-begins-global-rollout-with-the-mobile-early-access/",
-          "date": "Apr 07, 2026",
+          "title": "Animal Busters: Idle RPG coupon codes and how to use them (April 2026)",
+          "title_ko": "Animal Busters: Idle RPG 쿠폰 코드 및 사용 방법 (2026년 4월)",
+          "link": "https://gamingonphone.com/guides/animal-busters-idle-rpg-redeem-codes-and-how-to-use-them/",
+          "date": "Apr 08, 2026",
           "thumbnail": "",
-          "summary_ko": "Plants vs Zombies 3: Evolved가 6년 이상의 긴 여정 끝에 글로벌 출시를 앞두고 있습니다.\n이 게임은 기존의 타워 디펜스 게임 플레이에 새로운 메커니즘을 도입했습니다.\n아바타 기능은 제거되었고, 원작과 같은 잔디밭 기반 방어 게임 플레이가 강조되었습니다."
+          "summary_ko": "이 코드를 사용하여 Animal Busters: Idle RPG에서 많은 게임 내 무료 아이템을 얻으세요!\n이 코드는 기간 한정으로 만료되기 전에 사용해야 합니다.\nLINE Games의 서바이벌 RPG인 Animal Busters: Idle RPG는 가장 강한 동물만이 살아남는 게임입니다."
         },
         {
-          "title": "Easy Delivery Co Review: A relaxing delivery game that’s easy to be lost in",
-          "title_ko": "Easy Delivery Co Review: 몰입하기 쉬운 편안한 배달 게임",
-          "link": "https://gamingonphone.com/reviews/easy-delivery-co-game-review/",
-          "date": "Apr 07, 2026",
+          "title": "eFootball’s Master League gets a wild manga twist with “That Time I Got Reincarnated in PES”",
+          "title_ko": "eFootball의 마스터 리그, “그것이 내가 페스에서 환생했을 때” 만화로 재탄생",
+          "link": "https://gamingonphone.com/news/efootballs-master-league-gets-a-wild-manga-twist-with-that-time-i-got-reincarnated-in-pes/",
+          "date": "Apr 08, 2026",
           "thumbnail": "",
-          "summary_ko": "Easy Delivery Co.는 플레이어가 주문을 받고, 배달하고, 돈을 벌고, 트럭을 업그레이드하는 단순한 게임 플레이 루프를 가지고 있습니다.\n게임은 세 개의 지역으로 나뉜 산악 지역에서 시작되며, 플레이어는 새로운 경로와 기회를 잠금 해제하면서 탐험하게 됩니다.\n이 게임은 편안한 경험을 제공하지만, 플레이어가 길을 잃거나 에너지 음료에 돈을 너무 많이 쓰는 등 예상치 못한 재미 요소도 있습니다."
+          "summary_ko": "KONAMI는 eFootball 마스터 리그를 기반으로 한 만화 “그것이 내가 페스에서 환생했을 때”를 발표했습니다.\n이 만화는 주인공이 마스터 리그 축구 세계에 환생하는 이야기를 다루며, Kodansha의 K MANGA 플랫폼에서 매주 연재됩니다.\n만화는 유머와 과장된 경기 상황을 특징으로 하며, Kiminori Wakasugi가 그림을 맡았습니다."
         },
         {
-          "title": "Game of Thrones: Dragonfire takes you to the past to claim the Iron Throne as global pre-registration goes live on mobile",
-          "title_ko": "Game of Thrones: Dragonfire, 철왕좌를 차지하기 위해 과거로 떠나는 여정, 모바일 글로벌 사전 등록 시작",
-          "link": "https://gamingonphone.com/news/game-of-thrones-dragonfire-takes-you-to-the-past-to-claim-the-iron-throne-as-global-pre-registration-goes-live-on-mobile/",
-          "date": "Apr 07, 2026",
+          "title": "eFootball 2026 Highlight Magical Dribbler April 2026 Nominating Contract Review",
+          "title_ko": "eFootball 2026 하이라이트 마법 드리블러 2026년 4월 지명 계약 검토",
+          "link": "https://gamingonphone.com/guides/efootball-2026-highlight-magical-dribbler-april-2026-nominating-contract-review/",
+          "date": "Apr 08, 2026",
           "thumbnail": "",
-          "summary_ko": "Game of Thrones: Dragonfire는 전쟁, 확장 등을 포함하는 현대적인 소셜 전략 경험을 제공합니다.\n이 게임은 6월 16일에 출시될 예정이며, 현재 사전 등록을 통해 보상을 받을 수 있습니다.\n플레이어는 자신의 가문을 이끌고 드래곤과 함께 웨스테로스를 탐험하며 철왕좌를 차지하기 위해 싸우게 됩니다."
+          "summary_ko": "새로운 달을 맞아 eFootball 2026에 새로운 지명 계약 선수들이 등장하며, 이번에는 2026년 4월 라인업의 하이라이트 마법 드리블러입니다.\n이 세트는 볼을 다루는 능력으로 유명한 선수들에게 초점을 맞추고 있으며, Matheus Cunha, Alexander Isak, Estevão 등이 포함됩니다.\n이 글은 어떤 마법 드리블러가 실제로 계약할 가치가 있는지 분석하여 독자가 선택하는 데 도움을 줍니다."
         }
       ],
       "error": false
@@ -112,28 +112,28 @@
       "regionLabel": "SEA Wide / Malaysia",
       "articles": [
         {
-          "title": "Intel Confirms That Raptor Lake Will Still Remain In Production",
-          "title_ko": "Intel Raptor Lake 생산 지속 확인",
-          "link": "https://www.lowyat.net/2026/388734/intel-confirms-that-raptor-lake-will-still-remain-in-production/",
-          "date": "Apr 07, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2024/10/Intel-Core-i9-14900K-New-Shot-1.jpg",
-          "summary_ko": "Intel은 Raptor Lake 플랫폼이 계속 생산될 것이라고 확인했습니다.\nDDR4 및 DDR5 하이브리드 마더보드 출시도 계획하고 있습니다.\n13세대 및 14세대 제품은 여전히 강력하며 사라지지 않을 것입니다."
+          "title": "Voicsky Officially Rolls Out its Keyboards In Malaysia",
+          "title_ko": "Voicsky, 말레이시아에서 키보드 공식 출시",
+          "link": "https://www.lowyat.net/2026/388919/voicsky-officially-rolls-out-its-keyboards-in-malaysia/",
+          "date": "Apr 08, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/VoicSky-1-scaled.webp",
+          "summary_ko": "Voicsky가 말레이시아에서 커스텀 기계식 키보드 라인업을 공식 출시했습니다.\nApex, Echo, Pulse 세 가지 주요 라인업이 있으며, 각각 다른 기능과 가격대를 제공합니다.\nApex 75는 CNC 알루미늄 바디와 Gasket 스위치를 탑재했으며, RM349에 판매됩니다."
         },
         {
-          "title": "U Mobile Launches New ULTRA5G Plans With Priority Network Access And More",
-          "title_ko": "U Mobile, 우선순위 네트워크 액세스 등 새로운 ULTRA5G 요금제 출시",
-          "link": "https://www.lowyat.net/2026/388721/u-mobile-launches-new-ultra5g-plans/",
-          "date": "Apr 07, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/u-mobile-new-ultra5g-postpaid-prepaid-plans-launch_07.webp",
-          "summary_ko": "U Mobile이 새로운 \"ULTRA\" 브랜딩 하에 리프레시된 ULTRA5G 요금제를 출시했습니다.\n새로운 요금제에는 혼잡한 시간대에 더 빠르고 안정적인 연결을 제공하는 ULTRA5G Priority Pass가 포함됩니다.\n또한 스마트워치 연결을 위한 ULTRA WatchShare와 같은 추가 기능도 제공됩니다."
+          "title": "GrabX 2026: Grab Introduces New Features, Including In-App Hotel Booking And More",
+          "title_ko": "GrabX 2026: Grab, 인앱 호텔 예약 등 새로운 기능 발표",
+          "link": "https://www.lowyat.net/2026/388879/grabx-2026-grab-introduces-new-features/",
+          "date": "Apr 08, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/GrabX-2026-Grab-new-features-1.webp",
+          "summary_ko": "Grab이 GrabX 2026 행사에서 동남아시아 사용자를 위한 '일상 가이드'로 거듭날 새로운 기능들을 발표했습니다.\nGrab More 기능을 통해 여러 판매처의 주문을 추가 비용 없이 한 번에 배송받을 수 있습니다.\nGrab AI Assistant는 대화형으로 레스토랑 찾기, 그룹 식사 계획, 예약 등을 도와줍니다."
         },
         {
-          "title": "Italian TV Channel Sends Copyright Strike To YouTube Against NVIDIA’s Own DLSS 5 Video",
-          "title_ko": "이탈리아 TV 채널, NVIDIA DLSS 5 영상에 저작권 침해 신고",
-          "link": "https://www.lowyat.net/2026/388723/italian-tv-channel-sends-copyright-strike-to-youtube-against-nvidias-own-dlss-5-video/",
-          "date": "Apr 07, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/03/NVIDIA-DLSS-5-GTC-2026-Announcement-1-scaled.jpg",
-          "summary_ko": "이탈리아 TV 채널 La7이 NVIDIA의 DLSS 5 발표 영상에 저작권 침해 신고를 했습니다.\n이로 인해 NVIDIA의 공식 DLSS 5 발표 영상이 YouTube에서 삭제되었습니다.\nYouTube의 AI 시스템이 신고를 처리하는 과정에서 오류가 발생한 것으로 보입니다."
+          "title": "MAE App PIN Resets Now Requires Identity Verification",
+          "title_ko": "MAE 앱 PIN 재설정 시 신원 확인 필수",
+          "link": "https://www.lowyat.net/2026/388883/mae-app-pin-resets-requires-identity-verification/",
+          "date": "Apr 08, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2025/11/maybank-mae-5th-anniversary_01.jpg",
+          "summary_ko": "Maybank가 MAE 앱의 보안 강화를 위해 PIN 재설정 시 신원 확인 절차를 도입했습니다.\nMyKad 또는 여권 스캔과 셀카 촬영으로 간편하게 신원을 확인할 수 있습니다.\n또는 Maybank ATM에서 임시 M2U PIN을 발급받아 사용할 수도 있습니다."
         }
       ],
       "error": false
@@ -180,28 +180,28 @@
       "regionLabel": "Vietnam",
       "articles": [
         {
-          "title": "Phần lớn game thủ PC không bận tâm việc PlayStation rút game độc quyền khỏi Steam",
-          "title_ko": "Phần lớn game thủ PC không bận tâm việc PlayStation rút game độc quyền khỏi Steam",
-          "link": "https://gamelade.vn/phan-lon-game-thu-pc-khong-ban-tam-viec-playstation-rut-game-doc-quyen-khoi-steam/",
-          "date": "Apr 07, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/ps5-no-exclusives.jpg",
-          "summary_ko": "대부분의 PC 게이머들은 PlayStation이 Steam에서 독점 게임을 철수하는 것에 신경 쓰지 않습니다.\n소니는 플레이스테이션 콘솔에 다시 집중하기 위해 독점 싱글 플레이어 게임의 PC 출시를 줄일 수 있습니다.\n하지만 많은 PC 게이머들은 이것이 큰 문제가 되지 않으며 콘솔을 구매할 계획이 없다고 말합니다."
+          "title": "Faker thử nghiệm Darius đường giữa trong xếp hạng đơn",
+          "title_ko": "페이커, 솔랭에서 미드 다리우스 실험",
+          "link": "https://gamelade.vn/faker-thu-nghiem-darius-duong-giua-trong-xep-hang-don/",
+          "date": "Apr 08, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/maxresdefault-54.jpg",
+          "summary_ko": "전설적인 프로게이머 페이커가 솔로 랭크에서 미드 다리우스를 실험하고 있습니다.\n이는 기존의 미드 라이너와는 다른 새로운 플레이 스타일을 선보입니다.\n아직 공식 경기에서는 사용되지 않았으며, 향후 프로 경기 도입 여부는 미지수입니다."
         },
         {
-          "title": "Battlestate Games lên tiếng về các lệnh cấm trong Escape from Tarkov",
-          "title_ko": "Battlestate Games, Escape from Tarkov의 금지에 대해 입장을 밝히다",
-          "link": "https://gamelade.vn/battlestate-games-len-tieng-ve-cac-lenh-cam-trong-escape-from-tarkov/",
-          "date": "Apr 07, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/2023_12_24_638390400925431615_escape-from-tarkov-thum.webp",
-          "summary_ko": "Battlestate Games는 Escape from Tarkov의 금지에 대해 입장을 밝혔습니다.\n2026년 1분기에 25,000개의 계정이 차단되었으며, 그중 54%는 부정 행위 때문이었습니다.\n나머지 46%는 RMT, 봇 사용, 스크립트 등 다른 위반 행위 때문이었습니다."
+          "title": "Tựa game bắn súng cốt truyện Industria II ấn định ngày phát hành trên PC",
+          "title_ko": "Industria II, PC 출시일 확정",
+          "link": "https://gamelade.vn/tua-game-ban-sung-cot-truyen-industria-ii-an-dinh-ngay-phat-hanh-tren-pc/",
+          "date": "Apr 08, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/INDUSTRIA-2-Date_04-07-26.jpg",
+          "summary_ko": "Industria II는 4월 15일 PC로 출시될 예정입니다.\n이 게임은 1인칭 슈팅과 액션 어드벤처 요소가 결합된 스토리 기반 게임입니다.\n플레이어는 평행 우주에 갇힌 여성의 생존기를 경험하게 됩니다."
         },
         {
-          "title": "Lộ diện CPU AMD Ryzen 9 9950X3D2 Dual Edition với mức giá 1.000 euro",
-          "title_ko": "AMD Ryzen 9 9950X3D2 Dual Edition CPU, 1,000유로 가격으로 공개",
-          "link": "https://gamelade.vn/lo-dien-cpu-amd-ryzen-9-9950x3d2-dual-edition-voi-muc-gia-1-000-euro/",
-          "date": "Apr 07, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/Ryzen-9-9950X3D.jpeg",
-          "summary_ko": "AMD Ryzen 9 995050X3D2 Dual Edition CPU가 1,000유로의 가격으로 공개되었습니다.\n이 CPU는 현재 최고 모델인 Ryzen 9 9950X3D보다 훨씬 비쌉니다.\n출시일은 4월 22일이며, 예상 MSRP는 799달러입니다."
+          "title": "Bản cập nhật PS5 Pro của Cyberpunk 2077 chính thức ra mắt",
+          "title_ko": "사이버펑크 2077, PS5 Pro 업데이트 출시",
+          "link": "https://gamelade.vn/ban-cap-nhat-ps5-pro-cua-cyberpunk-2077-chinh-thuc-ra-mat/",
+          "date": "Apr 08, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/Cyberpunk-2077-PS5-Pro_04-07-26_001-scaled.jpg",
+          "summary_ko": "사이버펑크 2077의 PS5 Pro 전용 업데이트가 4월 8일에 출시되었습니다.\n이번 업데이트는 4K 해상도, 향상된 레이 트레이싱 등 전반적인 그래픽과 성능을 개선합니다.\nPS5 Pro 사용자는 더욱 향상된 나이트 시티를 경험할 수 있습니다."
         }
       ],
       "error": false
@@ -214,28 +214,28 @@
       "regionLabel": "Thailand",
       "articles": [
         {
-          "title": "WhatsApp เตรียมอัปเดตฟีเจอร์ตัดเสียงรบกวน ทั้งโทรปกติและวิดีโอคอล",
-          "title_ko": "WhatsApp เตรียมเพิ่มฟีเจอร์ตัดเสียงรบกวน",
-          "link": "https://droidsans.com/whatsapp-will-launch-new-feature-noise-cancellation/",
+          "title": "เผยภาพเรนเดอร์เครื่องเกมพกพา OnePlus จอ 8 นิ้ว พร้อมชิป Dimensity 9500 Windspeed Edition",
+          "title_ko": "OnePlus 휴대용 게임기 렌더링 이미지 공개, 8인치 화면 및 Dimensity 9500 Windspeed Edition 칩 탑재",
+          "link": "https://droidsans.com/oneplus-gaming-handheld-render-leak/",
+          "date": "Apr 09, 2026",
+          "thumbnail": "",
+          "summary_ko": "OnePlus가 8인치 화면과 Dimensity 9500 Windspeed Edition 칩을 탑재한 휴대용 게임기 렌더링 이미지를 공개했습니다.\n이 기기는 FPS 게임에 최적화된 성능을 제공할 것으로 예상됩니다.\n자세한 사양은 아직 공개되지 않았지만, 휴대용 게임 시장에 새로운 바람을 불러올 것으로 기대됩니다."
+        },
+        {
+          "title": "สเปค OnePlus Nord 6 เก่งรอบด้าน ชิปแรง หน้าจอลื่น แบตความจุเยอะ กล้องคมชัด จัดเต็มฟีเจอร์ AI",
+          "title_ko": "OnePlus Nord 6 사양 공개: 강력한 칩, 부드러운 화면, 대용량 배터리, AI 기능 탑재",
+          "link": "https://droidsans.com/oneplus-nord-6-debut-with-snapdragon-8s-gen-4/",
           "date": "Apr 08, 2026",
           "thumbnail": "",
-          "summary_ko": "WhatsApp กำลังจะเพิ่มฟีเจอร์ตัดเสียงรบกวนในการโทรปกติและวิดีโอคอล\nฟีเจอร์นี้จะช่วยให้การสื่อสารชัดเจนยิ่งขึ้น\nคาดว่าจะเปิดให้ใช้งานบน Android ก่อน\nGoogle AI Edge Eloquent แอปพิมพ์ด้วยเสียง ถอดเสียงอัจฉริยะแบบ Offline ไม่ต้องง้อเน็ต ใช้งานฟรี\nGoogle เปิดตัว AI Edge Eloquent แอปพลิเคชันพิมพ์ด้วยเสียงที่ทำงานแบบออฟไลน์ได้\nแอปนี้สามารถแปลงเสียงพูดเป็นข้อความได้อย่างแม่นยำโดยไม่ต้องใช้อินเทอร์เน็ต\nพัฒนาโดยใช้เทคโนโลยี On-device AI ของ Google เพื่อความเป็นส่วนตัวและความรวดเร็ว\nเปิดตัว Google Pixel 10a Isai Blue รุ่นพิเศษฉลอง 10 ปี ดีไซน์สุดอาร์ต เฉพาะญี่ปุ่นเท่านั้น\nGoogle เปิดตัว Google Pixel 10a Isai Blue รุ่นพิเศษฉลองครบรอบ 10 ปี\nสมาร์ทโฟนรุ่นนี้มีดีไซน์ที่โดดเด่นและวางจำหน่ายเฉพาะในประเทศญี่ปุ่นเท่านั้น\nชื่อ \"Isai\" มาจากภาษาญี่ปุ่นที่หมายถึง \"สีสัน\" สะท้อนถึงดีไซน์ที่เป็นเอกลักษณ์"
+          "summary_ko": "OnePlus Nord 6의 상세 사양이 공개되었으며, 강력한 성능과 다양한 AI 기능을 갖춘 것이 특징입니다.\n165Hz 주사율의 Sunburst 디스플레이와 9,000mAh의 대용량 배터리를 탑재했습니다.\nSnapdragon 8s Gen 4 칩셋과 LPDDR5X RAM, UFS 4.1 스토리지를 사용하여 뛰어난 성능을 제공합니다."
         },
         {
-          "title": "Google AI Edge Eloquent แอปพิมพ์ด้วยเสียง ถอดเสียงอัจฉริยะแบบ Offline ไม่ต้องง้อเน็ต ใช้งานฟรี",
-          "title_ko": "",
-          "link": "https://droidsans.com/google-ai-edge-eloquent/",
-          "date": "Apr 07, 2026",
+          "title": "Google Meet รองรับการใช้งานบน CarPlay แล้ว",
+          "title_ko": "Google Meet, CarPlay 지원 시작",
+          "link": "https://droidsans.com/google-meet-now-support-on-apple-carplay-already/",
+          "date": "Apr 08, 2026",
           "thumbnail": "",
-          "summary_ko": ""
-        },
-        {
-          "title": "เปิดตัว Google Pixel 10a Isai Blue รุ่นพิเศษฉลอง 10 ปี ดีไซน์สุดอาร์ต เฉพาะญี่ปุ่นเท่านั้น",
-          "title_ko": "",
-          "link": "https://droidsans.com/google-pixel-10a-isai-blue/",
-          "date": "Apr 07, 2026",
-          "thumbnail": "",
-          "summary_ko": ""
+          "summary_ko": "Google Meet이 Apple CarPlay를 지원하기 시작하여 차량 내에서 더욱 편리하게 사용할 수 있게 되었습니다.\n이를 통해 운전 중에도 Google Meet 회의에 참여하거나 통화를 할 수 있습니다.\n이번 업데이트는 운전자의 편의성을 높이고 안전 운전을 지원할 것으로 기대됩니다."
         }
       ],
       "error": false
@@ -248,28 +248,28 @@
       "regionLabel": "Indonesia",
       "articles": [
         {
-          "title": "Designer Game Jepang Ungkap Dev Game Mobile Juga Dapat Kabar EoS Secara Tiba-Tiba",
-          "title_ko": "일본 게임 디자이너, 모바일 게임 개발자도 갑작스러운 서비스 종료 소식을 접한다고 밝혀",
-          "link": "https://gamebrott.com/dev-game-mobile-dikabari-eos/",
-          "date": "Apr 08, 2026",
+          "title": "Framework Ramal Harga RAM dan SSD akan Tetap Mahal Hingga Akhir 2026",
+          "title_ko": "프레임워크, RAM 및 SSD 가격은 2026년 말까지 계속 높을 것으로 예상",
+          "link": "https://gamebrott.com/framework-ramal-harga-ram-dan-ssd/",
+          "date": "Apr 09, 2026",
           "thumbnail": "",
-          "summary_ko": "Limbus Company의 일본 게임 디자이너가 모바일 게임 개발자들도 갑작스러운 서비스 종료 소식을 접할 수 있다고 언급했습니다.\n이는 게임 개발 과정에서 예상치 못한 상황이 발생할 수 있음을 시사합니다.\n특히 모바일 게임 시장의 경쟁 심화와 수익성 문제 등이 원인이 될 수 있습니다."
+          "summary_ko": "MSI와 Asus는 Intel Arrow Lake Refresh 메인보드 출시를 연기했습니다.\n이는 시장 상황과 신기술 도입 시기를 고려한 결정입니다.\n부품 가격 상승은 당분간 지속될 전망입니다."
         },
         {
-          "title": "7 ID Bleed Limbus Company Untuk Pemula, Wareg Clash Coin!",
-          "title_ko": "초보자를 위한 Limbus Company 7가지 ID, Wareg Clash Coin!",
-          "link": "https://gamebrott.com/id-bleed-limbus-company/",
-          "date": "Apr 07, 2026",
+          "title": "Terlalu Laris, Pengiriman MacBook Neo Diundur Beberapa Minggu",
+          "title_ko": "맥북 네오 배송 지연, 수요 폭증으로 몇 주 연기",
+          "link": "https://gamebrott.com/pengiriman-macbook-neo-diundur/",
+          "date": "Apr 09, 2026",
           "thumbnail": "",
-          "summary_ko": "Limbus Company에서 초보자를 위한 7가지 ID를 소개합니다.\n이 ID들은 게임 초반 진행에 도움을 줄 수 있습니다.\nWareg Clash Coin에 대한 정보도 함께 제공됩니다."
+          "summary_ko": "애플은 맥북 네오에서 Microsoft Office 프로모션을 통해 윈도우 사용자를 유인하고 있습니다.\n맥북 네오는 매우 경쟁력 있는 가격으로 출시되었습니다.\n이러한 전략은 윈도우 사용자들의 맥북 전환을 유도하기 위한 것입니다."
         },
         {
-          "title": "Drip Marketing Mortenax Blade Honkai Star Rail Diumumkan",
-          "title_ko": "Honkai Star Rail의 Mortenax Blade 드립 마케팅 발표",
-          "link": "https://gamebrott.com/drip-marketing-mortenax-blade-honkai-star-rail/",
-          "date": "Apr 07, 2026",
+          "title": "WhatsApp Username Sedang dalam Fase Beta",
+          "title_ko": "왓츠앱 사용자 이름, 베타 단계 진행 중",
+          "link": "https://gamebrott.com/whatsapp-username-dalam-fase-beta/",
+          "date": "Apr 09, 2026",
           "thumbnail": "",
-          "summary_ko": "Honkai Star Rail의 신규 캐릭터 Mortenax Blade의 드립 마케팅이 발표되었습니다.\n이 마케팅은 게임의 새로운 콘텐츠에 대한 기대감을 높일 것으로 보입니다.\n또한, Ashveil의 최적 빌드에 대한 정보도 함께 다루고 있습니다."
+          "summary_ko": "러시아 정부, 왓츠앱 차단 및 다른 앱으로 전환 권고\n많은 사용자들이 대체 메신저 앱으로 이동하고 있습니다.\n이는 개인 정보 보호 및 보안 문제와 관련이 있을 수 있습니다."
         }
       ],
       "error": false
@@ -281,6 +281,14 @@
       "flag": "🇲🇾",
       "regionLabel": "Malaysia",
       "articles": [
+        {
+          "title": "Super Alloy Crush Early Access Review: Mega Men",
+          "title_ko": "슈퍼 알로이 크러쉬 얼리 액세스 리뷰: 메가맨 스타일 게임",
+          "link": "https://www.kakuchopurei.com/2026/04/super-alloy-crush-early-access-review/",
+          "date": "Apr 08, 2026",
+          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/04/superalloycrush_04.jpg",
+          "summary_ko": "이 게임은 메가맨 스타일의 액션 플랫포머 게임으로, 인디 개발사가 명맥을 이어가고 있습니다.\n플레이어는 뮤 또는 켈리 중 한 명을 선택하여 근접 공격 또는 원거리 공격을 펼칠 수 있습니다.\n다양한 칩과 서포트 시스템을 활용하여 스테이지를 공략하고 보스를 물리쳐야 합니다."
+        },
         {
           "title": "KuloNiku: Bowl Up Review – Chef’s Kiss?",
           "title_ko": "KuloNiku: Bowl Up 리뷰 – 셰프의 키스?",
@@ -296,14 +304,6 @@
           "date": "Apr 02, 2026",
           "thumbnail": "https://static.wikia.nocookie.net/streetfighter/images/3/39/Resurrection.gif/revision/latest/scale-to-width-down/184?cb=20101223212249",
           "summary_ko": "부활은 게임에서 플레이어의 노력을 무효화할 수도 있지만, 때로는 게임 프랜차이즈를 다시 살리기도 합니다.\nStreet Fighter III의 Gill은 레벨 3 부활 능력으로 플레이어를 좌절시킵니다.\nDoom 2와 Doom Eternal의 Arch-Vile은 적을 부활시켜 플레이어의 진행을 방해합니다."
-        },
-        {
-          "title": "Grime II Review: Clay Face",
-          "title_ko": "그라임 II 리뷰: 클레이 페이스",
-          "link": "https://www.kakuchopurei.com/2026/04/grime-ii-review-kkp/",
-          "date": "Apr 01, 2026",
-          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/03/grime2_02.jpg",
-          "summary_ko": "그라임 II는 전작의 장점을 계승하고 개선한 액션 게임입니다.\n플레이어는 독특한 세계관 속에서 창조, 신의 역할, 책임감 등 다양한 주제를 탐험하게 됩니다.\n게임은 잔혹한 난이도와 도전적인 플레이 경험을 제공합니다."
         }
       ],
       "error": false
