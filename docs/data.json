@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14 01:47 UTC",
+  "updated_at": "2026-04-15 01:29 UTC",
   "ai_summary": true,
   "sources": [
     {
@@ -44,6 +44,14 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
+          "title": "Mouse: P.I. For Hire – Review",
+          "title_ko": "마우스: P.I. For Hire – 리뷰",
+          "link": "https://geekculture.co/mouse-pi-for-hire-review/",
+          "date": "Apr 14, 2026",
+          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/04/mouse-pi-for-hire-review-1.jpg",
+          "summary_ko": "이 게임은 독특한 컨셉, 인상적인 비주얼, 오래된 게임 시대를 연상시키는 요소들을 모두 갖추고 있습니다.\n흑백 미학과 고무호스 애니메이션 스타일을 활용한 복고풍 \"부머 슈터\" 게임플레이를 선보입니다.\n화려한 외관 아래에는 평범하지만 특별하지 않은 슈터 게임이 존재합니다."
+        },
+        {
           "title": "Pragmata – Review",
           "title_ko": "프라그마타 – 리뷰",
           "link": "https://geekculture.co/pragmata-review/",
@@ -58,14 +66,6 @@
           "date": "Apr 13, 2026",
           "thumbnail": "https://geekculture.co/wp-content/uploads/2026/04/disney-extraction-shooter-1.jpg",
           "summary_ko": "에픽게임즈가 디즈니 캐릭터를 활용한 추출 슈터 게임을 개발 중인 것으로 알려졌습니다.\n이 게임은 2026년 11월 출시될 예정이며, 디즈니와의 15억 달러 투자 계약의 일환입니다.\n초기 내부 평가에서는 메커니즘의 독창성에 대한 우려가 있었으나, 출시 시점에는 개선될 것으로 기대됩니다."
-        },
-        {
-          "title": "Marathon – Review",
-          "title_ko": "마라톤 – 리뷰",
-          "link": "https://geekculture.co/marathon-review/",
-          "date": "Apr 10, 2026",
-          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/04/Marathon_Review-featured.jpg",
-          "summary_ko": "Bungie의 신작 Marathon은 90년대 Mac 게임에서 팀 기반 추출 슈터로 재탄생했습니다.\n이 게임은 플레이어에게 적대적인 환경과 끊임없는 전투를 제공합니다.\n일곱 가지 캐릭터 클래스와 여섯 가지 진영, 네 개의 맵을 탐험할 수 있습니다."
         }
       ],
       "error": false
@@ -78,28 +78,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
-          "title": "Arknights: Endfield Voice Actors updated list",
-          "title_ko": "Arknights: Endfield 성우 업데이트 목록",
-          "link": "https://gamingonphone.com/news/arknights-endfield-voice-actors-updated-list/",
+          "title": "TEN VALKYRIE redeem codes and how to use them (April 2026)",
+          "title_ko": "텐 발키리 리딤 코드 및 사용 방법 (2026년 4월)",
+          "link": "https://gamingonphone.com/guides/ten-valkyrie-redeem-codes-and-how-to-use-them/",
+          "date": "Apr 15, 2026",
+          "thumbnail": "",
+          "summary_ko": "현재 TEN VALKYRIE에는 사용 가능한 리딤 코드가 없습니다.\n게임은 이미 방치형 시스템과 다양한 게임 플레이를 통해 보상을 얻을 수 있는 여러 방법을 제공합니다.\n향후 업데이트나 이벤트에서 리딤 코드 시스템이 추가될 수 있습니다."
+        },
+        {
+          "title": "Among the Sleep brings its scares to mobile with pre-registration now open ahead of June release",
+          "title_ko": "Among the Sleep, 6월 출시 앞두고 모바일 사전 등록 시작",
+          "link": "https://gamingonphone.com/news/among-the-sleep-brings-its-scares-to-mobile-with-pre-registration-now-open-ahead-of-june-release/",
           "date": "Apr 14, 2026",
           "thumbnail": "",
-          "summary_ko": "Arknights: Endfield의 영어, 일본어, 중국어 더빙 성우 전체 목록을 제공합니다.\n새로운 캐릭터가 추가되면 목록이 업데이트될 예정입니다.\n이 게임은 GRYPHLINE에서 개발한 새로운 3D 전략 RPG입니다."
+          "summary_ko": "Among the Sleep이 안드로이드 및 iOS 플랫폼에서 모바일 사전 등록을 시작합니다.\n이 심리 공포 게임은 2026년 6월 2일에 모바일 기기로 출시될 예정입니다.\n모바일 버전은 무료 체험 모델을 따르며, 향상된 그래픽과 추가 콘텐츠를 제공합니다."
         },
         {
-          "title": "Pure Crime: Gangster Shooting Currency Guide: 10 best ways to make money quickly",
-          "title_ko": "Pure Crime: Gangster Shooting 화폐 가이드: 빠르게 돈 버는 10가지 방법",
-          "link": "https://gamingonphone.com/guides/pure-crime-gangster-shooting-currency-guide-best-ways-to-make-money-quickly/",
-          "date": "Apr 13, 2026",
+          "title": "Wuthering Waves Upcoming Collaboration Event Leaks for April 2026 and beyond: Resident Evil, Angry Birds, Kaiju No. 8, HAIKYU!! and more",
+          "title_ko": "Wuthering Waves, 2026년 4월 이후 예정된 대규모 콜라보 이벤트 유출: Resident Evil, Angry Birds, Kaiju No. 8, HAIKYU!! 등",
+          "link": "https://gamingonphone.com/news/wuthering-waves-upcoming-collaboration-events-list/",
+          "date": "Apr 14, 2026",
           "thumbnail": "",
-          "summary_ko": "주요 스토리 임무를 우선적으로 완료하여 가장 크고 일관된 보상을 얻으세요.\n라이벌 갱단 지역을 습격하고 숨겨진 무기 상자를 파괴하여 빠르게 추가 화폐를 얻으세요.\n타임 트라이얼, 스턴트 점프, 파쿠르 경주를 완료하여 꾸준한 부수입을 창출하세요."
-        },
-        {
-          "title": "Clash Royale Hero Tier List for Season 82 April 2026",
-          "title_ko": "Clash Royale 영웅 티어 리스트 시즌 82 2026년 4월",
-          "link": "https://gamingonphone.com/guides/clash-royale-hero-tier-list-guide-tips/",
-          "date": "Apr 13, 2026",
-          "thumbnail": "",
-          "summary_ko": "영웅은 최근 시즌 Clash Royale에 가장 중요한 추가 요소 중 하나가 되었습니다.\n모든 덱에 전용 영웅 슬롯이 있으며 영웅 또는 진화 중 하나를 선택할 수 있습니다.\n이 티어 리스트는 시즌 82의 영웅 순위를 보여주고 최고의 선택을 알려줍니다."
+          "summary_ko": "Wuthering Waves 버전 3.3 업데이트에서 여러 인기 프랜차이즈와의 대규모 콜라보 이벤트가 예상됩니다.\nResident Evil 30주년, Angry Birds, Kaiju No. 8, PRAGMATA, Riders Republic, HAIKYU!! 등과의 협업이 유출되었습니다.\n이벤트 완료 시 테마 프로필 아바타, 고유 리버리, 아스트라이트 등 다양한 한정 보상을 얻을 수 있습니다."
         }
       ],
       "error": false
@@ -112,28 +112,28 @@
       "regionLabel": "SEA Wide / Malaysia",
       "articles": [
         {
-          "title": "Govt Explores LRT Platform Barriers Following Recent Track Incident",
-          "title_ko": "정부, 최근 선로 사고 이후 LRT 승강장 안전문 설치 검토",
-          "link": "https://www.lowyat.net/2026/389378/govt-explores-lrt-platform-barriers-following-track-incident/",
-          "date": "Apr 13, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2025/08/LRT1.jpg",
-          "summary_ko": "승객 추락 사고 이후 LRT 역사에 승강장 안전문 설치 고려 중\n안전문 설치는 높은 비용과 기존 역사 구조 변경 문제로 난관 예상\n승객 안전 강화를 위한 다른 실용적인 방법들도 함께 모색 중"
+          "title": "ShinyHunters Release Hacked Rockstar Games Data",
+          "title_ko": "ShinyHunters, Rockstar Games 데이터 유출 공개",
+          "link": "https://www.lowyat.net/2026/389571/shinyhunters-make-good-threat-releases-rockstar-games-data/",
+          "date": "Apr 14, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2020/05/GTA-V-main.jpg",
+          "summary_ko": "해커 그룹 ShinyHunters가 Rockstar Games의 데이터를 유출했다고 주장했습니다.\n유출된 데이터에는 GTA 6 관련 정보는 포함되지 않았습니다.\n데이터에는 GTA 5와 Red Dead Redemption 2 온라인 모드의 수익 관련 정보가 포함되어 있습니다."
         },
         {
-          "title": "NVIDIA’s Mythical N1X SoC Has Allegedly Made An Appearance",
-          "title_ko": "NVIDIA의 N1X SoC, 유출된 이미지로 존재 가능성 제기",
-          "link": "https://www.lowyat.net/2026/389436/nvidias-mythical-n1x-soc-has-allegedly-made-an-appearance/",
-          "date": "Apr 13, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/NVIDIA-N1X-SoC-Leak-April-2026-1.webp",
-          "summary_ko": "인터넷에 NVIDIA N1X SoC로 추정되는 칩셋 이미지가 유출됨\n유출된 이미지는 노트북 메인보드에 장착된 N1X SoC를 보여줌\n128GB LPDDR5X 메모리 탑재로 칩셋의 성능에 대한 기대감 증폭"
+          "title": "Seven Million South Korean Mobile Users To Get Free Unlimited Data After Hitting Monthly Quotas",
+          "title_ko": "한국 모바일 사용자, 월 데이터 한도 초과 시 무료 무제한 데이터 제공",
+          "link": "https://www.lowyat.net/2026/389581/seven-million-south-korean-mobile-users-to-get-free-unlimited-data-after-hitting-monthly-quotas/",
+          "date": "Apr 14, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2025/07/13mp-rahmah-internet-packages-to-continue-2.jpg",
+          "summary_ko": "한국의 7백만 모바일 사용자는 월 데이터 한도를 초과하면 최대 400Kbps 속도로 무료 무제한 데이터를 받게 됩니다.\n이는 통신사들이 해킹을 막기 위한 기본적인 접근 통제를 제대로 하지 않았다는 과학기술정보통신부의 결론에 따른 것입니다.\nSK텔레콤은 9700만 달러의 벌금을 부과받았고, KT는 고객 정보 유출 및 악성코드 설치 혐의를 받았습니다."
         },
         {
-          "title": "Huawei Unveils Pura X Max Design; Comes In Five Different Colours",
-          "title_ko": "Huawei, Pura X Max 디자인 공개; 다섯 가지 색상으로 출시",
-          "link": "https://www.lowyat.net/2026/389439/huawei-unveils-pura-x-max-design-five-colour-options/",
-          "date": "Apr 13, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/Huawei-Pura-X-Max-Design-1.webp",
-          "summary_ko": "Huawei가 새로운 폴더블 스마트폰 Pura X Max의 디자인을 공개함\nPura X Max는 7.69인치 내부 디스플레이와 5.5인치 외부 디스플레이를 갖춤\n블랙, 화이트, 골드, 블루, 오렌지 다섯 가지 색상으로 출시될 예정"
+          "title": "Ryt Bank To Introduce PayLater On Card And Ryt Invest",
+          "title_ko": "Ryt Bank, 카드 및 Ryt Invest에 PayLater 도입 예정",
+          "link": "https://www.lowyat.net/2026/389579/ryt-bank-to-introduce-paylater-on-card-and-ryt-invest/",
+          "date": "Apr 14, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2025/08/ryt-bank-to-launch-september-2025_01.jpg",
+          "summary_ko": "Ryt Bank가 출시 7개월 만에 120만 사용자 돌파와 함께 카드 및 Ryt Invest에 PayLater 기능을 도입할 예정입니다.\nPayLater on Card 기능은 기존 PayLater 서비스를 Visa 카드에 통합하여 결제 방식을 간소화할 것입니다.\nRyt Invest 기능은 사용자들이 앱 내에서 직접 투자를 시작할 수 있도록 지원할 예정입니다."
         }
       ],
       "error": false
@@ -146,28 +146,28 @@
       "regionLabel": "Philippines",
       "articles": [
         {
+          "title": "Nubia Neo 5 GT 5G Review – MediaTek Octa-Core Power Meets Active Cooling",
+          "title_ko": "Nubia Neo 5 GT 5G 리뷰 – 미디어텍 옥타코어 성능과 액티브 쿨링의 만남",
+          "link": "https://gamingph.com/2026/04/nubia-neo-5-gt-5g-review-mediatek-power-meets-active-cooling/",
+          "date": "Apr 14, 2026",
+          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/nubia-neo-5-gt-5g-box-with-phone-and-bud.jpg?resize=950%2C534&#038;ssl=1",
+          "summary_ko": "nubia Neo 5 GT 5G는 경쟁력 있는 가격으로 게이머들이 원하는 성능을 제공합니다.\n이 스마트폰은 칩셋 성능뿐만 아니라 내장된 액티브 쿨링 팬으로 발열 관리를 강화했습니다.\n전용 성능 모드는 CPU와 GPU를 더욱 적극적으로 활용하여 고사양 게임 플레이를 지원합니다."
+        },
+        {
+          "title": "Summoners War Kicks Off 12th Anniversary Event Festival",
+          "title_ko": "Summoners War, 12주년 기념 이벤트 페스티벌 시작",
+          "link": "https://gamingph.com/2026/04/summoners-war-kicks-off-12th-anniversary-event-festival/",
+          "date": "Apr 14, 2026",
+          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/image.jpeg?resize=800%2C450&#038;ssl=1",
+          "summary_ko": "Com2uS는 Summoners War의 12주년을 맞아 역대급 몬스터 성장 및 강화 보상을 제공하는 이벤트를 시작했습니다.\n새로운 몬스터 Dr. Plasma, 소환 마일리지 시스템, 유물 장비가 업데이트에 추가되었습니다.\n특별 기념 페이지와 시네마틱 영상이 공개되어 축제의 시작을 알렸습니다."
+        },
+        {
           "title": "Raise Anchor! Windrose, the Swashbuckling Survival-Adventure Game, Sets Sail into PC Early Access on April 14",
           "title_ko": "Windrose, 해적 생존 어드벤처 게임, 4월 14일 PC 얼리 액세스 출시",
           "link": "https://gamingph.com/2026/04/raise-anchor-windrose-the-swashbuckling-survival-adventure-game-sets-sail-into-pc-early-access-on-april-14/",
           "date": "Apr 10, 2026",
           "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/image-10.png?resize=950%2C534&#038;ssl=1",
           "summary_ko": "해적 테마의 오픈 월드 생존 어드벤처 게임 Windrose가 4월 14일 PC 얼리 액세스를 시작합니다.\n플레이어는 최대 4인 협동 플레이로 해적 선장이 되어 복수를 위한 여정을 떠나게 됩니다.\n탐험, 전투, 조선, 해상 전투 등 다양한 콘텐츠를 즐길 수 있습니다."
-        },
-        {
-          "title": "Ragnarok: The New World Pre-Registration Opens April 9 — A New Chapter in the 20-Year Legacy of Ragnarok Online",
-          "title_ko": "라그나로크: 더 뉴 월드 사전예약 4월 9일 시작 — 라그나로크 온라인 20년 역사의 새로운 장",
-          "link": "https://gamingph.com/2026/04/ragnarok-the-new-world-pre-registration-opens-april-9-a-new-chapter-in-the-20-year-legacy-of-ragnarok-online/",
-          "date": "Apr 09, 2026",
-          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/image.png?resize=950%2C534&#038;ssl=1",
-          "summary_ko": "라그나로크: 더 뉴 월드(ROW)가 4월 9일부터 사전예약을 시작하며 새로운 키 비주얼을 공개했습니다.\n이 게임은 20년 이상의 라그나로크 온라인 프랜차이즈 유산을 기념하는 차세대 타이틀입니다.\n사전예약자에게는 게임 내 의상, 아이템 등 다양한 독점 보상이 제공될 예정입니다."
-        },
-        {
-          "title": "How to Record Screen With Internal Audio in Mac OS using the Built-In Screen Recorder",
-          "title_ko": "Mac OS에서 내장 화면 녹화기로 내부 오디오 녹음하는 방법",
-          "link": "https://gamingph.com/2026/04/how-to-record-screen-with-internal-audio-in-mac-os-using-the-built-in-screen-recorder/",
-          "date": "Apr 09, 2026",
-          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/Screenshot-2026-04-09-at-9.49.40-AM.png?resize=950%2C485&#038;ssl=1",
-          "summary_ko": "Mac OS에는 튜토리얼, 게임 플레이 클립 등을 녹화할 수 있는 내장 화면 녹화기가 있습니다.\n기본적으로 마이크 입력만 녹음되므로, 게임이나 앱의 내부 오디오를 녹음하려면 BlackHole이라는 오디오 드라이버가 필요합니다.\nBlackHole을 설치하고 오디오 MIDI 설정에서 Aggregate Device와 Multi-Output Device를 생성해야 합니다."
         }
       ],
       "error": false
@@ -180,28 +180,28 @@
       "regionLabel": "Vietnam",
       "articles": [
         {
-          "title": "Doki Doki Literature Club bất ngờ bị gỡ khỏi Google Play vì vi phạm chính sách nhạy cảm",
-          "title_ko": "Doki Doki Literature Club, trò chơi visual novel ám ảnh, đã bị gỡ khỏi Google Play.",
-          "link": "https://gamelade.vn/doki-doki-literature-club-bat-ngo-bi-go-khoi-google-play-vi-vi-pham-chinh-sach-nhay-cam/",
-          "date": "Apr 13, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/ww.webp",
-          "summary_ko": "Nguyên nhân được cho là do vi phạm chính sách về \"miêu tả các chủ đề nhạy cảm\".\nNhà phát hành Serenity Forge đang tìm kiếm phương án phát hành thay thế."
+          "title": "Diablo Immortal bắt tay cùng Doom: The Dark Ages",
+          "title_ko": "Diablo Immortal, Doom: The Dark Ages와 협력",
+          "link": "https://gamelade.vn/diablo-immortal-bat-tay-cung-doom-the-dark-ages/",
+          "date": "Apr 14, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/r-2.webp",
+          "summary_ko": "Diablo Immortal이 Doom: The Dark Ages와 협력하여 4월 16일에 출시될 예정입니다.\n이번 업데이트는 Diablo의 핵앤슬래시 스타일과 Doom의 잔혹함을 결합한 격렬한 전투 경험을 제공할 것입니다.\nDoom의 상징적인 악당들이 등장하며, 새로운 Slayer's Bane 모드에서 플레이어들은 Doom 스타일의 무기를 사용하게 됩니다."
         },
         {
-          "title": "Solo Leveling: Arise ra mắt nhân vật mới hệ Water đồng thời công bố giải đấu SLC 2026",
-          "title_ko": "Solo Leveling: Arise ra mắt nhân vật mới Elena Renault hệ Water và các chapter độ khó Expert.",
-          "link": "https://gamelade.vn/solo-leveling-arise-ra-mat-nhan-vat-moi-he-water-dong-thoi-cong-bo-giai-dau-slc-2026/",
-          "date": "Apr 13, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/yy.webp",
-          "summary_ko": "Elena Renault là nhân vật hỗ trợ với khả năng tăng cường sức mạnh cho đồng minh cùng hệ.\nNhà phát triển cũng hé lộ kế hoạch cho dịp kỷ niệm 2 năm của tựa game."
+          "title": "Disney Magic Match 3D tung bản cập nhật tháng 4",
+          "title_ko": "Disney Magic Match 3D, 4월 업데이트 출시",
+          "link": "https://gamelade.vn/disney-magic-match-3d-tung-ban-cap-nhat-thang-4/",
+          "date": "Apr 14, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/e-4.jpg",
+          "summary_ko": "Disney Magic Match 3D가 4월 업데이트를 통해 Lilo & Stitch, The Lion King, Pocahontas, WALL-E 등 추억의 브랜드를 선보입니다.\n새로운 레벨과 아이템이 Lilo & Stitch 테마로 추가되었으며, 플레이어들은 200레벨 이상에서 이를 경험할 수 있습니다.\n또한, 지구의 날을 기념하는 Great Outdoors Card Album 이벤트가 진행되며, The Lion King, Pocahontas, WALL-E 세계관을 중심으로 진행됩니다."
         },
         {
-          "title": "Mongil: Star Dive hé lộ gameplay và kế hoạch hậu phát hành trước ngày ra mắt",
-          "title_ko": "Mongil: Star Dive hé lộ gameplay và kế hoạch hậu phát hành trước ngày ra mắt 15/4.",
-          "link": "https://gamelade.vn/mongil-star-dive-he-lo-gameplay-va-ke-hoach-hau-phat-hanh-truoc-ngay-ra-mat/",
-          "date": "Apr 13, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/tt-1.jpg",
-          "summary_ko": "Game ARPG này có hệ thống Monsterling cho phép thu thập và xây dựng đội hình.\nCơ chế chiến đấu tag-battle cho phép chuyển đổi linh hoạt giữa ba nhân vật trong trận đấu."
+          "title": "CloverPit tung DLC Unholy Fusion, bổ sung ending mới",
+          "title_ko": "CloverPit, 새로운 엔딩을 추가하는 DLC Unholy Fusion 출시",
+          "link": "https://gamelade.vn/cloverpit-tung-dlc-unholy-fusion-bo-sung-ending-moi/",
+          "date": "Apr 14, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/yy.jpg",
+          "summary_ko": "CloverPit이 새로운 콘텐츠와 어두운 분위기를 특징으로 하는 DLC Unholy Fusion을 출시했습니다.\n이 DLC는 슬롯머신과 전략 요소를 결합한 게임플레이를 더욱 발전시키고, 플레이어들이 더 다양한 전략을 구축할 수 있도록 합니다.\n새로운 Surgery Machine 시스템을 통해 플레이어들은 수집한 참을 결합하여 약 30가지의 새로운 퓨전 참을 만들 수 있습니다."
         }
       ],
       "error": false
@@ -214,28 +214,28 @@
       "regionLabel": "Thailand",
       "articles": [
         {
+          "title": "HUAWEI Pura X Max มือถือจอพับทรงกว้างรุ่นใหม่ เปิดตัว 20 เม.ย. นี้",
+          "title_ko": "HUAWEI Pura X Max, มือถือจอพับทรงกว้างรุ่นใหม่ เปิดตัว 20 เม.ย. นี้",
+          "link": "https://droidsans.com/huawei-pura-x-max-launch-date-confirm-with-colors-revealed/",
+          "date": "Apr 14, 2026",
+          "thumbnail": "",
+          "summary_ko": "HUAWEI Pura X Max가 4월 20일에 출시될 예정입니다.\n이 새로운 폴더블 스마트폰은 넓은 화면 비율을 특징으로 합니다.\n이전 모델인 Pura X보다 향상된 기능을 제공할 것으로 기대됩니다."
+        },
+        {
+          "title": "Xiaomi เปิดตัว ไอศกรีมสเปคแรง มีให้เลือกทั้งรุ่น Standard, Pro และ Max ต่างกันยังไงมาดู",
+          "title_ko": "Xiaomi เปิดตัว ไอศกรีมสเปคแรง มีให้เลือกทั้งรุ่น Standard, Pro และ Max ต่างกันยังไงมาดู",
+          "link": "https://droidsans.com/xiaomi-ice-cream/",
+          "date": "Apr 14, 2026",
+          "thumbnail": "",
+          "summary_ko": "Xiaomi가 Standard, Pro, Max 세 가지 버전의 아이스크림을 출시했습니다.\n각 모델은 성능과 기능 면에서 차이가 있습니다.\n이번 신제품은 고성능 사양을 갖춘 아이스크림입니다."
+        },
+        {
           "title": "ภาพโปรโมท OPPO Find X9 Ultra พร้อมเลนส์เสริม และตัวอย่างภาพถ่ายสุดเทพ Hasselblad 200MP",
           "title_ko": "OPPO Find X9 Ultra 프로모션 이미지, 추가 렌즈 및 200MP Hasselblad 사진 샘플 공개",
           "link": "https://droidsans.com/oppo-find-x9-ultra-promote-pictures/",
           "date": "Apr 13, 2026",
           "thumbnail": "",
           "summary_ko": "OPPO Find X9 Ultra의 새로운 프로모션 이미지가 공개되었습니다.\n이 기기에는 추가 렌즈와 200MP Hasselblad 카메라가 탑재될 예정입니다.\n21일 출시 예정이며, 고급스러운 디자인과 뛰어난 카메라 성능을 강조하고 있습니다."
-        },
-        {
-          "title": "OPPO Pad Mini แท็บเล็ตไซซ์มินิ แต่พลังระดับเรือธง พร้อมเปิดตัว 21 เมษายนนี้",
-          "title_ko": "OPPO Pad Mini, 플래그십 성능의 미니 태블릿, 4월 21일 출시 예정",
-          "link": "https://droidsans.com/oppo-pad-mini-date-launch/",
-          "date": "Apr 13, 2026",
-          "thumbnail": "",
-          "summary_ko": "OPPO Pad Mini는 작지만 강력한 성능을 자랑하는 태블릿입니다.\n이 기기는 144Hz OLED 디스플레이와 Snapdragon 8 Gen 5 칩셋을 탑재할 것으로 예상됩니다.\n4월 21일에 공식 출시될 예정이며, \"Small but Extraordinary\"라는 슬로건을 내세우고 있습니다."
-        },
-        {
-          "title": "จอมแม่นชี้ OPPO Find X9 Ultra เวอร์ชันโกลบอล สเปคตามนี้ มีให้เลือก 2 สี",
-          "title_ko": "글로벌 버전 OPPO Find X9 Ultra 사양 공개, 2가지 색상 선택 가능",
-          "link": "https://droidsans.com/tipster-tell-about-oppo-find-x9-ultra-spec-details-ahead-of-launch/",
-          "date": "Apr 13, 2026",
-          "thumbnail": "",
-          "summary_ko": "OPPO Find X9 Ultra의 글로벌 버전 사양이 유출되었습니다.\n이 기기는 Snapdragon 8 Elite Gen 5 칩셋을 탑재하며, Tundra Umber와 Canyon Orange 두 가지 색상으로 출시될 예정입니다.\nHasselblad와의 협력을 통해 뛰어난 카메라 성능을 제공할 것으로 기대됩니다."
         }
       ],
       "error": false
@@ -248,28 +248,28 @@
       "regionLabel": "Indonesia",
       "articles": [
         {
-          "title": "Stok Awal MacBook Neo Dikabarkan Sudah Habis",
-          "title_ko": "MacBook Neo 초기 재고 매진",
-          "link": "https://gamebrott.com/stok-awal-macbook-neo-habis/",
-          "date": "Apr 14, 2026",
-          "thumbnail": "",
-          "summary_ko": "MacBook Neo의 초기 재고가 모두 소진되었습니다.\n인기로 인해 배송이 몇 주 지연될 예정입니다.\n이는 예상보다 훨씬 빠른 판매 속도를 보여줍니다."
+          "title": "[Rumor] Leaker Ungkap Xbox Pertimbangkan Kembali Rilis Game Eksklusif",
+          "title_ko": "[루머] 엑스박스, 독점 게임 출시 재고 고려",
+          "link": "https://gamebrott.com/xbox-kembali-rilis-game-eksklusif/",
+          "date": "Apr 15, 2026",
+          "thumbnail": "https://www.youtube.com/embed/XiuqOKvlHbc",
+          "summary_ko": "마이크로소프트가 Call of Duty를 Xbox Game Pass에서 제외하는 것을 고려 중이라는 루머가 있습니다.\n이는 독점 게임 출시 정책에 대한 재고를 시사합니다.\n구체적인 결정은 아직 발표되지 않았습니다."
         },
         {
-          "title": "Harga Xbox Game Pass Dirumorkan Akan Alami Penurunan",
-          "title_ko": "Xbox Game Pass 가격 인하 루머",
-          "link": "https://gamebrott.com/harga-xbox-game-pass-bakal-turun/",
+          "title": "Redeem Code The Forge Roblox April 2026 Terbaru!",
+          "title_ko": "[Roblox] 2026년 4월 최신 The Forge 리딤 코드!",
+          "link": "https://gamebrott.com/redeem-code-the-forge-roblox-terbaru/",
           "date": "Apr 14, 2026",
           "thumbnail": "",
-          "summary_ko": "Microsoft Gaming의 신임 보스가 더 저렴한 Game Pass 티어를 계획하고 있습니다.\n이는 게이머들에게 더 접근하기 쉬운 구독 옵션을 제공할 수 있습니다.\n새로운 티어는 가격 경쟁력을 높일 것으로 예상됩니다."
+          "summary_ko": "Roblox는 미성년자 플레이어를 위한 새로운 보안 조치인 Roblox Kids와 Select를 도입했습니다.\n이 시스템은 2006년부터 알려진 온라인 플랫폼이자 게임 제작 시스템입니다.\n이는 플레이어 안전을 강화하기 위한 노력의 일환입니다."
         },
         {
-          "title": "Pemain Veteran Arknights Dibuat Hype dan Trauma dengan Diungkapnya Contingency Contract di Endfield",
-          "title_ko": "Arknights Endfield, Contingency Contract 공개로 기대와 트라우마 유발",
-          "link": "https://gamebrott.com/veteran-arknights-hype-ptsd-contingency-contract/",
-          "date": "Apr 13, 2026",
-          "thumbnail": "https://www.youtube.com/embed/aqCCy6peaiM",
-          "summary_ko": "Contingency Contract가 Arknights: Endfield에 곧 도입될 예정입니다.\n이는 Arknights 베테랑 플레이어들에게 큰 기대를 모으고 있습니다.\n동시에 과거의 경험으로 인한 트라우마를 다시 느끼게 하고 있습니다."
+          "title": "Producer Bunny Garden Curhat Betapa Sulit Merilis Gamenya dengan Fanservice ‘Nakal’",
+          "title_ko": "[버니 가든] 프로듀서, '장난스러운' 팬서비스 게임 출시의 어려움 토로",
+          "link": "https://gamebrott.com/producer-bunny-garden-fanservice-curhatan/",
+          "date": "Apr 14, 2026",
+          "thumbnail": "",
+          "summary_ko": "BrownDust 2 개발사는 플레이어들의 항의 후 게임 검열 계획을 취소했습니다.\n이는 플레이어 커뮤니티의 반발에 따른 결정입니다.\n개발사는 플레이어들의 의견을 수렴하여 계획을 변경했습니다."
         }
       ],
       "error": false
@@ -282,28 +282,28 @@
       "regionLabel": "Malaysia",
       "articles": [
         {
+          "title": "MOUSE: P.I. For Hire Review – Fine Cheese Noir",
+          "title_ko": "MOUSE: P.I. For Hire 리뷰 – 훌륭한 치즈 느와르",
+          "link": "https://www.kakuchopurei.com/2026/04/mouse-p-i-for-hire-review-kkp/",
+          "date": "Apr 14, 2026",
+          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/04/mousePI_04.jpg",
+          "summary_ko": "인디 스튜디오 Fumi Games가 1930년대 고무 호스 애니메이션 스타일의 흑백 그래픽으로 독특한 느와르 FPS 게임을 선보입니다.\n플레이어는 탐정 Jack Pepper가 되어 Mouseburg의 범죄와 음모를 파헤치며 총격전을 벌입니다.\n컵헤드 이후로 이와 같은 고무 호스 애니메이션 기법을 성공적으로 구현한 게임으로 평가받습니다."
+        },
+        {
+          "title": "Replaced Review: Uniquely 2D, Cyberpunk, And Glitchy",
+          "title_ko": "Replaced 리뷰: 독특한 2D, 사이버펑크, 그리고 글리치",
+          "link": "https://www.kakuchopurei.com/2026/04/replaced-review-kkp/",
+          "date": "Apr 14, 2026",
+          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/04/replaced_011.jpg",
+          "summary_ko": "Sad Cat Studios의 새로운 2D 액션 어드벤처 게임 Replaced는 아름다운 픽셀 아트와 흥미로운 스토리로 사이버펑크 장르를 새롭게 조명합니다.\n플레이어는 AI인 R.E.A.C.H.가 되어 변형된 1980년대의 디스토피아 세계에서 진실을 파헤치게 됩니다.\n게임은 끊김 없는 진행과 탐험, 그리고 현대적인 전투 시스템을 특징으로 합니다."
+        },
+        {
           "title": "Minos Review: Winding Road To Relevancy",
           "title_ko": "미노스 리뷰: 관련성으로 가는 구불구불한 길",
           "link": "https://www.kakuchopurei.com/2026/04/minos-review-kkp/",
           "date": "Apr 13, 2026",
           "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/04/minos02_small.jpg",
           "summary_ko": "미노스에서는 플레이어가 영웅이 아닌 미노타우로스가 되어 성소를 지킵니다.\n데달루스가 맵을 변경하고 함정을 설치하여 영웅들을 유인합니다.\n다양한 적 유형에 맞춰 플레이 스타일과 함정 배치를 변경해야 합니다."
-        },
-        {
-          "title": "Triple-i Initiative 2026 Showcase: All The Indie Games",
-          "title_ko": "Triple-i Initiative 2026 쇼케이스: 모든 인디 게임",
-          "link": "https://www.kakuchopurei.com/2026/04/triple-i-initiative-showcase-all-the-indie-games/",
-          "date": "Apr 10, 2026",
-          "thumbnail": "",
-          "summary_ko": "이번 Triple-i Initiative 쇼케이스는 지갑 부담 없는 인디 및 소규모 게임들을 선보입니다.\n다양한 서구권 게임과 일부 아시아 게임들이 소개되었습니다.\n\"Prove You're Human\"과 같은 흥미로운 신작들이 공개되었습니다."
-        },
-        {
-          "title": "Here’s More Warhammer Survivors, Now Slated For Consoles & With More Features",
-          "title_ko": "Warhammer Survivors, 콘솔 출시 및 추가 기능 공개",
-          "link": "https://www.kakuchopurei.com/2026/04/heres-more-warhammer-survivors-now-slated-for-consoles-with-more-features/",
-          "date": "Apr 10, 2026",
-          "thumbnail": "",
-          "summary_ko": "Warhammer Survivors가 PlayStation 5, Xbox Series X|S, Nintendo Switch로 출시될 예정입니다.\n새로운 Warhammer 40,000 유니버스 캐릭터와 무기들이 추가되었습니다.\n새로운 적 세력인 Orks가 등장하는 Ork Stronghold 스테이지가 공개되었습니다."
         }
       ],
       "error": false
