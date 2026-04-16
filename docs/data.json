@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15 01:29 UTC",
+  "updated_at": "2026-04-16 01:51 UTC",
   "ai_summary": true,
   "sources": [
     {
@@ -9,6 +9,14 @@
       "flag": "🌏",
       "regionLabel": "SEA Wide",
       "articles": [
+        {
+          "title": "Corridor Digital’s Open-Source Corridor Key Sparks Green Screen Revolution",
+          "title_ko": "Corridor Digital의 오픈소스 Corridor Key, 그린 스크린 혁명을 촉발하다",
+          "link": "https://www.back2gaming.com/news/corridor-digitals-open-source-corridor-key-sparks-green-screen-revolution/",
+          "date": "Apr 15, 2026",
+          "thumbnail": "https://www.youtube.com/embed/Y3Dfw969itU",
+          "summary_ko": "Corridor Digital이 개발한 AI 기반 그린 스크린 키잉 도구 Corridor Key가 공개되었습니다.\n오픈소스 커뮤니티의 빠른 참여로 VRAM 요구 사항이 크게 줄어들고 성능이 향상되었습니다.\n다양한 플러그인과 사용자 인터페이스가 개발되어 VFX 워크플로우 장벽을 낮추고 있습니다."
+        },
         {
           "title": "ASUS x NVIDIA Upgrade Program: Get Up to P6,000 in Store Vouchers Plus Raffle Prizes When You Upgrade to GeForce RTX 50 Series",
           "title_ko": "ASUS x NVIDIA 업그레이드 프로그램: GeForce RTX 50 시리즈로 업그레이드 시 최대 P6,000 상당의 스토어 상품권 및 경품 추첨 혜택 제공",
@@ -24,14 +32,6 @@
           "date": "Apr 08, 2026",
           "thumbnail": "",
           "summary_ko": "AMD는 세계 최초의 듀얼 3D V-Cache 데스크톱 프로세서인 Ryzen 9 9950X3D2를 4월 22일 899달러에 출시한다고 발표했습니다.\n이 프로세서는 개발자와 콘텐츠 제작자를 위한 워크스테이션급 성능에 초점을 맞추고 있으며, 양쪽 CCD에 3D V-Cache를 탑재하여 코어 간 지연 시간을 제거했습니다.\nAMD는 게이밍 성능에 대한 언급을 줄여 자사 제품 간의 판매 간섭을 피하려는 전략을 취하는 것으로 보입니다."
-        },
-        {
-          "title": "General Audience: Key Features to Consider When Shopping for Versatile Work and Weekend Skirts",
-          "title_ko": "다용도 스커트 쇼핑 시 고려해야 할 주요 기능",
-          "link": "https://www.back2gaming.com/features/general-audience-key-features-to-consider-when-shopping-for-versatile-work-and-weekend-skirts/",
-          "date": "Apr 07, 2026",
-          "thumbnail": "",
-          "summary_ko": "직장과 주말 모두에 어울리는 다용도 스커트 선택이 중요합니다.\n조절 가능한 허리, 중립적인 색상, A라인 또는 펜슬 스커트 스타일을 고려하세요.\n면, 폴리에스터, 비스코스 혼방 소재는 내구성과 관리 용이성을 제공합니다."
         }
       ],
       "error": false
@@ -43,6 +43,14 @@
       "flag": "🌏",
       "regionLabel": "SEA Wide",
       "articles": [
+        {
+          "title": "Insomniac’s ‘Marvel’s Spider-Man 3’ Hinted At By Peter Parker Face Model",
+          "title_ko": "마블 스파이더맨 3, 피터 파커 얼굴 모델이 암시",
+          "link": "https://geekculture.co/insomniacs-marvels-spider-man-3-hinted-at-by-peter-parker-face-model/",
+          "date": "Apr 15, 2026",
+          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/04/marvels-spiderman-3-tease-1.jpg",
+          "summary_ko": "피터 파커 얼굴 모델인 벤 조던이 인스타그램에 얼굴 캡처 작업 중임을 암시하는 게시물을 올렸습니다.\n게시물에는 스파이더맨 이모티콘이 포함되어 있어 후속작에 대한 추측을 불러일으켰습니다.\n이 작업이 Marvel’s Spider-Man 3를 위한 것인지, 아니면 다른 스파이더맨 관련 프로젝트를 위한 것인지는 아직 불확실합니다."
+        },
         {
           "title": "Mouse: P.I. For Hire – Review",
           "title_ko": "마우스: P.I. For Hire – 리뷰",
@@ -58,14 +66,6 @@
           "date": "Apr 13, 2026",
           "thumbnail": "https://geekculture.co/wp-content/uploads/2026/04/pragmata-review-1.jpg",
           "summary_ko": "현대 게임 트렌드에서 벗어난 독창적인 게임플레이를 선보입니다.\nSF 슈터와 퍼즐 액션이 결합된 하이브리드 장르입니다.\n인간과 인공지능 소녀의 독특한 유대감을 중심으로 이야기가 전개됩니다."
-        },
-        {
-          "title": "Epic Games Reportedly Working On Disney Extraction Shooter, Because Why Not",
-          "title_ko": "에픽게임즈, 디즈니 추출 슈터 개발 중이라는 보도",
-          "link": "https://geekculture.co/epic-games-reportedly-working-on-disney-extraction-shooter/",
-          "date": "Apr 13, 2026",
-          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/04/disney-extraction-shooter-1.jpg",
-          "summary_ko": "에픽게임즈가 디즈니 캐릭터를 활용한 추출 슈터 게임을 개발 중인 것으로 알려졌습니다.\n이 게임은 2026년 11월 출시될 예정이며, 디즈니와의 15억 달러 투자 계약의 일환입니다.\n초기 내부 평가에서는 메커니즘의 독창성에 대한 우려가 있었으나, 출시 시점에는 개선될 것으로 기대됩니다."
         }
       ],
       "error": false
@@ -78,28 +78,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
-          "title": "TEN VALKYRIE redeem codes and how to use them (April 2026)",
-          "title_ko": "텐 발키리 리딤 코드 및 사용 방법 (2026년 4월)",
-          "link": "https://gamingonphone.com/guides/ten-valkyrie-redeem-codes-and-how-to-use-them/",
+          "title": "Project Racer open beta is now live on Android, bringing an immersive racing experience with realistic physics",
+          "title_ko": "Project Racer 오픈 베타, 안드로이드에서 현실적인 레이싱 경험 제공",
+          "link": "https://gamingonphone.com/news/project-racer-open-beta-is-now-live-on-android-bringing-an-immersive-racing-experience-with-realistic-physics/",
+          "date": "Apr 16, 2026",
+          "thumbnail": "",
+          "summary_ko": "Project Racer 오픈 베타가 안드로이드에서 시작되었습니다.\n현실적인 물리 엔진으로 몰입감 넘치는 레이싱을 경험할 수 있습니다.\n온라인 커리어 모드에서 전 세계 플레이어들과 경쟁할 수 있습니다."
+        },
+        {
+          "title": "MONGIL: STAR DIVE Beginners Guide and Tips",
+          "title_ko": "MONGIL: STAR DIVE 초보자 가이드 및 팁",
+          "link": "https://gamingonphone.com/guides/mongil-star-dive-beginners-guide-and-tips/",
           "date": "Apr 15, 2026",
           "thumbnail": "",
-          "summary_ko": "현재 TEN VALKYRIE에는 사용 가능한 리딤 코드가 없습니다.\n게임은 이미 방치형 시스템과 다양한 게임 플레이를 통해 보상을 얻을 수 있는 여러 방법을 제공합니다.\n향후 업데이트나 이벤트에서 리딤 코드 시스템이 추가될 수 있습니다."
+          "summary_ko": "MONGIL: STAR DIVE는 빠른 실시간 전투와 몬스터 수집, 캐릭터 중심의 스토리를 결합한 RPG입니다.\n실시간 액션 전투는 회피, 콤보, 강력한 스킬 사용을 요구하며 역동적인 경험을 제공합니다.\n다양한 능력을 가진 모험가와 몬스터로 팀을 구성하고 캐릭터를 성장시킬 수 있습니다."
         },
         {
-          "title": "Among the Sleep brings its scares to mobile with pre-registration now open ahead of June release",
-          "title_ko": "Among the Sleep, 6월 출시 앞두고 모바일 사전 등록 시작",
-          "link": "https://gamingonphone.com/news/among-the-sleep-brings-its-scares-to-mobile-with-pre-registration-now-open-ahead-of-june-release/",
-          "date": "Apr 14, 2026",
+          "title": "Knights – Medieval PvP Game lets you experience real-time medieval combat, Android pre-registration now live",
+          "title_ko": "Knights – Medieval PvP Game, 실시간 중세 전투 경험, 안드로이드 사전 등록 시작",
+          "link": "https://gamingonphone.com/news/knights-medieval-pvp-game-lets-you-experience-real-time-medieval-combat-android-pre-registration-now-live/",
+          "date": "Apr 15, 2026",
           "thumbnail": "",
-          "summary_ko": "Among the Sleep이 안드로이드 및 iOS 플랫폼에서 모바일 사전 등록을 시작합니다.\n이 심리 공포 게임은 2026년 6월 2일에 모바일 기기로 출시될 예정입니다.\n모바일 버전은 무료 체험 모델을 따르며, 향상된 그래픽과 추가 콘텐츠를 제공합니다."
-        },
-        {
-          "title": "Wuthering Waves Upcoming Collaboration Event Leaks for April 2026 and beyond: Resident Evil, Angry Birds, Kaiju No. 8, HAIKYU!! and more",
-          "title_ko": "Wuthering Waves, 2026년 4월 이후 예정된 대규모 콜라보 이벤트 유출: Resident Evil, Angry Birds, Kaiju No. 8, HAIKYU!! 등",
-          "link": "https://gamingonphone.com/news/wuthering-waves-upcoming-collaboration-events-list/",
-          "date": "Apr 14, 2026",
-          "thumbnail": "",
-          "summary_ko": "Wuthering Waves 버전 3.3 업데이트에서 여러 인기 프랜차이즈와의 대규모 콜라보 이벤트가 예상됩니다.\nResident Evil 30주년, Angry Birds, Kaiju No. 8, PRAGMATA, Riders Republic, HAIKYU!! 등과의 협업이 유출되었습니다.\n이벤트 완료 시 테마 프로필 아바타, 고유 리버리, 아스트라이트 등 다양한 한정 보상을 얻을 수 있습니다."
+          "summary_ko": "Knights – Medieval PvP Game은 안드로이드에서 사전 등록을 시작했습니다.\n전 세계 플레이어들과 실시간으로 기술 기반의 결투를 벌일 수 있습니다.\n장비를 잠금 해제하고 PvP 결투에서 승리하여 순위표에 오를 수 있습니다."
         }
       ],
       "error": false
@@ -112,28 +112,28 @@
       "regionLabel": "SEA Wide / Malaysia",
       "articles": [
         {
-          "title": "ShinyHunters Release Hacked Rockstar Games Data",
-          "title_ko": "ShinyHunters, Rockstar Games 데이터 유출 공개",
-          "link": "https://www.lowyat.net/2026/389571/shinyhunters-make-good-threat-releases-rockstar-games-data/",
-          "date": "Apr 14, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2020/05/GTA-V-main.jpg",
-          "summary_ko": "해커 그룹 ShinyHunters가 Rockstar Games의 데이터를 유출했다고 주장했습니다.\n유출된 데이터에는 GTA 6 관련 정보는 포함되지 않았습니다.\n데이터에는 GTA 5와 Red Dead Redemption 2 온라인 모드의 수익 관련 정보가 포함되어 있습니다."
+          "title": "Apple MacBook Pro 14-inch M5 Review: To Pro Or Not To",
+          "title_ko": "Apple MacBook Pro 14인치 M5 리뷰: 프로인가 아닌가",
+          "link": "https://www.lowyat.net/2026/389765/apple-macbook-pro-14-inch-m5-review/",
+          "date": "Apr 15, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/apple-macbook-pro-m5-15-review_02.webp",
+          "summary_ko": "M5 칩이 탑재된 14인치 MacBook Pro는 이전 모델보다 훨씬 뛰어난 성능을 제공합니다.\n디자인은 이전 모델과 동일하지만, 디스플레이는 더 선명하고 부드러운 120Hz ProMotion을 지원합니다.\nMacBook Air에서 업그레이드할 가치가 있는지, 혹은 M5 Air 대신 이 모델을 선택할지 고민하게 만듭니다."
         },
         {
-          "title": "Seven Million South Korean Mobile Users To Get Free Unlimited Data After Hitting Monthly Quotas",
-          "title_ko": "한국 모바일 사용자, 월 데이터 한도 초과 시 무료 무제한 데이터 제공",
-          "link": "https://www.lowyat.net/2026/389581/seven-million-south-korean-mobile-users-to-get-free-unlimited-data-after-hitting-monthly-quotas/",
-          "date": "Apr 14, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2025/07/13mp-rahmah-internet-packages-to-continue-2.jpg",
-          "summary_ko": "한국의 7백만 모바일 사용자는 월 데이터 한도를 초과하면 최대 400Kbps 속도로 무료 무제한 데이터를 받게 됩니다.\n이는 통신사들이 해킹을 막기 위한 기본적인 접근 통제를 제대로 하지 않았다는 과학기술정보통신부의 결론에 따른 것입니다.\nSK텔레콤은 9700만 달러의 벌금을 부과받았고, KT는 고객 정보 유출 및 악성코드 설치 혐의를 받았습니다."
+          "title": "13+ Content Rating, Stricter Protections Rolling Out To Instagram Teen Accounts In Malaysia",
+          "title_ko": "말레이시아 인스타그램 13+ 콘텐츠 등급 및 강화된 보호 기능 도입",
+          "link": "https://www.lowyat.net/2026/389743/meta-13-content-rating-stricter-protections-instagram-teen-accounts-in-malaysia/",
+          "date": "Apr 15, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/meta-instagram-teen-accounts-3.webp",
+          "summary_ko": "인스타그램이 18세 미만 사용자를 위한 13+ 콘텐츠 등급 설정을 말레이시아에 점진적으로 도입합니다.\n이 설정은 영화 등급과 유사하며, 부적절한 콘텐츠에 대한 접근을 제한하고 강화된 보호 기능을 제공합니다.\n18세 미만 사용자는 부적절한 콘텐츠를 공유하는 계정을 팔로우하거나 상호작용할 수 없게 됩니다."
         },
         {
-          "title": "Ryt Bank To Introduce PayLater On Card And Ryt Invest",
-          "title_ko": "Ryt Bank, 카드 및 Ryt Invest에 PayLater 도입 예정",
-          "link": "https://www.lowyat.net/2026/389579/ryt-bank-to-introduce-paylater-on-card-and-ryt-invest/",
-          "date": "Apr 14, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2025/08/ryt-bank-to-launch-september-2025_01.jpg",
-          "summary_ko": "Ryt Bank가 출시 7개월 만에 120만 사용자 돌파와 함께 카드 및 Ryt Invest에 PayLater 기능을 도입할 예정입니다.\nPayLater on Card 기능은 기존 PayLater 서비스를 Visa 카드에 통합하여 결제 방식을 간소화할 것입니다.\nRyt Invest 기능은 사용자들이 앱 내에서 직접 투자를 시작할 수 있도록 지원할 예정입니다."
+          "title": "Redmagic Gaming Tablet 5 Pro Specs Leaked; May Feature Snapdragon SoC, Liquid Cooling",
+          "title_ko": "Redmagic 게이밍 태블릿 5 Pro 사양 유출; 스냅드래곤 SoC, 액체 냉각 시스템 탑재 가능성",
+          "link": "https://www.lowyat.net/2026/389725/redmagic-gaming-tablet-5-pro-specs-leak/",
+          "date": "Apr 15, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/Redmagic-Gaming-Tablet-5-Pro-Specs-Leak-1.webp",
+          "summary_ko": "Redmagic 게이밍 태블릿 5 Pro의 주요 사양이 유출되었으며, 9인치 OLED 디스플레이와 185Hz 주사율을 특징으로 할 것으로 보입니다.\n이 태블릿은 스냅드래곤 8 Elite Gen 5 칩, 최대 24GB RAM, 1TB 저장 공간, 8,300mAh 배터리를 탑재할 것으로 예상됩니다.\n또한, 투명한 디자인과 RGB 조명, 그리고 액체 냉각 시스템이 탑재될 가능성이 있습니다."
         }
       ],
       "error": false
@@ -180,28 +180,28 @@
       "regionLabel": "Vietnam",
       "articles": [
         {
-          "title": "Diablo Immortal bắt tay cùng Doom: The Dark Ages",
-          "title_ko": "Diablo Immortal, Doom: The Dark Ages와 협력",
-          "link": "https://gamelade.vn/diablo-immortal-bat-tay-cung-doom-the-dark-ages/",
-          "date": "Apr 14, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/r-2.webp",
-          "summary_ko": "Diablo Immortal이 Doom: The Dark Ages와 협력하여 4월 16일에 출시될 예정입니다.\n이번 업데이트는 Diablo의 핵앤슬래시 스타일과 Doom의 잔혹함을 결합한 격렬한 전투 경험을 제공할 것입니다.\nDoom의 상징적인 악당들이 등장하며, 새로운 Slayer's Bane 모드에서 플레이어들은 Doom 스타일의 무기를 사용하게 됩니다."
+          "title": "Overwatch chính thức có mặt trên Nintendo Switch 2",
+          "title_ko": "Overwatch, Nintendo Switch 2 출시",
+          "link": "https://gamelade.vn/overwatch-chinh-thuc-co-mat-tren-nintendo-switch-2/",
+          "date": "Apr 15, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/ow-s2-2-1.webp",
+          "summary_ko": "Overwatch가 Nintendo Switch 2로 출시됩니다.\n향상된 그래픽과 60 FPS 지원을 제공합니다.\n새로운 영웅 Sierra와 함께 시즌 2 \"Summit\"이 시작됩니다."
         },
         {
-          "title": "Disney Magic Match 3D tung bản cập nhật tháng 4",
-          "title_ko": "Disney Magic Match 3D, 4월 업데이트 출시",
-          "link": "https://gamelade.vn/disney-magic-match-3d-tung-ban-cap-nhat-thang-4/",
-          "date": "Apr 14, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/e-4.jpg",
-          "summary_ko": "Disney Magic Match 3D가 4월 업데이트를 통해 Lilo & Stitch, The Lion King, Pocahontas, WALL-E 등 추억의 브랜드를 선보입니다.\n새로운 레벨과 아이템이 Lilo & Stitch 테마로 추가되었으며, 플레이어들은 200레벨 이상에서 이를 경험할 수 있습니다.\n또한, 지구의 날을 기념하는 Great Outdoors Card Album 이벤트가 진행되며, The Lion King, Pocahontas, WALL-E 세계관을 중심으로 진행됩니다."
+          "title": "Sony công bố dòng sản phẩm gaming Inzone thế hệ mới",
+          "title_ko": "Sony, 차세대 Inzone 게이밍 제품군 공개",
+          "link": "https://gamelade.vn/sony-cong-bo-dong-san-pham-gaming-inzone-the-he-moi/",
+          "date": "Apr 15, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/maxresdefault-60.jpg",
+          "summary_ko": "Sony가 새로운 Inzone 게이밍 제품군을 발표했습니다.\n새로운 Inzone H6 Air 헤드폰과 Inzone Buds 보라색 버전이 출시됩니다.\n인기 있는 Mouse-A 게이밍 마우스도 새로운 색상으로 출시됩니다."
         },
         {
-          "title": "CloverPit tung DLC Unholy Fusion, bổ sung ending mới",
-          "title_ko": "CloverPit, 새로운 엔딩을 추가하는 DLC Unholy Fusion 출시",
-          "link": "https://gamelade.vn/cloverpit-tung-dlc-unholy-fusion-bo-sung-ending-moi/",
-          "date": "Apr 14, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/yy.jpg",
-          "summary_ko": "CloverPit이 새로운 콘텐츠와 어두운 분위기를 특징으로 하는 DLC Unholy Fusion을 출시했습니다.\n이 DLC는 슬롯머신과 전략 요소를 결합한 게임플레이를 더욱 발전시키고, 플레이어들이 더 다양한 전략을 구축할 수 있도록 합니다.\n새로운 Surgery Machine 시스템을 통해 플레이어들은 수집한 참을 결합하여 약 30가지의 새로운 퓨전 참을 만들 수 있습니다."
+          "title": "Tựa game sinh tồn phong cách anime Castaway Diary: Portal to the Unknown Isles được công bố",
+          "title_ko": "애니메이션 스타일 서바이벌 게임 Castaway Diary: Portal to the Unknown Isles 공개",
+          "link": "https://gamelade.vn/tua-game-sinh-ton-phong-cach-anime-castaway-diary-portal-to-the-unknown-isles-duoc-cong-bo/",
+          "date": "Apr 15, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/Game-Page-Featured_Castaway-Diary-Portal-to-the-Unknown-Isles-Inits.jpg",
+          "summary_ko": "Castaway Diary: Portal to the Unknown Isles가 공개되었습니다.\n이 게임은 PC용 애니메이션 스타일의 서바이벌 어드벤처 게임입니다.\n플레이어는 섬에서 생존하고 집으로 돌아갈 방법을 찾아야 합니다."
         }
       ],
       "error": false
@@ -214,28 +214,28 @@
       "regionLabel": "Thailand",
       "articles": [
         {
-          "title": "HUAWEI Pura X Max มือถือจอพับทรงกว้างรุ่นใหม่ เปิดตัว 20 เม.ย. นี้",
-          "title_ko": "HUAWEI Pura X Max, มือถือจอพับทรงกว้างรุ่นใหม่ เปิดตัว 20 เม.ย. นี้",
-          "link": "https://droidsans.com/huawei-pura-x-max-launch-date-confirm-with-colors-revealed/",
-          "date": "Apr 14, 2026",
+          "title": "สเปค vivo T5 Pro แบตโคตรอึด 9,020mAh ชิป Snapdragon 7s Gen 4 จอใหญ่ 144Hz",
+          "title_ko": "vivo T5 Pro 사양: 9,020mAh 배터리, Snapdragon 7s Gen 4 칩, 144Hz 대형 디스플레이",
+          "link": "https://droidsans.com/vivo-t5-pro-5g-spec-details-with-snapdragon-7s-gen-4/",
+          "date": "Apr 16, 2026",
           "thumbnail": "",
-          "summary_ko": "HUAWEI Pura X Max가 4월 20일에 출시될 예정입니다.\n이 새로운 폴더블 스마트폰은 넓은 화면 비율을 특징으로 합니다.\n이전 모델인 Pura X보다 향상된 기능을 제공할 것으로 기대됩니다."
+          "summary_ko": "9,020mAh의 대용량 배터리를 탑재한 vivo T5 Pro가 공개되었습니다.\nSnapdragon 7s Gen 4 프로세서와 144Hz 주사율의 대형 디스플레이를 갖추고 있습니다.\n90W 고속 충전을 지원하며, 37시간 동안 동영상 재생이 가능합니다."
         },
         {
-          "title": "Xiaomi เปิดตัว ไอศกรีมสเปคแรง มีให้เลือกทั้งรุ่น Standard, Pro และ Max ต่างกันยังไงมาดู",
-          "title_ko": "Xiaomi เปิดตัว ไอศกรีมสเปคแรง มีให้เลือกทั้งรุ่น Standard, Pro และ Max ต่างกันยังไงมาดู",
-          "link": "https://droidsans.com/xiaomi-ice-cream/",
-          "date": "Apr 14, 2026",
+          "title": "สเปค OPPO F33 และ F33 Pro 5G แบตอึด 7,000mAh กันน้ำกันฝุ่น IP69K ราคาหมื่นต้น ๆ",
+          "title_ko": "OPPO F33 및 F33 Pro 5G 사양: 7,000mAh 배터리, IP69K 방수/방진, 1만 위안대 가격",
+          "link": "https://droidsans.com/oppo-f33-5g-and-f33-pro-5g-launch-in-india/",
+          "date": "Apr 15, 2026",
           "thumbnail": "",
-          "summary_ko": "Xiaomi가 Standard, Pro, Max 세 가지 버전의 아이스크림을 출시했습니다.\n각 모델은 성능과 기능 면에서 차이가 있습니다.\n이번 신제품은 고성능 사양을 갖춘 아이스크림입니다."
+          "summary_ko": "OPPO F33 및 F33 Pro 5G가 7,000mAh 배터리와 IP69K 등급 방수/방진 기능을 갖추고 출시됩니다.\n이 기기들은 1만 위안대 초반의 가격으로 책정될 것으로 예상됩니다.\n120Hz 주사율의 AMOLED 디스플레이와 80W SUPERVOOC 고속 충전을 지원합니다."
         },
         {
-          "title": "ภาพโปรโมท OPPO Find X9 Ultra พร้อมเลนส์เสริม และตัวอย่างภาพถ่ายสุดเทพ Hasselblad 200MP",
-          "title_ko": "OPPO Find X9 Ultra 프로모션 이미지, 추가 렌즈 및 200MP Hasselblad 사진 샘플 공개",
-          "link": "https://droidsans.com/oppo-find-x9-ultra-promote-pictures/",
-          "date": "Apr 13, 2026",
+          "title": "Xiaomi เปิดตัว Mijia Smart Steam Air Fryer 7L หม้อทอดไอน้ำอัจฉริยะรุ่นใหม่ จุใจ 7 ลิตร เพิ่มความฉ่ำไม่แห้งกระด้าง",
+          "title_ko": "Xiaomi, Mijia Smart Steam Air Fryer 7L 출시: 7리터 용량으로 촉촉함 유지",
+          "link": "https://droidsans.com/xiaomi-mijia-smart-steam-air-fryer-7l/",
+          "date": "Apr 15, 2026",
           "thumbnail": "",
-          "summary_ko": "OPPO Find X9 Ultra의 새로운 프로모션 이미지가 공개되었습니다.\n이 기기에는 추가 렌즈와 200MP Hasselblad 카메라가 탑재될 예정입니다.\n21일 출시 예정이며, 고급스러운 디자인과 뛰어난 카메라 성능을 강조하고 있습니다."
+          "summary_ko": "Xiaomi가 7리터 용량의 Mijia Smart Steam Air Fryer 7L을 출시했습니다.\n이 스마트 에어프라이어는 스팀 보조 기능을 통해 음식이 건조해지는 것을 방지합니다.\n7리터의 넉넉한 용량으로 더 많은 양의 음식을 조리할 수 있습니다."
         }
       ],
       "error": false
@@ -248,28 +248,28 @@
       "regionLabel": "Indonesia",
       "articles": [
         {
-          "title": "[Rumor] Leaker Ungkap Xbox Pertimbangkan Kembali Rilis Game Eksklusif",
-          "title_ko": "[루머] 엑스박스, 독점 게임 출시 재고 고려",
-          "link": "https://gamebrott.com/xbox-kembali-rilis-game-eksklusif/",
-          "date": "Apr 15, 2026",
-          "thumbnail": "https://www.youtube.com/embed/XiuqOKvlHbc",
-          "summary_ko": "마이크로소프트가 Call of Duty를 Xbox Game Pass에서 제외하는 것을 고려 중이라는 루머가 있습니다.\n이는 독점 게임 출시 정책에 대한 재고를 시사합니다.\n구체적인 결정은 아직 발표되지 않았습니다."
+          "title": "Klaim Garansi NVIDIA Meroket Sejak Era Konektor 16-Pin Dimulai",
+          "title_ko": "NVIDIA 16핀 커넥터 시대 이후 보증 청구 급증",
+          "link": "https://gamebrott.com/klaim-garansi-nvidia-meroket-ini-alasannya/",
+          "date": "Apr 16, 2026",
+          "thumbnail": "",
+          "summary_ko": "16핀 커넥터 도입 이후 NVIDIA의 보증 청구가 급증했습니다.\nPC 모더가 SuperDome이라는 독특한 개조를 선보였습니다.\n이 개조는 PC 온도를 더 낮추는 데 도움이 됩니다."
         },
         {
-          "title": "Redeem Code The Forge Roblox April 2026 Terbaru!",
-          "title_ko": "[Roblox] 2026년 4월 최신 The Forge 리딤 코드!",
-          "link": "https://gamebrott.com/redeem-code-the-forge-roblox-terbaru/",
-          "date": "Apr 14, 2026",
+          "title": "Meta Kembangkan AI Mark Zuckerberg, Bisa Berinteraksi Secara Real-Time?",
+          "title_ko": "Meta, Mark Zuckerberg의 AI 개발 중, 실시간 상호작용 가능?",
+          "link": "https://gamebrott.com/meta-kembangkan-ai-mark-zuckerberg/",
+          "date": "Apr 16, 2026",
           "thumbnail": "",
-          "summary_ko": "Roblox는 미성년자 플레이어를 위한 새로운 보안 조치인 Roblox Kids와 Select를 도입했습니다.\n이 시스템은 2006년부터 알려진 온라인 플랫폼이자 게임 제작 시스템입니다.\n이는 플레이어 안전을 강화하기 위한 노력의 일환입니다."
+          "summary_ko": "러시아 정부가 WhatsApp을 차단했습니다.\n많은 사용자가 다른 애플리케이션으로 전환하도록 요청받았습니다."
         },
         {
-          "title": "Producer Bunny Garden Curhat Betapa Sulit Merilis Gamenya dengan Fanservice ‘Nakal’",
-          "title_ko": "[버니 가든] 프로듀서, '장난스러운' 팬서비스 게임 출시의 어려움 토로",
-          "link": "https://gamebrott.com/producer-bunny-garden-fanservice-curhatan/",
-          "date": "Apr 14, 2026",
+          "title": "Lexar Ungkap Pengguna PC Enggan Beli SSD Kapasitas Rendah",
+          "title_ko": "Lexar, PC 사용자들이 저용량 SSD 구매를 꺼린다고 밝혀",
+          "link": "https://gamebrott.com/pengguna-pc-enggan-beli-ssd-kapasitas-rendah/",
+          "date": "Apr 16, 2026",
           "thumbnail": "",
-          "summary_ko": "BrownDust 2 개발사는 플레이어들의 항의 후 게임 검열 계획을 취소했습니다.\n이는 플레이어 커뮤니티의 반발에 따른 결정입니다.\n개발사는 플레이어들의 의견을 수렴하여 계획을 변경했습니다."
+          "summary_ko": "PC 부품 가격이 급격히 상승했습니다.\n최근 무슨 일이 일어나고 있습니까?"
         }
       ],
       "error": false
@@ -281,6 +281,14 @@
       "flag": "🇲🇾",
       "regionLabel": "Malaysia",
       "articles": [
+        {
+          "title": "Is The Amazing Digital Circus Heading To Malaysian Theatres?",
+          "title_ko": "말레이시아 극장에서 The Amazing Digital Circus를 볼 수 있을까?",
+          "link": "https://www.kakuchopurei.com/2026/04/the-amazing-digital-circus-finale-screening-in-malaysia-theatres/",
+          "date": "Apr 15, 2026",
+          "thumbnail": "",
+          "summary_ko": "인기 유튜브 애니메이션 시리즈 The Amazing Digital Circus가 전 세계 극장 개봉을 계획하고 있습니다.\n말레이시아 팬들은 현지 극장에서 상영을 요청하는 바이럴 소셜 미디어 캠페인을 시작했습니다.\n팬들의 뜨거운 관심과 요청으로 말레이시아 극장 개봉 가능성이 높아지고 있습니다."
+        },
         {
           "title": "MOUSE: P.I. For Hire Review – Fine Cheese Noir",
           "title_ko": "MOUSE: P.I. For Hire 리뷰 – 훌륭한 치즈 느와르",
@@ -296,14 +304,6 @@
           "date": "Apr 14, 2026",
           "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/04/replaced_011.jpg",
           "summary_ko": "Sad Cat Studios의 새로운 2D 액션 어드벤처 게임 Replaced는 아름다운 픽셀 아트와 흥미로운 스토리로 사이버펑크 장르를 새롭게 조명합니다.\n플레이어는 AI인 R.E.A.C.H.가 되어 변형된 1980년대의 디스토피아 세계에서 진실을 파헤치게 됩니다.\n게임은 끊김 없는 진행과 탐험, 그리고 현대적인 전투 시스템을 특징으로 합니다."
-        },
-        {
-          "title": "Minos Review: Winding Road To Relevancy",
-          "title_ko": "미노스 리뷰: 관련성으로 가는 구불구불한 길",
-          "link": "https://www.kakuchopurei.com/2026/04/minos-review-kkp/",
-          "date": "Apr 13, 2026",
-          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/04/minos02_small.jpg",
-          "summary_ko": "미노스에서는 플레이어가 영웅이 아닌 미노타우로스가 되어 성소를 지킵니다.\n데달루스가 맵을 변경하고 함정을 설치하여 영웅들을 유인합니다.\n다양한 적 유형에 맞춰 플레이 스타일과 함정 배치를 변경해야 합니다."
         }
       ],
       "error": false
