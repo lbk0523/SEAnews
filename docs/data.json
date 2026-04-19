@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18 01:26 UTC",
+  "updated_at": "2026-04-19 01:51 UTC",
   "ai_summary": true,
   "sources": [
     {
@@ -9,6 +9,14 @@
       "flag": "🌏",
       "regionLabel": "SEA Wide",
       "articles": [
+        {
+          "title": "COLORFUL iGame X870E VULCAN OC V14 AM5 Motherboard Review",
+          "title_ko": "COLORFUL iGame X870E VULCAN OC V14 AM5 메인보드 리뷰",
+          "link": "https://www.back2gaming.com/review/colorful-igame-x870e-vulcan-oc-v14/",
+          "date": "Apr 18, 2026",
+          "thumbnail": "",
+          "summary_ko": "이 메인보드는 Smart Screen, 세 개의 Gen5 M.2 슬롯, LN2 모드 스위치를 갖추고 있습니다.\n강력한 18+2+2 페이즈, 110A Dr. MOS 전원 공급 장치를 제공합니다.\nPCIe 5.0 x4 M.2 슬롯 3개, 5GbE, Wi-Fi 7, USB4 40Gbps Type-C를 지원합니다."
+        },
         {
           "title": "ASUS Introduces the TUF Gaming B850I WiFi Neo Mini-ITX AM5 Motherboard",
           "title_ko": "ASUS TUF Gaming B850I WiFi Neo Mini-ITX AM5 메인보드 출시",
@@ -24,14 +32,6 @@
           "date": "Apr 17, 2026",
           "thumbnail": "https://www.youtube.com/embed/crcGImRf-pM",
           "summary_ko": "NVIDIA, WWE, NBA 올스타 Tyrese Haliburton이 협력하여 특별한 PC를 제작했습니다.\nPC는 실제 레슬링 링 디자인을 기반으로 제작되었으며, SmackDown 브랜딩과 Haliburton의 시그니처 색상이 적용되었습니다.\n내부 하드웨어는 투명한 링 매트 아래에 전시되며, NVIDIA GeForce RTX 5080과 AMD Ryzen 7 9800X3D를 탑재했습니다."
-        },
-        {
-          "title": "HYTE Announces Sakura Miko hololive Y70 Case and Peripheral Bundle",
-          "title_ko": "HYTE, Sakura Miko hololive Y70 케이스 및 주변기기 번들 발표",
-          "link": "https://www.back2gaming.com/news/hyte-announces-sakura-miko-hololive-y70-case-and-peripheral-bundle/",
-          "date": "Apr 17, 2026",
-          "thumbnail": "",
-          "summary_ko": "HYTE가 hololive의 Sakura Miko와 협력하여 PC 케이스 및 주변기기 컬렉션을 출시했습니다.\nY70 케이스는 Sakura Miko의 커스텀 일러스트와 디자인 요소로 장식되었으며, 블랙과 화이트 색상으로 제공됩니다.\n키캡 세트, 데스크 패드 번들과 함께 iBUYPOWER에서 Sakura Miko 에디션 사전 조립 PC도 출시될 예정입니다."
         }
       ],
       "error": false
@@ -78,28 +78,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
-          "title": "MONGIL: STAR DIVE Co-op Guide: How to play with Friends",
-          "title_ko": "몽길: 스타 다이브 협동 가이드: 친구와 함께 플레이하는 방법",
-          "link": "https://gamingonphone.com/guides/mongil-star-dive-co-op-guide-how-to-play-with-friends/",
+          "title": "StarSavior Review: A Idle journey in a turn based Cosmos",
+          "title_ko": "스타세이비어 리뷰: 턴제 우주에서의 방치형 여정",
+          "link": "https://gamingonphone.com/reviews/starsavior-game-review/",
+          "date": "Apr 19, 2026",
+          "thumbnail": "",
+          "summary_ko": "이 게임은 CounterSide 개발사인 Studio Bside의 최신 RPG로, 우주를 가로지르며 스타세이비어의 힘을 계승하는 이야기입니다.\n전투는 Honkai Star Rail과 Outerplanes와 유사한 턴제 방식이지만, PvP에 초점을 맞춘 전략성이 강조되었습니다.\n자원 수집은 AFK Journey와 Eversoul처럼 방치형 플레이를 통해 이루어지며, 일일 스태미나 제한이 있습니다."
+        },
+        {
+          "title": "Clans of London Beginners Guide and Tricks",
+          "title_ko": "Clans of London 초보자 가이드 및 팁",
+          "link": "https://gamingonphone.com/guides/clans-of-london-beginners-guide-and-tricks/",
           "date": "Apr 18, 2026",
           "thumbnail": "",
-          "summary_ko": "몽길: 스타 다이브에서 친구를 추가하는 방법을 배우고 그 혜택을 알아보세요.\n친구와 함께 플레이하면 게임 경험이 훨씬 더 흥미로워집니다.\n협동 요소는 선택 사항이지만 친구 시스템을 활용하면 추가 자원을 얻을 수 있습니다."
+          "summary_ko": "Clans of London은 5분간의 짧고 강렬한 PvP 전투에 집중하는 모바일 수집형 카드 게임입니다.\n게임의 핵심은 'Prince of London'이라는 중앙 보드 위치를 차지하는 킹 오브 더 힐 방식의 7라운드 전투입니다.\n각 클랜은 고유한 메커니즘과 승리 조건을 가지고 있으며, 플레이어는 자신의 스타일에 맞는 클랜을 선택해야 합니다."
         },
         {
-          "title": "Mobile Legends Bang Bang Free Special Skin Giveaway event: How to get Gord’s Techno Hazard skin for free",
-          "title_ko": "모바일 레전드: 뱅뱅 무료 스페셜 스킨 증정 이벤트: Gord의 테크노 위험 스킨을 무료로 받는 방법",
-          "link": "https://gamingonphone.com/guides/mobile-legends-bang-bang-free-special-skin-giveaway-event-how-to-get-gords-techno-hazard-skin-for-free/",
-          "date": "Apr 17, 2026",
+          "title": "Brawl Stars April 2026 Brawl Talk: Three New Brawlers, Adidas Collab, Game Modes, Bling Rework, Skins, Buffies, and more",
+          "title_ko": "Brawl Stars 2026년 4월 브롤 토크: 신규 브롤러 3명, 아디다스 콜라보, 게임 모드, 블링 개편 등",
+          "link": "https://gamingonphone.com/news/brawl-stars-april-2026-brawl-talk-three-new-brawlers-collabs-game-modes-bling-rework-skins-buffies-and-more/",
+          "date": "Apr 18, 2026",
           "thumbnail": "",
-          "summary_ko": "Gord의 새로운 스페셜 스킨이 현재 독점 이벤트를 통해 무료로 제공됩니다.\n간단한 이벤트 임무를 완료하면 14일 이내에 이 스킨을 얻을 수 있습니다.\n이벤트 임무를 완료하면 스킨으로 교환할 수 있는 Glimmering Warbler를 받게 됩니다."
-        },
-        {
-          "title": "Pocket Tales: Survival Game redeem codes and how to use them (April 2026)",
-          "title_ko": "포켓 테일즈: 서바이벌 게임 리딤 코드 및 사용 방법 (2026년 4월)",
-          "link": "https://gamingonphone.com/guides/pocket-tales-survival-game-redeem-codes-and-how-to-use-them/",
-          "date": "Apr 17, 2026",
-          "thumbnail": "",
-          "summary_ko": "포켓 테일즈: 서바이벌 게임은 Azur Interactive Games Limited의 생존 시뮬레이션 타이틀입니다.\n현재 포켓 테일즈: 서바이벌 게임에는 사용 가능한 리딤 코드가 없습니다.\n개발자는 곧 코드를 출시할 가능성이 높으므로 공식 소셜 미디어를 확인하세요."
+          "summary_ko": "이번 업데이트에서는 Damian, Starr Nova, Bolt 세 명의 신규 브롤러가 4월부터 6월까지 순차적으로 출시됩니다.\n아디다스 콜라보를 포함한 새로운 게임 모드와 이벤트, 그리고 블링 시스템 개편 및 신규 상점인 Oddities Shop이 추가됩니다.\n새로운 브롤러들은 각기 독특한 메커니즘과 능력을 가지고 있으며, Damian은 4월 24일에 출시될 예정입니다."
         }
       ],
       "error": false
@@ -112,28 +112,28 @@
       "regionLabel": "SEA Wide / Malaysia",
       "articles": [
         {
-          "title": "ASUS TUF Gaming A14 2026 Review: Laptop-Sized Gaming Handheld",
-          "title_ko": "ASUS TUF Gaming A14 2026 리뷰: 노트북 크기의 게이밍 핸드헬드",
-          "link": "https://www.lowyat.net/2026/390068/asus-tuf-gaming-a14-2026-review-laptop-sized-gaming-handheld/",
-          "date": "Apr 17, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/ASUS-TUF-Gaming-A14-2026-1-scaled.webp",
-          "summary_ko": "ASUS TUF Gaming A14 2026은 외장 GPU 없이 Ryzen AI Max+ APU를 탑재했습니다.\n디자인은 이전 모델과 유사하며, 흰색 백라이트 키보드를 특징으로 합니다.\nUSB4 포트는 100W 충전을 지원하며, 다양한 포트를 갖추고 있습니다."
+          "title": "AMD Rumoured To Revive Ryzen 7 5800X3D For AM4 10th Anniversary",
+          "title_ko": "AMD, 라이젠 7 5800X3D 재출시 루머",
+          "link": "https://www.lowyat.net/2026/390140/amd-rumoured-to-revive-ryzen-7-5800x3d-for-am4-10th-anniversary/",
+          "date": "Apr 18, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2022/04/AMD-Ryzen-7-5800X3D-3.jpg",
+          "summary_ko": "AMD가 AM4 10주년 기념으로 라이젠 7 5800X3D를 한정판으로 재출시할 것으로 알려졌습니다.\n이 CPU는 96MB의 3D V-Cache를 탑재하여 게이밍 성능이 뛰어났던 것으로 평가받습니다.\n이번 재출시는 DDR4 RAM의 가격 경쟁력과 AM4 플랫폼의 지속적인 인기에 힘입은 것으로 보입니다."
         },
         {
-          "title": "Anna’s Archive Ordered To Pay Spotify, Labels US$322 Million",
-          "title_ko": "Anna’s Archive, Spotify 및 음반사에 3억 2200만 달러 지급 명령 받음",
-          "link": "https://www.lowyat.net/2026/390028/annas-archive-ordered-pay-spotify-labels-us322-million/",
-          "date": "Apr 17, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2021/10/Spotify-3D-logo.jpg",
-          "summary_ko": "Anna’s Archive는 Spotify 라이브러리를 스크랩한 혐의로 소송에 휘말렸습니다.\n법원은 Anna’s Archive에 Spotify와 음반사에 3억 2200만 달러를 지급하라고 명령했습니다.\nSpotify가 3억 달러로 가장 큰 몫을 차지했으며, Sony Music과 Universal Music도 각각 750만 달러를 받았습니다."
+          "title": "Govt To Review EV Assembly Conditions Amid BYD CKD Uncertainty",
+          "title_ko": "말레이시아 정부, BYD CKD 불확실성 속 EV 조립 조건 검토",
+          "link": "https://www.lowyat.net/2026/390137/govt-to-review-ev-assembly-conditions-amid-byd-ckd-uncertainty/",
+          "date": "Apr 18, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2024/12/Pahang-EV-assembly-manufacturing-1.jpg",
+          "summary_ko": "말레이시아 정부는 전기차(EV) 기업의 현지 조립 조건이 지나치게 제한적이라는 우려에 따라 이를 재검토할 예정입니다.\nBYD가 CKD 조립 시설 설립 계획을 재고하고 있다는 보도 속에 이번 검토가 이루어지게 되었습니다.\nMITI는 BYD뿐만 아니라 모든 신규 진입 EV 기업에 CKD 정책이 적용된다고 밝혔습니다."
         },
         {
-          "title": "Loke: No Timeline For Disruption-Free Prasarana Rail Services",
-          "title_ko": "Loke: Prasarana 철도 서비스 중단 없는 서비스 제공 시점 미정",
-          "link": "https://www.lowyat.net/2026/390060/loke-no-timeline-for-disruption-free-prasarana-rail-services/",
-          "date": "Apr 17, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2020/07/kelana-jaya-lrt-line-27-new-trains-1.jpg",
-          "summary_ko": "교통부 장관 Anthony Loke는 Prasarana 철도 서비스의 중단 없는 제공 시점을 확정하기 어렵다고 밝혔습니다.\n정부는 Klang Valley 철도망의 중단을 최소화하는 것을 목표로 하지만, \"고장 없는\" 목표를 보장할 수는 없습니다.\n정부는 상황을 면밀히 모니터링하고 있으며, Prasarana는 통제 조치 및 유지보수 관행을 강화해야 합니다."
+          "title": "Activision Announces Call Of Duty Movie; Developing With Paramount",
+          "title_ko": "Activision, 콜 오브 듀티 영화 제작 발표; 파라마운트와 개발 중",
+          "link": "https://www.lowyat.net/2026/390129/activision-call-of-duty-movie-paramount/",
+          "date": "Apr 18, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/Call-of-Duty-movie-Paramount.webp",
+          "summary_ko": "Activision이 인기 게임 시리즈인 콜 오브 듀티의 영화 제작을 공식 발표했습니다.\n영화는 피터 버그가 감독 및 공동 각본을 맡고, 파라마운트가 배급 및 제작에 참여합니다.\n영화의 배경 설정은 아직 공개되지 않았으며, 시리즈의 다양한 시대적 배경을 활용할 가능성이 있습니다."
         }
       ],
       "error": false
@@ -146,28 +146,28 @@
       "regionLabel": "Philippines",
       "articles": [
         {
+          "title": "Jollibee Officially Heads to Mobile Legends: Bang Bang as Battle Emote",
+          "title_ko": "졸리비, 모바일 레전드: 뱅뱅 배틀 이모트로 공식 등장",
+          "link": "https://gamingph.com/2026/04/jollibee-officially-heads-to-mobile-legends-bang-bang-as-battle-emote/",
+          "date": "Apr 18, 2026",
+          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/image-16.png?resize=950%2C912&#038;ssl=1",
+          "summary_ko": "졸리비가 모바일 레전드: 뱅뱅의 새로운 인게임 배틀 이모트로 등장합니다.\n필리핀의 유명 마스코트가 게임에 추가되어 팬들의 관심을 받고 있습니다.\n4월 22일부터 5월 20일까지 게임 접속 시 WOW BIDA 배틀 이모트를 획득할 수 있습니다."
+        },
+        {
+          "title": "It Didn’t Take Long for Pragmata to Get a CJ Mod",
+          "title_ko": "Pragmata, CJ 모드 등장까지 오래 걸리지 않았다",
+          "link": "https://gamingph.com/2026/04/it-didnt-take-long-for-pragmata-to-get-a-cj-mod/",
+          "date": "Apr 18, 2026",
+          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/image-14.png?resize=950%2C534&#038;ssl=1",
+          "summary_ko": "Pragmata 게임에 Grand Theft Auto: San Andreas의 Carl Johnson으로 대체하는 모드가 등장했습니다.\n이 모드는 Nexus Mods에 \"CJ (GTA San Andreas Definitive Edition)\"라는 제목으로 올라왔습니다.\n모드를 사용하려면 REFramework가 필요하며, Nexus Mods 페이지에서 다운로드할 수 있습니다."
+        },
+        {
           "title": "Nubia Neo 5 GT 5G Review – MediaTek Octa-Core Power Meets Active Cooling",
           "title_ko": "Nubia Neo 5 GT 5G 리뷰 – 미디어텍 옥타코어 성능과 액티브 쿨링의 만남",
           "link": "https://gamingph.com/2026/04/nubia-neo-5-gt-5g-review-mediatek-power-meets-active-cooling/",
           "date": "Apr 14, 2026",
           "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/nubia-neo-5-gt-5g-box-with-phone-and-bud.jpg?resize=950%2C534&#038;ssl=1",
           "summary_ko": "nubia Neo 5 GT 5G는 경쟁력 있는 가격으로 게이머들이 원하는 성능을 제공합니다.\n이 스마트폰은 칩셋 성능뿐만 아니라 내장된 액티브 쿨링 팬으로 발열 관리를 강화했습니다.\n전용 성능 모드는 CPU와 GPU를 더욱 적극적으로 활용하여 고사양 게임 플레이를 지원합니다."
-        },
-        {
-          "title": "Summoners War Kicks Off 12th Anniversary Event Festival",
-          "title_ko": "Summoners War, 12주년 기념 이벤트 페스티벌 시작",
-          "link": "https://gamingph.com/2026/04/summoners-war-kicks-off-12th-anniversary-event-festival/",
-          "date": "Apr 14, 2026",
-          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/image.jpeg?resize=800%2C450&#038;ssl=1",
-          "summary_ko": "Com2uS는 Summoners War의 12주년을 맞아 역대급 몬스터 성장 및 강화 보상을 제공하는 이벤트를 시작했습니다.\n새로운 몬스터 Dr. Plasma, 소환 마일리지 시스템, 유물 장비가 업데이트에 추가되었습니다.\n특별 기념 페이지와 시네마틱 영상이 공개되어 축제의 시작을 알렸습니다."
-        },
-        {
-          "title": "Raise Anchor! Windrose, the Swashbuckling Survival-Adventure Game, Sets Sail into PC Early Access on April 14",
-          "title_ko": "Windrose, 해적 생존 어드벤처 게임, 4월 14일 PC 얼리 액세스 출시",
-          "link": "https://gamingph.com/2026/04/raise-anchor-windrose-the-swashbuckling-survival-adventure-game-sets-sail-into-pc-early-access-on-april-14/",
-          "date": "Apr 10, 2026",
-          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/image-10.png?resize=950%2C534&#038;ssl=1",
-          "summary_ko": "해적 테마의 오픈 월드 생존 어드벤처 게임 Windrose가 4월 14일 PC 얼리 액세스를 시작합니다.\n플레이어는 최대 4인 협동 플레이로 해적 선장이 되어 복수를 위한 여정을 떠나게 됩니다.\n탐험, 전투, 조선, 해상 전투 등 다양한 콘텐츠를 즐길 수 있습니다."
         }
       ],
       "error": false
@@ -180,28 +180,28 @@
       "regionLabel": "Vietnam",
       "articles": [
         {
-          "title": "Community Day tháng 5 của Pokémon Go đã chính thức được công bố",
-          "title_ko": "Pokémon Go 5월 커뮤니티 데이 공식 발표",
-          "link": "https://gamelade.vn/community-day-thang-5-cua-pokemon-go-da-chinh-thuc-duoc-cong-bo/",
-          "date": "Apr 17, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/q-6.jpg",
-          "summary_ko": "5월 Pokémon Go 커뮤니티 데이의 주인공은 귀여운 아기 돼지 포켓몬 Lechonk입니다.\n이벤트는 현지 시간 5월 9일 오후 2시부터 5시까지 진행되며, Lechonk의 등장 확률과 함께 Shiny 버전 출현율이 크게 증가합니다.\nLechonk을 Oinkologne으로 진화시키면 독점 기술인 Mud Slap을 얻을 수 있습니다."
+          "title": "What the Clash? bổ sung chế độ multiplayer",
+          "title_ko": "What the Clash? 멀티플레이어 모드 추가",
+          "link": "https://gamelade.vn/what-the-clash-bo-sung-che-do-multiplayer/",
+          "date": "Apr 18, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/i-1.webp",
+          "summary_ko": "What the Clash?에 새로운 멀티플레이어 모드가 추가되었습니다.\n이제 같은 기기에서 친구와 1v1 대결을 즐길 수 있습니다.\nApple TV와 Mac에서도 분할 화면 모드를 지원합니다."
         },
         {
-          "title": "FarmVille 2 kỷ niệm 12 năm ra mắt",
-          "title_ko": "FarmVille 2, 12주년 기념 이벤트 개최",
-          "link": "https://gamelade.vn/farmville-2-ky-niem-12-nam-ra-mat/",
-          "date": "Apr 17, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/q-7.jpg",
-          "summary_ko": "FarmVille 2: Country Escape가 출시 12주년을 맞아 특별 이벤트를 진행합니다.\n이벤트 기간 동안 게임 내 활동을 통해 4,000달러 상당의 최고 상금을 포함한 다양한 경품에 응모할 수 있습니다.\n12주년 기념 장식 아이템과 함께 게임 플레이를 새롭게 즐길 수 있습니다."
+          "title": "Gears Tower Defense chính thức ra mắt",
+          "title_ko": "Gears Tower Defense 공식 출시",
+          "link": "https://gamelade.vn/gears-tower-defense-chinh-thuc-ra-mat/",
+          "date": "Apr 18, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/r-2.jpg",
+          "summary_ko": "Gears Tower Defense가 iOS 및 Android에서 정식 출시되었습니다.\n22세기, 통제 불능 AI로 인해 지하로 숨어든 인류의 이야기를 다룹니다.\n기존 타워 디펜스 방식에 영웅 병합 등 새로운 메커니즘을 추가했습니다."
         },
         {
-          "title": "Albion Online được làm mới toàn diện với bản update Radiant Winds",
-          "title_ko": "Albion Online, Radiant Winds 업데이트로 전면 개편",
-          "link": "https://gamelade.vn/albion-online-duoc-lam-moi-toan-dien-voi-ban-update-radiant-winds/",
-          "date": "Apr 17, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/r.jpeg",
-          "summary_ko": "Albion Online이 Radiant Winds 업데이트를 통해 그래픽과 게임 플레이를 전면적으로 개선했습니다.\n새로운 조명 시스템, 더욱 상세한 텍스처, 개별 환경 효과로 모든 지역의 분위기가 더욱 생생해졌습니다.\nArmory 시스템이 추가되어 빌드와 전략에 대한 팁을 제공하며, 대규모 전투 성능도 향상되었습니다."
+          "title": "SNK công bố ngày ra mắt nhân vật Wolfgang Krauser cho Fatal Fury: City of the Wolves",
+          "title_ko": "SNK, Fatal Fury: City of the Wolves의 볼프강 크라우저 캐릭터 출시일 공개",
+          "link": "https://gamelade.vn/snk-cong-bo-ngay-ra-mat-nhan-vat-wolfgang-krauser-cho-fatal-fury-city-of-the-wolves/",
+          "date": "Apr 18, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/fatal-fury-city-of-the-wolves-wolfgang-krauser_jpg_1200x0_crop_q85.webp",
+          "summary_ko": "볼프강 크라우저 DLC 캐릭터가 4월 24일에 Fatal Fury: City of the Wolves에 추가됩니다.\n그는 어둠의 황제로서 지하 세계를 지배했으나, 아들의 대회 개최로 다시 등장합니다.\n캐릭터 출시와 함께 게임 출시 1주년을 기념하는 대규모 업데이트가 진행됩니다."
         }
       ],
       "error": false
@@ -214,28 +214,28 @@
       "regionLabel": "Thailand",
       "articles": [
         {
-          "title": "Gemini ปล่อยฟีเจอร์ Personal Intelligence ให้ใช้งานทั่วโลกแล้ว (รวมประเทศไทยด้วย)",
-          "title_ko": "Gemini Personal Intelligence 기능 전 세계 출시 (태국 포함)",
-          "link": "https://droidsans.com/gemini-bringing-personal-intelligence-for-users-around-the-world/",
-          "date": "Apr 17, 2026",
+          "title": "ญี่ปุ่นทุ่มงบ 6 หมื่นล้านเยน ดัน Sony สร้างโรงงานเซนเซอร์ภาพ AI ที่คุมาโมโตะ เสริมแกร่งยุครถยนต์ไร้คนขับ",
+          "title_ko": "ญี่ปุ่นทุ่มงบ 6 หมื่นล้านเยน ดัน Sony สร้างโรงงานเซนเซอร์ภาพ AI ที่คุมาโมโตะ เสริมแกร่งยุครถยนต์ไร้คนขับ",
+          "link": "https://droidsans.com/japan-financial-support-for-sony/",
+          "date": "Apr 18, 2026",
           "thumbnail": "",
-          "summary_ko": "Gemini의 Personal Intelligence 기능이 전 세계적으로 출시되었습니다.\n이 기능은 Gemini AI 모델을 기반으로 개인화된 경험을 제공합니다.\n태국을 포함한 여러 국가에서 사용할 수 있습니다."
+          "summary_ko": "ญี่ปุ่นทุ่มงบ 6 หมื่นล้านเยน สนับสนุน Sony สร้างโรงงานเซนเซอร์ภาพ AI ที่คุมาโมโตะ\nโรงงานแห่งนี้จะเสริมความแข็งแกร่งให้กับ Sony ในยุครถยนต์ไร้คนขับ\nคาดว่าโรงงานจะผลิตเซนเซอร์ภาพสำหรับรถยนต์ไร้คนขับโดยเฉพาะ"
         },
         {
-          "title": "Samsung ขึ้นราคามือถือในสหรัฐฯ ส่อแวว Apple อาจขึ้นราคาเหมือนกัน",
-          "title_ko": "삼성, 미국서 휴대폰 가격 인상…애플도 가격 인상 가능성 시사",
-          "link": "https://droidsans.com/samsung-price-increase-in-us-might-impact-to-apple-device-costs/",
-          "date": "Apr 17, 2026",
+          "title": "Insta360 Luna กล้องกิมบอลเลนส์คู่รุ่นใหม่ ได้ฟีเจอร์ระดับเทพจาก Leica ลุ้นเข้าไทย พ.ค.นี้",
+          "title_ko": "Insta360 Luna กล้องกิมบอลเลนส์คู่รุ่นใหม่ ได้ฟีเจอร์ระดับเทพจาก Leica ลุ้นเข้าไทย พ.ค.นี้",
+          "link": "https://droidsans.com/insta360-luna-leak/",
+          "date": "Apr 18, 2026",
           "thumbnail": "",
-          "summary_ko": "삼성전자가 미국에서 휴대폰 가격을 인상했습니다.\n이는 갤럭시 Z 플립7 및 갤럭시 S25 FE 모델에 영향을 미칠 것으로 보입니다.\n애플 역시 아이폰 가격 인상 가능성이 제기되고 있습니다."
+          "summary_ko": "Insta360 Luna กล้องกิมบอลเลนส์คู่รุ่นใหม่ มาพร้อมฟีเจอร์ระดับเทพจาก Leica\nกล้องรุ่นนี้มีดีไซน์เลนส์คู่ และคาดว่าจะเข้าไทยในเดือนพฤษภาคมนี้\nมีฟีเจอร์ถ่ายภาพบุคคลที่สวยงาม และการควบคุมที่ง่ายดาย"
         },
         {
-          "title": "คนใช้ iPhone ภักดีต่อแบรนด์มากถึง 96% ต่างจากผู้ใช้ Android ที่มีโอกาสย้ายมาใช้ iOS เกือบ 4 เท่า",
-          "title_ko": "아이폰 사용자, 브랜드 충성도 96%…안드로이드 사용자는 iOS 전환 가능성 4배 높아",
-          "link": "https://droidsans.com/iphone-and-android-phone-switching-survey-2026/",
-          "date": "Apr 17, 2026",
+          "title": "ข้อมูลใหม่ iPhone 18 Pro เผยสีใหม่ มี Dark Cherry และอื่นๆ อีก 3 สี",
+          "title_ko": "ข้อมูลใหม่ iPhone 18 Pro เผยสีใหม่ มี Dark Cherry และอื่นๆ อีก 3 สี",
+          "link": "https://droidsans.com/iphone-18-pro-dark-cherry/",
+          "date": "Apr 18, 2026",
           "thumbnail": "",
-          "summary_ko": "아이폰 사용자의 96%가 브랜드 충성도를 보이는 것으로 나타났습니다.\n이는 안드로이드 사용자가 iOS로 전환할 가능성이 거의 4배 높다는 것을 의미합니다.\n이러한 충성도는 과거 조사에서도 꾸준히 나타나고 있습니다."
+          "summary_ko": "iPhone 18 Pro รุ่นใหม่จะมาพร้อมสีใหม่ Dark Cherry และอีก 3 สี\nสีใหม่เหล่านี้จะเพิ่มทางเลือกให้กับผู้ใช้งาน iPhone\nคาดว่า iPhone 18 Pro จะเปิดตัวในปี 2026 พร้อมสีใหม่ที่น่าสนใจ"
         }
       ],
       "error": false
@@ -248,28 +248,28 @@
       "regionLabel": "Indonesia",
       "articles": [
         {
-          "title": "Film Gears of War akan Digarap oleh Netflix",
-          "title_ko": "기어스 오브 워 영화, 넷플릭스에서 제작",
-          "link": "https://gamebrott.com/film-gears-of-war-netflix/",
-          "date": "Apr 18, 2026",
+          "title": "Player Resident Evil Requiem Rata-rata Telah Menamatkan Game Ini di PS5 dan PC",
+          "title_ko": "플레이어 Resident Evil Requiem 평균적으로 이 게임을 PS5와 PC에서 완료했습니다",
+          "link": "https://gamebrott.com/player-resident-evil-requiem-tamatkan-game-ps5-pc/",
+          "date": "Apr 19, 2026",
           "thumbnail": "",
-          "summary_ko": "기어스 오브 워 영화 제작 소식이 전해졌습니다.\n넷플릭스가 영화 제작을 맡을 예정입니다.\n개봉 시기는 아직 미정입니다."
+          "summary_ko": "Resident Evil 영화 감독 Zach Cregger는 자신의 영화가 게임과 같은 분위기를 가질 것이라고 말했습니다.\n그는 영화가 게임의 분위기와 유사할 것이라고 설명했습니다.\n이것은 팬들에게 흥미로운 소식입니다."
         },
         {
-          "title": "YouTube Kini Berikan Batas Durasi Menonton Shorts Hingga 0 Menit",
-          "title_ko": "유튜브, 쇼츠 시청 시간 제한 0분으로 변경",
-          "link": "https://gamebrott.com/durasi-menonton-shorts-youtube-dikurangi/",
+          "title": "Internet Lemot, 5 Rekomendasi Router Wi-Fi Ini Bikin Internet Lebih Stabil",
+          "title_ko": "느린 인터넷, 인터넷을 더 안정적으로 만드는 5가지 Wi-Fi 라우터 추천",
+          "link": "https://gamebrott.com/rekomendasi-router-wi-fi/",
           "date": "Apr 18, 2026",
           "thumbnail": "",
-          "summary_ko": "유튜브 프리미엄 가격 인상 계획이 있습니다.\n가격 인상 시기와 폭에 대한 정보가 곧 공개될 예정입니다.\n이는 유튜브 프리미엄 서비스의 변화를 예고합니다."
+          "summary_ko": "Umamusume Pretty Derby의 Epithet Trackblazer 목록입니다!\n이 기사에서는 Umamusume Pretty Derby의 Epithet Trackblazer 목록을 공유할 것입니다."
         },
         {
-          "title": "Kode Redeem Wuthering Waves April 2026",
-          "title_ko": "Wuthering Waves 2026년 4월 코드 리딤",
-          "link": "https://gamebrott.com/kode-redeeem-wuthering-waves-bulan-april-2026/",
-          "date": "Apr 17, 2026",
-          "thumbnail": "https://www.youtube.com/embed/viOkAhoa0k8",
-          "summary_ko": "Wuthering Waves와 Cyberpunk: Edgerunners의 협업이 임박했습니다.\n사이버펑크: 에지러너스의 보이스 디렉터와 캐스팅 디렉터가 이 소식을 전했습니다.\n이는 두 게임 간의 흥미로운 콜라보레이션을 시사합니다."
+          "title": "Daftar Epithet Trackblazer Umamusume Pretty Derby!",
+          "title_ko": "Umamusume Pretty Derby의 Epithet Trackblazer 목록!",
+          "link": "https://gamebrott.com/daftar-epithet-trackblazer-umamusume-pretty-derby/",
+          "date": "Apr 18, 2026",
+          "thumbnail": "",
+          "summary_ko": "Umamusume Pretty Derby의 Champions Meeting Aquarius Cup 가이드입니다.\n이 기사에서는 Umamusume Pretty Derby의 Champions Meeting Aquarius Cup 가이드를 공유할 것입니다."
         }
       ],
       "error": false
