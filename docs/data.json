@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22 01:47 UTC",
+  "updated_at": "2026-04-23 01:51 UTC",
   "ai_summary": true,
   "sources": [
     {
@@ -10,28 +10,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
+          "title": "AMD Ryzen 9 9950X3D2 Dual Edition 16-Core Processor Review",
+          "title_ko": "AMD Ryzen 9 9950X3D2 듀얼 에디션 16코어 프로세서 리뷰",
+          "link": "https://www.back2gaming.com/review/amd-ryzen-9-9950x3d2-dual-edition/",
+          "date": "Apr 22, 2026",
+          "thumbnail": "",
+          "summary_ko": "AMD는 2세대 3D V-Cache를 탑재한 듀얼 CCD 프로세서인 Ryzen 9 9950X3D2를 출시했습니다.\n이 프로세서는 게임 성능보다는 개발자 및 크리에이터를 위한 생산성 향상에 초점을 맞추고 있습니다.\nAMD는 이 프로세서가 기존 9950X3D와 게임 성능이 동일하다고 밝혔습니다."
+        },
+        {
+          "title": "Xbox Drops Game Pass Prices, But Ends Day One Call of Duty Releases",
+          "title_ko": "Xbox, Game Pass 가격 인하 및 '콜 오브 듀티' 출시일 변경",
+          "link": "https://www.back2gaming.com/news/xbox-drops-game-pass-prices-but-ends-day-one-call-of-duty-releases/",
+          "date": "Apr 22, 2026",
+          "thumbnail": "",
+          "summary_ko": "Xbox Game Pass Ultimate 및 PC Game Pass의 월간 구독료가 인하됩니다.\n하지만 앞으로 '콜 오브 듀티' 신작은 출시 당일이 아닌, 약 1년 후 홀리데이 시즌에 Game Pass에 추가될 예정입니다.\n이번 가격 인하와 '콜 오브 듀티' 출시일 변경은 Xbox의 게임 커뮤니티 내 입지 회복을 위한 전략으로 보입니다."
+        },
+        {
           "title": "AMD Ryzen 9 9950X3D2 ‘Dual Edition’ Arrives in the Philippines for PHP 62,950",
           "title_ko": "AMD Ryzen 9 9950X3D2 ‘Dual Edition’ 필리핀 출시, 가격은 PHP 62,950",
           "link": "https://www.back2gaming.com/news/amd-ryzen-9-9950x3d2-dual-edition-arrives-in-the-philippines-for-php-62950/",
           "date": "Apr 21, 2026",
           "thumbnail": "",
           "summary_ko": "AMD의 가장 강력한 데스크톱 프로세서인 Ryzen 9 9950X3D2 ‘Dual Edition’이 필리핀에 공식 출시되었습니다.\n이 프로세서는 양쪽 칩렛에 3D V-Cache 기술이 적용되어 총 192MB의 L3 캐시를 제공합니다.\n필리핀 공식 권장 소비자 가격은 PHP 62,950이며, 초기 물량은 한정될 예정입니다."
-        },
-        {
-          "title": "COLORFUL iGame X870E VULCAN OC V14 AM5 Motherboard Review",
-          "title_ko": "COLORFUL iGame X870E VULCAN OC V14 AM5 메인보드 리뷰",
-          "link": "https://www.back2gaming.com/review/colorful-igame-x870e-vulcan-oc-v14/",
-          "date": "Apr 18, 2026",
-          "thumbnail": "",
-          "summary_ko": "이 메인보드는 Smart Screen, 세 개의 Gen5 M.2 슬롯, LN2 모드 스위치를 갖추고 있습니다.\n강력한 18+2+2 페이즈, 110A Dr. MOS 전원 공급 장치를 제공합니다.\nPCIe 5.0 x4 M.2 슬롯 3개, 5GbE, Wi-Fi 7, USB4 40Gbps Type-C를 지원합니다."
-        },
-        {
-          "title": "ASUS Introduces the TUF Gaming B850I WiFi Neo Mini-ITX AM5 Motherboard",
-          "title_ko": "ASUS TUF Gaming B850I WiFi Neo Mini-ITX AM5 메인보드 출시",
-          "link": "https://www.back2gaming.com/news/asus-introduces-the-tuf-gaming-b850i-wifi-neo-mini-itx-am5-motherboard/",
-          "date": "Apr 17, 2026",
-          "thumbnail": "",
-          "summary_ko": "ASUS가 TUF Gaming 브랜드 최초의 Mini-ITX 폼팩터 메인보드를 선보입니다.\n이 메인보드는 AMD B850 칩셋과 AM5 플랫폼을 기반으로 Ryzen 7000, 8000, 9000 시리즈 프로세서를 지원합니다.\n최대 128GB DDR5 메모리와 PCIe 5.0 그래픽 카드 슬롯을 갖추고 있으며, 안정적인 전원 공급과 다양한 연결성을 제공합니다."
         }
       ],
       "error": false
@@ -43,6 +43,14 @@
       "flag": "🌏",
       "regionLabel": "SEA Wide",
       "articles": [
+        {
+          "title": "Honor 600 Pro Gaming Test — Wuthering Waves, Zenless Zone Zero & Genshin Impact",
+          "title_ko": "Honor 600 Pro 게임 테스트 — Wuthering Waves, Zenless Zone Zero & Genshin Impact",
+          "link": "https://geekculture.co/honor-600-pro-gaming-test/",
+          "date": "Apr 22, 2026",
+          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/04/FEATURE_HONOR_600_PRO_GAMING_TEST_Genshin_Impact_Wuthering_Waves.jpg",
+          "summary_ko": "Honor 600 Pro는 Wuthering Waves, Zenless Zone Zero, Genshin Impact와 같은 고사양 게임을 부드럽게 실행합니다.\n스냅드래곤 8 엘리트 프로세서와 12GB RAM으로 플래그십 수준의 성능을 제공합니다.\n게임 중 발열 관리 시스템이 효율적으로 작동하여 기기를 시원하게 유지합니다."
+        },
         {
           "title": "OPPO Find X9 Ultra Gaming Test — Wuthering Waves, Zenless Zone Zero & Genshin Impact",
           "title_ko": "OPPO Find X9 Ultra 게이밍 테스트 — Wuthering Waves, Zenless Zone Zero & Genshin Impact",
@@ -58,14 +66,6 @@
           "date": "Apr 21, 2026",
           "thumbnail": "https://geekculture.co/wp-content/uploads/2026/04/pragmata-sales-milestone-1.jpg",
           "summary_ko": "Capcom의 신작 Pragmata는 출시 2일 만에 100만 장 판매를 돌파하는 쾌거를 이루었습니다.\n이 게임은 젊은 개발팀이 독특한 하이브리드 게임플레이를 창조했으며, 다양한 마케팅 전략이 성공에 기여했습니다.\nNintendo Switch 2 지원 등 폭넓은 접근성 확보가 초기 판매량에 긍정적인 영향을 미쳤습니다."
-        },
-        {
-          "title": "‘Metro 2039’ Marks Darker Return To The Underground, Moves On From Artyom’s Story",
-          "title_ko": "메트로 2039, 지하 세계로의 어두운 귀환",
-          "link": "https://geekculture.co/metro-2039-marks-darker-return-to-the-underground-moves-on-from-artyoms-story/",
-          "date": "Apr 17, 2026",
-          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/04/metro-2039-1.jpg",
-          "summary_ko": "새로운 주인공 '스트레인저'가 등장하며 이야기가 펼쳐집니다.\n게임은 이전보다 훨씬 어두운 분위기를 예고하고 있습니다.\n우크라이나의 시각을 반영한 독특한 메시지를 담고 있습니다."
         }
       ],
       "error": false
@@ -78,28 +78,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
-          "title": "Honkai: Star Rail Version 4.2 Character Banners: Who should you pull",
-          "title_ko": "혼카이: 스타 레일 버전 4.2 캐릭터 배너: 누구를 뽑아야 할까",
-          "link": "https://gamingonphone.com/guides/honkai-star-rail-version-4-2-character-banners-who-should-you-pull/",
-          "date": "Apr 21, 2026",
+          "title": "Dragon Ball Gekishin Squadra unveils Squadra Blast World Championship 2026 with three-stage qualifiers and August finals in Japan",
+          "title_ko": "드래곤볼 제키신 스쿼드라, 스쿼드라 블라스트 월드 챔피언십 2026 발표",
+          "link": "https://gamingonphone.com/news/dragon-ball-gekishin-squadra-unveils-squadra-blast-world-championship-2026-with-three-stage-qualifiers-and-august-finals-in-japan/",
+          "date": "Apr 23, 2026",
           "thumbnail": "",
-          "summary_ko": "스토리 하이라이트 배너는 2026년 4월 22일부터 6월 2일까지 진행됩니다.\n이번 버전 4.2에서는 Silver Wolf Lv 999, The Dahlia, Castorice, Firefly 등 4명의 신규 및 복귀 캐릭터가 등장합니다.\n각 캐릭터의 강점과 미래 메타에서의 가치를 평가하여 어떤 캐릭터를 뽑을지 조언합니다."
+          "summary_ko": "스쿼드라 블라스트 월드 챔피언십 2026은 세 단계의 예선전을 거쳐 진행됩니다.\n최종 결승전은 일본에서 열리며, 우승팀에게는 특별한 보상이 주어집니다.\n토너먼트는 싱글 엘리미네이션과 더블 엘리미네이션 방식을 모두 포함합니다."
         },
         {
-          "title": "Total Football free codes and how to redeem them (April 2026)",
-          "title_ko": "Total Football 무료 코드 및 사용 방법 (2026년 4월)",
-          "link": "https://gamingonphone.com/guides/total-football-free-codes-and-how-to-redeem-them/",
-          "date": "Apr 21, 2026",
+          "title": "Honor of Kings x Attack on Titan Collab Skins: All Skins, Price, and Availability",
+          "title_ko": "천공의 왕국 x 진격의 거인 콜라보 스킨: 모든 스킨, 가격 및 이용 가능 정보",
+          "link": "https://gamingonphone.com/news/honor-of-kings-x-attack-on-titan-collab-skins-all-skins-price-and-availability/",
+          "date": "Apr 22, 2026",
           "thumbnail": "",
-          "summary_ko": "Total Football은 VNGGames에서 개발한 사실적인 게임 플레이에 중점을 둔 경쟁적인 실시간 PvP 축구 게임입니다.\n현재 활성화된 무료 코드는 없지만, 에이전트 계약, 유로, 에너지 드링크, 스카우트 팩과 같은 보상을 제공합니다.\n게임 내 설정 메뉴의 '선물' 섹션에서 코드를 입력하여 보상을 받을 수 있습니다."
+          "summary_ko": "천공의 왕국 x 진격의 거인 콜라보 스킨 이벤트는 2026년 5월 1일에 시작됩니다.\n이번 콜라보로 4가지 새로운 한정판 스킨이 추가될 예정입니다.\n마옌의 \"안네 레온하르트\" 스킨은 이벤트를 통해 무료로 획득할 수 있습니다."
         },
         {
-          "title": "Bacon in Zane lets you control bacon inside the human body and it is wild, now live on iOS",
-          "title_ko": "Bacon in Zane, 인간의 몸속에서 베이컨을 조종하는 게임, iOS 출시",
-          "link": "https://gamingonphone.com/news/bacon-in-zane-lets-you-control-bacon-inside-the-human-body-and-it-is-wild-now-live-on-ios/",
-          "date": "Apr 21, 2026",
+          "title": "FC Mobile 26 TOTS (Team of the Season) event Guide and Tips",
+          "title_ko": "FC Mobile 26 TOTS (Team of the Season) 이벤트 가이드 및 팁",
+          "link": "https://gamingonphone.com/news/fc-mobile-26-tots-team-of-the-season-event-guide-and-tips/",
+          "date": "Apr 22, 2026",
           "thumbnail": "",
-          "summary_ko": "Bacon in Zane은 인간의 몸속을 통과하는 베이컨 조각을 안내하는 캐주얼 게임입니다.\n이 게임은 박테리아, 호흡, 뇌 신호 등을 손가락으로 조종하는 독특한 컨셉을 가지고 있습니다.\n현재 iOS에서 무료로 플레이할 수 있으며, 0.99달러로 광고를 제거할 수 있습니다."
+          "summary_ko": "FC Mobile TOTS는 새로운 트리플 공식 태그 기반 보상 시스템을 도입합니다.\n스타 사인과 함께 플레이어를 영입할 수 있는 샤드가 돌아옵니다.\n이벤트는 플레이어 OVR 상한선이 117에서 120으로 증가하여 더 희귀한 최상위 카드들이 등장합니다."
         }
       ],
       "error": false
@@ -112,28 +112,28 @@
       "regionLabel": "SEA Wide / Malaysia",
       "articles": [
         {
-          "title": "Valve Uploads Hidden Steam Controller Unboxing Video; Launch Appears Imminent",
-          "title_ko": "스팀 컨트롤러 언박싱 영상 업로드, 출시 임박",
-          "link": "https://www.lowyat.net/2026/390478/valve-uploads-hidden-steam-controller-unboxing-video/",
-          "date": "Apr 21, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/valve-steam-controller-hidden-video-1.webp",
-          "summary_ko": "Valve가 스팀 컨트롤러 언박싱 영상을 조용히 업로드했습니다.\n영상이 아직 공개되지 않았지만, 공식 발표가 임박했음을 시사합니다.\n대량 선적 정황도 포착되어 출시 준비가 완료된 것으로 보입니다."
+          "title": "HONOR Pad X8b LTE Debuts Alongside HONOR CHOICE MouseBuds Pro, New AIoT Lineup",
+          "title_ko": "HONOR Pad X8b LTE와 HONOR CHOICE MouseBuds Pro, 새로운 AIoT 라인업 공개",
+          "link": "https://www.lowyat.net/2026/390646/honor-pad-x8b-lte-honor-choice-mousebuds-pro-new-aiot-lineup/",
+          "date": "Apr 22, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/honor-pad-x8b-1.webp",
+          "summary_ko": "HONOR가 새로운 태블릿 HONOR Pad X8b LTE와 독특한 무선 이어폰 마우스 HONOR CHOICE MouseBuds Pro를 출시했습니다.\nPad X8b LTE는 11인치 디스플레이와 10,100mAh 배터리를 탑재했으며, MouseBuds Pro는 마우스와 이어폰 기능을 결합한 혁신적인 제품입니다.\n이와 함께 HONOR는 다양한 AIoT 생태계 제품들도 함께 선보였습니다."
         },
         {
-          "title": "Mercedes-Benz Unveils First Electric C-Class",
-          "title_ko": "메르세데스-벤츠, 첫 전기 C클래스 공개",
-          "link": "https://www.lowyat.net/2026/390399/mercedes-benz-unveils-first-electric-c-class/",
-          "date": "Apr 21, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/Mercedes-Benz-C400-4Matic-EV.webp",
-          "summary_ko": "메르세데스-벤츠가 첫 완전 전기 C클래스 모델인 C400 4Matic을 공개했습니다.\n이 모델은 듀얼 모터 AWD 시스템과 94kWh 배터리를 탑재했습니다.\n최신 MB.EA 플랫폼 기반으로 넓은 실내 공간과 Unity Game Engine 그래픽을 자랑합니다."
+          "title": "Insta360 Mic Pro Teased With E-Ink Display And Direct Connect Audio",
+          "title_ko": "Insta360 Mic Pro, E-Ink 디스플레이와 다이렉트 커넥트 오디오 기능으로 티저 공개",
+          "link": "https://www.lowyat.net/2026/390638/insta360-mic-pro-teased-with-e-ink-display-direct-connect/",
+          "date": "Apr 22, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/insta360-mic-pro-preview-2.webp",
+          "summary_ko": "Insta360가 E-Ink 디스플레이와 다이렉트 커넥트 오디오 기능을 갖춘 새로운 무선 마이크 Mic Pro를 공개했습니다.\nMic Pro는 로고나 이름을 표시할 수 있는 커스터마이징 가능한 E-Ink 디스플레이를 특징으로 하며, Insta360 카메라와 직접 연결되어 수신기 없이 오디오를 전송할 수 있습니다.\nAI 기반 노이즈 감소 기능과 내부 녹음 기능을 지원하며, 자세한 사양과 출시일은 추후 공개될 예정입니다."
         },
         {
-          "title": "Redditor Claims To Have Scored NVIDIA RTX 4060 Ti From Bargain Bin For Just RM48",
-          "title_ko": "레딧 유저, NVIDIA RTX 4060 Ti를 단돈 RM48에 구매했다고 주장",
-          "link": "https://www.lowyat.net/2026/390449/redditor-claims-to-have-scored-nvidia-rtx-4060-ti-from-bargain-bin-for-just-rm48/",
-          "date": "Apr 21, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/PNY-RTX-4060-Ti-Bargain-Bin-2.webp",
-          "summary_ko": "한 레딧 유저가 중고 매장에서 NVIDIA RTX 4060 Ti 그래픽 카드를 약 12달러(RM48)에 구매했다고 주장했습니다.\n이 유저는 새 제품이고 밀봉된 상태였다고 밝혔습니다.\n하지만 구매 영수증이 공개되지 않아 진위 여부는 불확실합니다."
+          "title": "Intel Could Release More Unlocked Lower-Tier Desktop Core Series CPUs",
+          "title_ko": "Intel, 저가형 데스크톱 Core 시리즈 CPU에 더 많은 언락 모델 출시 가능성 시사",
+          "link": "https://www.lowyat.net/2026/390597/intel-could-release-unlocked-lower-tier-desktop-core-series-cpus/",
+          "date": "Apr 22, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2024/11/Intel-Core-Ultra-5-245K-Vs-AMD-Ryzen-5-9600X-Main-4.jpg",
+          "summary_ko": "Intel이 저가형 데스크톱 CPU 시장에서도 더 많은 언락(오버클럭 가능) 모델을 출시할 계획이라고 밝혔습니다.\n이는 고가 CPU 사용자에게만 제한되었던 오버클럭 기능을 더 많은 PC 애호가들에게 제공하려는 의도입니다.\n이를 통해 예산이 제한적인 사용자들도 시스템 성능을 향상시킬 수 있는 기회를 얻게 될 것입니다."
         }
       ],
       "error": false
@@ -145,6 +145,14 @@
       "flag": "🇵🇭",
       "regionLabel": "Philippines",
       "articles": [
+        {
+          "title": "Scarlet Skips Turns a Simple Jump Rope Game Into a Roguelike Score Chaser",
+          "title_ko": "스칼렛 스킵스, 단순한 줄넘기 게임을 로그라이크 점수 추격전으로 만들다",
+          "link": "https://gamingph.com/2026/04/scarlet-skips-turns-a-simple-jump-rope-game-into-a-roguelike-score-chaser/",
+          "date": "Apr 22, 2026",
+          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/Scarlet-Skips-_-Reveal-Trailer-1-37-screenshot.png?resize=950%2C534&#038;ssl=1",
+          "summary_ko": "단순해 보이는 줄넘기 게임에 로그라이크 요소를 더해 매번 다른 플레이 경험을 제공합니다.\n원버튼 조작으로 타이밍, 빠른 반응, 점수 추격에 집중하며 무작위 업그레이드가 게임 플레이를 변화시킵니다.\n익숙한 활동을 재플레이 가능한 게임으로 재해석하여 업그레이드를 통해 더 높은 점수를 추구하게 합니다."
+        },
         {
           "title": "Dragon Ball FighterZ Gets Another Update as Goku (SS4, DAIMA) Joins the Fight",
           "title_ko": "드래곤볼 파이터즈, 손오공(SS4, DAIMA) 참전으로 또 다른 업데이트",
@@ -160,14 +168,6 @@
           "date": "Apr 19, 2026",
           "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/Screenshot-2026-04-19-at-1.21.17-PM.png?resize=950%2C496&#038;ssl=1",
           "summary_ko": "메탈 슬러그 시리즈가 출시 30주년을 맞이했습니다.\nSNK는 메탈 슬러그 30주년 기념 프로젝트를 시작했습니다.\n이 프로젝트에는 신규 게임 개발 등 시리즈 부흥을 위한 노력이 포함됩니다."
-        },
-        {
-          "title": "Jollibee Officially Heads to Mobile Legends: Bang Bang as Battle Emote",
-          "title_ko": "졸리비, 모바일 레전드: 뱅뱅 배틀 이모트로 공식 등장",
-          "link": "https://gamingph.com/2026/04/jollibee-officially-heads-to-mobile-legends-bang-bang-as-battle-emote/",
-          "date": "Apr 18, 2026",
-          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/image-16.png?resize=950%2C912&#038;ssl=1",
-          "summary_ko": "졸리비가 모바일 레전드: 뱅뱅의 새로운 인게임 배틀 이모트로 등장합니다.\n필리핀의 유명 마스코트가 게임에 추가되어 팬들의 관심을 받고 있습니다.\n4월 22일부터 5월 20일까지 게임 접속 시 WOW BIDA 배틀 이모트를 획득할 수 있습니다."
         }
       ],
       "error": false
@@ -180,28 +180,28 @@
       "regionLabel": "Vietnam",
       "articles": [
         {
-          "title": "Starfield bất ngờ trở thành tựa game bán chạy nhất nước Mỹ",
-          "title_ko": "Starfield, bất ngờ trở thành tựa game bán chạy nhất nước Mỹ",
-          "link": "https://gamelade.vn/starfield-bat-ngo-tro-thanh-tua-game-ban-chay-nhat-nuoc-my/",
+          "title": "Ubisoft tiếp tục hủy bỏ các dự án game của mình",
+          "title_ko": "Ubisoft, 또 다시 게임 프로젝트 취소하다",
+          "link": "https://gamelade.vn/ubisoft-tiep-tuc-huy-bo-cac-du-an-game-cua-minh/",
+          "date": "Apr 23, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/ubisoft-franchises-1.jpg",
+          "summary_ko": "Ubisoft가 3년간 개발해 온 소셜 시뮬레이션 게임 Alterra의 개발을 중단했습니다.\n이는 지난 10년간 25개 이상의 게임 프로젝트가 취소된 Ubisoft의 최근 행보를 이어가는 것입니다.\n이번 취소는 회사의 내부 관리 문제와 대규모 구조조정의 결과로 분석됩니다."
+        },
+        {
+          "title": "Conquest Tactics: Realm of Sin chính thức ra mắt trên mobile",
+          "title_ko": "Conquest Tactics: Realm of Sin, 모바일 버전 정식 출시",
+          "link": "https://gamelade.vn/conquest-tactics-realm-of-sin-chinh-thuc-ra-mat-tren-mobile/",
           "date": "Apr 22, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/Starfield-PS5-Refund-1.jpg",
-          "summary_ko": "Starfield là tựa game nhập vai không gian của Bethesda.\nDù gặp vấn đề kỹ thuật trên PS5, game vẫn bán chạy nhất Mỹ tuần đầu ra mắt.\nCộng đồng game thủ có nhu cầu lớn, tối ưu hóa cho PS5 sẽ giúp game bùng nổ hơn."
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/rr.jpg",
+          "summary_ko": "Conquest Tactics: Realm of Sin이 iOS와 Android에 정식 출시되어 모바일 플레이어들에게 전략적인 경험을 제공합니다.\n이 게임은 PC 버전의 성공을 바탕으로 모바일 환경에 최적화되었습니다.\n모든 결정이 장기적인 결과를 초래하는 게임플레이는 플레이어에게 높은 긴장감을 선사합니다."
         },
         {
-          "title": "Tiles Survive cán mốc 20 triệu người chơi, tiếp tục khẳng định sức hút của FunPlus trên mobile",
-          "title_ko": "Tiles Survive cán mốc 20 triệu người chơi, tiếp tục khẳng định sức hút của FunPlus trên mobile",
-          "link": "https://gamelade.vn/tiles-survive-can-moc-20-trieu-nguoi-choi-tiep-tuc-khang-dinh-suc-hut-cua-funplus-tren-mobile/",
-          "date": "Apr 21, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/uuu.webp",
-          "summary_ko": "Tiles Survive là tựa game strategy survival mới của FunPlus.\nGame đã vượt mốc 20 triệu người chơi trên toàn cầu chỉ sau vài tháng ra mắt.\nThành tích này củng cố vị thế của FunPlus trong thị trường game di động."
-        },
-        {
-          "title": "Goddess of Victory: Nikke công bố nội dung sự kiện kỷ niệm 3.5 năm ra mắt",
-          "title_ko": "Goddess of Victory: Nikke công bố nội dung sự kiện kỷ niệm 3.5 năm ra mắt",
-          "link": "https://gamelade.vn/goddess-of-victory-nikke-cong-bo-noi-dung-su-kien-ky-niem-3-5-nam-ra-mat/",
-          "date": "Apr 21, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/o-1.webp",
-          "summary_ko": "Goddess of Victory: Nikke sẽ có sự kiện kỷ niệm 3.5 năm phát hành.\nSự kiện sẽ mang đến nội dung cốt truyện, nhân vật và hoạt động giới hạn.\nNhân vật Anis phiên bản idol và Neon: Vision Eye sẽ xuất hiện trong sự kiện."
+          "title": "OTR 2 chuẩn bị đổ bộ mobile, mang lại tựa đua xe offroad thế giới mở cực hoành tráng",
+          "title_ko": "OTR 2, 모바일 출시 임박, 오픈 월드 오프로드 레이싱 게임",
+          "link": "https://gamelade.vn/otr-2-chuan-bi-do-bo-mobile-mang-lai-tua-dua-xe-offroad-the-gioi-mo-cuc-hoanh-trang/",
+          "date": "Apr 22, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/yy-1.webp",
+          "summary_ko": "OTR 2가 다음 달 iOS와 Android에 출시될 예정이며, 광활한 오픈 월드와 다양한 탈것을 제공합니다.\n이 게임은 전작의 성공을 이어받아 험난한 지형에서의 속도와 기술을 강조합니다.\n다양한 탈것을 활용한 독특한 오프로드 레이싱 경험을 제공할 것으로 기대됩니다."
         }
       ],
       "error": false
@@ -214,28 +214,28 @@
       "regionLabel": "Thailand",
       "articles": [
         {
-          "title": "Microsoft เตรียมเลิกใช้ Control Panel แล้วย้ายเมนูทั้งหมดไป Settings แทน เพื่อลดความซ้ำซ้อนและเพิ่มความทันสมัย",
-          "title_ko": "Microsoft, Control Panel을 설정으로 통합하여 단순화",
-          "link": "https://droidsans.com/microsoft-plan-kill-control-panel-in-windows/",
+          "title": "Counterpoint Research เผยตลาดพีซี Q1 2026 โต 3.2% คาดคนรีบซื้อเพราะกลัว RAM, SSD แพง สวนทางเศรษฐกิจโลกขาลง",
+          "title_ko": "2026년 1분기 PC 시장, RAM 및 SSD 가격 상승 우려로 3.2% 성장 전망",
+          "link": "https://droidsans.com/counterpoint-research-pc-q1-2026/",
+          "date": "Apr 23, 2026",
+          "thumbnail": "",
+          "summary_ko": "Counterpoint Research는 2026년 1분기 PC 시장이 3.2% 성장할 것으로 예상했습니다.\n이는 RAM 및 SSD 가격 상승에 대한 우려로 인한 소비자들의 구매 증가 때문입니다.\n글로벌 경제 침체에도 불구하고 이러한 성장이 예상됩니다."
+        },
+        {
+          "title": "สเปค OPPO Find X9s Pro กล้องคมชัด 200MP สองตัว แบตเยอะชาร์จเร็ว เริ่มต้นราว 25,000 บาท",
+          "title_ko": "OPPO Find X9s Pro 사양 공개: 200MP 듀얼 카메라, 대용량 배터리 및 고속 충전, 약 25,000바트부터 시작",
+          "link": "https://droidsans.com/oppo-find-x9s-pro-debut-with-hasselblad-200mp-dual-camera/",
           "date": "Apr 22, 2026",
           "thumbnail": "",
-          "summary_ko": "Microsoft는 Control Panel을 점진적으로 제거하고 모든 기능을 Settings 앱으로 옮길 예정입니다.\n이는 사용자 경험을 개선하고 기능 중복을 줄이기 위한 조치입니다.\n향후 Windows 버전에서는 Control Panel을 더 이상 찾아볼 수 없을 것입니다."
+          "summary_ko": "OPPO Find X9s Pro는 200MP 듀얼 카메라와 대용량 배터리, 고속 충전 기능을 갖추고 있습니다.\n이 스마트폰은 약 25,000바트부터 시작할 것으로 예상됩니다.\nHASSELBLAD와의 협력을 통해 뛰어난 카메라 성능을 제공합니다."
         },
         {
-          "title": "Xiaomi เปิดตัว Mijia Smart Clothes Drying Rack 3 ราวตากผ้าอัจฉริยะรุ่นใหม่ ตอบโจทย์ชีวิตคอนโดและบ้านยุค 2026",
-          "title_ko": "Xiaomi, Mijia Smart Clothes Drying Rack 3 출시",
-          "link": "https://droidsans.com/xiaomi-mijia-smart-clothes-drying-rack-3/",
-          "date": "Apr 21, 2026",
+          "title": "Dyson Supersonic Travel ไดร์เป่าผมพกพารุ่นใหม่ เล็กกว่าเดิม 32% แต่ทรงพลังระดับโปร",
+          "title_ko": "다이슨 슈퍼소닉 트래블, 기존 모델보다 32% 작아졌지만 전문가급 성능 유지",
+          "link": "https://droidsans.com/dyson-supersonic-travel/",
+          "date": "Apr 22, 2026",
           "thumbnail": "",
-          "summary_ko": "Xiaomi는 2026년형 스마트 의류 건조대 Mijia Smart Clothes Drying Rack 3를 공개했습니다.\n이 제품은 특히 콘도와 같은 현대적인 주거 환경에 적합하도록 설계되었습니다.\n스마트 기능과 슬림한 디자인으로 편리함을 더했습니다."
-        },
-        {
-          "title": "iPhone 18 Pro เผยภาพฝาครอบกล้อง 4 สีสันใหม่สุดพรีเมียม",
-          "title_ko": "iPhone 18 Pro, 새로운 4가지 카메라 색상 유출",
-          "link": "https://droidsans.com/iphone-18-pro-series-colors-on-the-metal/",
-          "date": "Apr 21, 2026",
-          "thumbnail": "",
-          "summary_ko": "iPhone 18 Pro의 새로운 카메라 색상 옵션에 대한 정보가 유출되었습니다.\n이 새로운 색상은 프리미엄 디자인을 강조할 것으로 예상됩니다.\n블랙, 실버, 클라렛 레드, 블루 색상이 포함될 가능성이 있습니다."
+          "summary_ko": "다이슨 슈퍼소닉 트래블은 기존 모델보다 32% 작아진 크기로 휴대성을 높였습니다.\n하지만 전문가급의 강력한 성능은 그대로 유지하고 있습니다.\n작아진 크기에도 불구하고 강력한 바람과 효율적인 건조 기능을 제공합니다."
         }
       ],
       "error": false
@@ -248,28 +248,28 @@
       "regionLabel": "Indonesia",
       "articles": [
         {
-          "title": "Mantan Lighting Artist The Last of Us: “Ellie Bukan Satu-satunya yang Kebal Cordyceps”",
-          "title_ko": "더 라스트 오브 어스 전 라이팅 아티스트: \"엘리는 코디세스에 면역인 유일한 존재가 아니다\"",
-          "link": "https://gamebrott.com/the-last-of-us-ellie/",
-          "date": "Apr 22, 2026",
-          "thumbnail": "https://www.youtube.com/embed/GLK-QXpStiY",
-          "summary_ko": "엘리가 코디세스에 면역인 유일한 존재가 아니라는 전직 라이팅 아티스트의 발언이 있었습니다.\n엘든 링 실사 영화의 전체 캐스팅이 발표되었습니다.\n유명하고 익숙한 배우들이 출연합니다."
+          "title": "Mantan Pegawai Samsung Divonis 7 Tahun Penjara Karena Bocorkan Teknologi DRAM",
+          "title_ko": "삼성 전 직원, DRAM 기술 유출 혐의로 징역 7년 선고",
+          "link": "https://gamebrott.com/ex-pegawai-samsung-divonis-7-tahun-penjara/",
+          "date": "Apr 23, 2026",
+          "thumbnail": "",
+          "summary_ko": "삼성 전 직원이 DRAM 기술을 유출한 혐의로 징역 7년을 선고받았습니다.\nOneUI 8.5 베타 버전에서 오래된 Galaxy 시리즈에도 AirDrop 기능이 제공될 예정입니다."
         },
         {
-          "title": "Harga Xbox Game Pass Ultimate Resmi Turun, Ada Apa?",
-          "title_ko": "Xbox Game Pass Ultimate 가격 공식 인하, 무슨 일인가?",
-          "link": "https://gamebrott.com/harga-xbox-game-pass-ultimate-turun/",
-          "date": "Apr 22, 2026",
+          "title": "Harga Prosesor AMD dan Intel Naik Hingga 10% dalam Sebulan",
+          "title_ko": "AMD 및 Intel 프로세서 가격 한 달 만에 최대 10% 인상",
+          "link": "https://gamebrott.com/harga-prosesor-amd-dan-intel-naik-di-2026/",
+          "date": "Apr 23, 2026",
           "thumbnail": "",
-          "summary_ko": "Xbox Game Pass 가격 인하 루머가 돌고 있습니다.\n이것이 상황을 바꿀 수 있을까요?\n가격 인하가 이루어졌습니다."
+          "summary_ko": "AMD와 Intel 프로세서 가격이 한 달 사이에 최대 10%까지 상승했습니다.\nAMD Ryzen 5 5500X3D 프로세서가 특정 국가에 한정적으로 출시될 수 있다는 소문이 있습니다."
         },
         {
-          "title": "7 Mouse Gaming Terbaik 2026, Biar Aim Semakin Jago!",
-          "title_ko": "2026년 최고의 게이밍 마우스 7선, 에임 실력 향상을 위해!",
-          "link": "https://gamebrott.com/mouse-gaming-terbaik/",
+          "title": "Dev. Kingdom Come: Deliverance Akan Sumbangkan Dana untuk Rekonstruksi Kastil Selama Steam Medieval Fest. 2026",
+          "title_ko": "Kingdom Come: Deliverance 개발사, Steam Medieval Fest. 2026 기간 동안 성 복원 기금 기부 예정",
+          "link": "https://gamebrott.com/warhorse-studios-kingdom-come-deliverance-sumbangan/",
           "date": "Apr 22, 2026",
-          "thumbnail": "",
-          "summary_ko": "100만 원 미만의 2024년 최고의 게이밍 마우스 10선이 소개되었습니다.\n100만 원 미만의 2024년 최고의 게이밍 마우스를 알아야 합니다.\n게임 플레이에 적합합니다."
+          "thumbnail": "https://www.youtube.com/embed/H_gLXjKFYQg",
+          "summary_ko": "Kingdom Come: Deliverance 개발사가 Steam Medieval Fest. 2026 기간 동안 성 복원을 위한 기금을 기부할 예정입니다.\nWindrose의 총 판매량이 현재 100만 개를 돌파했습니다."
         }
       ],
       "error": false
@@ -280,33 +280,8 @@
       "region": "my",
       "flag": "🇲🇾",
       "regionLabel": "Malaysia",
-      "articles": [
-        {
-          "title": "Michael (2026) Review: The King Of Pop Glamourized In A Standard-Ass Biopic",
-          "title_ko": "마이클 (2026) 리뷰: 팝의 황제가 미화된 평범한 전기 영화",
-          "link": "https://www.kakuchopurei.com/2026/04/michael-2026-review-kkp/",
-          "date": "Apr 21, 2026",
-          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/04/michael04_small.jpg",
-          "summary_ko": "이 영화는 잭슨 재단의 인물들이 제작에 참여하여 마이클 잭슨의 삶을 피상적으로 다룹니다.\n화려한 전기 영화로서 매우 오락적이지만 대담하지는 않습니다.\n자파 잭슨과 줄리아노 크루에 발디의 연기가 영화의 중심을 잘 잡아줍니다."
-        },
-        {
-          "title": "Petit Planet Hands-On Preview: HoYoverse Space Life Sim Goodness",
-          "title_ko": "쁘띠 플래닛 핸즈온 프리뷰: HoYoverse의 스페이스 라이프 시뮬레이션 게임",
-          "link": "https://www.kakuchopurei.com/2026/04/petit-planet-hands-on-preview-stardrift-test-kkp/",
-          "date": "Apr 21, 2026",
-          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/04/petitplanet02.jpg",
-          "summary_ko": "HoYoverse의 신작 라이프 시뮬레이션 게임 Petit Planet은 동물의 숲과 유사한 점이 많습니다.\n플레이어는 자신만의 행성을 테마에 맞게 꾸미고 주민들과 교류하며 행성을 발전시킵니다.\n무료 플레이 게임으로, 의상 및 가구 판매와 스타시 항해를 위한 아이템 판매로 수익을 창출합니다."
-        },
-        {
-          "title": "Morbid Metal Early Access Review: Built To Last?",
-          "title_ko": "모르비드 메탈 얼리 액세스 리뷰: 오래갈 수 있을까?",
-          "link": "https://www.kakuchopurei.com/2026/04/morbid-metal-early-access-review-kkp/",
-          "date": "Apr 20, 2026",
-          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/04/morbidmetal_EA_02.jpg",
-          "summary_ko": "Morbid Metal은 액션, 로그라이트, 핵앤슬래시 장르의 게임으로, 플레이어는 로봇이 되어 디스토피아 미래를 탈출해야 합니다.\n세 가지 형태(Flux, Ekku, Vekta)로 변신하며 각기 다른 플레이 스타일을 활용하여 적들을 상대합니다.\n깔끔한 조작감과 빠른 쿨다운 시스템으로 액션 게임으로서의 재미를 제공합니다."
-        }
-      ],
-      "error": false
+      "articles": [],
+      "error": true
     }
   ]
 }
