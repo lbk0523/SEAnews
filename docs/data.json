@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28 02:03 UTC",
+  "updated_at": "2026-04-29 02:05 UTC",
   "ai_summary": true,
   "sources": [
     {
@@ -8,8 +8,33 @@
       "region": "sea",
       "flag": "🌏",
       "regionLabel": "SEA Wide",
-      "articles": [],
-      "error": true
+      "articles": [
+        {
+          "title": "MSI x Frieren Hardware Collab Targets SEA Launch First, MY Pricing Revealed",
+          "title_ko": "MSI x Frieren 하드웨어 콜라보, 동남아시아 출시 우선 및 말레이시아 가격 공개",
+          "link": "https://www.back2gaming.com/news/msi-x-frieren-hardware-collab-targets-sea-launch-first-my-pricing-revealed/",
+          "date": "Apr 27, 2026",
+          "thumbnail": "https://www.youtube.com/embed/PCs2vUT7MPM",
+          "summary_ko": "MSI와 Frieren: Beyond Journey's End의 하드웨어 콜라보레이션이 동남아시아 시장을 중심으로 출시됩니다.\n말레이시아에서는 MSI GeForce RTX 5070 Ti 16G FRIEREN EDITION OC 모델이 MYR 4,999에 판매될 예정입니다.\n이번 콜라보는 필리핀, 인도네시아, 베트남, 대만 등 아시아 지역에 집중될 것으로 보입니다."
+        },
+        {
+          "title": "How Casino Loyalty Programs Borrowed From Video Game Progression Systems",
+          "title_ko": "카지노 로열티 프로그램, 비디오 게임 진행 시스템에서 차용",
+          "link": "https://www.back2gaming.com/igaming/how-casino-loyalty-programs-borrowed-from-video-game-progression-systems/",
+          "date": "Apr 24, 2026",
+          "thumbnail": "",
+          "summary_ko": "카지노의 레벨업, VIP 등급, 일일 미션 등은 비디오 게임의 진행 시스템에서 직접 차용되었습니다.\n카지노는 게임의 '행동-진행-보상'이라는 핵심 루프를 거의 그대로 복제하여 고객 참여율을 높였습니다.\n좋은 카지노 로열티 프로그램은 명확한 등급 기준, 빈번한 소규모 보상, 휴식에 대한 불이익이 없다는 점에서 좋은 게임 진행 시스템과 유사합니다."
+        },
+        {
+          "title": "Why Gamers Use dLcompare to Spend Less on Digital Games",
+          "title_ko": "게이머들이 dLcompare를 사용하여 디지털 게임 구매 비용을 절약하는 이유",
+          "link": "https://www.back2gaming.com/features/why-gamers-use-dlcompare-to-spend-less-on-digital-games/",
+          "date": "Apr 24, 2026",
+          "thumbnail": "",
+          "summary_ko": "dLcompare는 디지털 게임 키에 대한 경쟁력 있는 가격을 빠르고 효율적으로 찾도록 돕는 플랫폼입니다.\n이 플랫폼은 Steam, Origin, GOG 등 주요 스토어의 제안을 통합하여 사용자가 최적의 거래를 즉시 파악할 수 있도록 합니다.\ndLcompare는 실시간 가격 비교를 통해 게임 라이브러리를 구축하려는 게이머들이 과소비를 피하도록 돕는 필수 도구입니다."
+        }
+      ],
+      "error": false
     },
     {
       "id": "geekculture",
@@ -17,8 +42,33 @@
       "region": "sea",
       "flag": "🌏",
       "regionLabel": "SEA Wide",
-      "articles": [],
-      "error": true
+      "articles": [
+        {
+          "title": "Rebel Wolves’ Vampire Fantasy ‘The Blood of Dawnwalker’ Finds Its Beating Heart In Weighty Choices And Dual Play Styles",
+          "title_ko": "The Blood of Dawnwalker의 뱀파이어 판타지는 무게감 있는 선택과 이중 플레이 스타일에서 심장을 찾습니다",
+          "link": "https://geekculture.co/rebel-wolves-vampire-fantasy-the-blood-of-dawnwalker-preview/",
+          "date": "Apr 28, 2026",
+          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/04/the-blood-of-dawnwalker-preview-1.jpg",
+          "summary_ko": "Rebel Wolves의 신작 'The Blood of Dawnwalker'는 14세기 중세 유럽을 배경으로 합니다.\n주인공 코엔은 인간과 뱀파이어의 자질을 모두 가진 존재로, 30일 안에 가족을 구해야 합니다.\n게임은 플레이어의 선택에 따라 비선형적으로 진행되는 내러티브 샌드박스 구조를 특징으로 합니다."
+        },
+        {
+          "title": "‘The Blood of Dawnwalker’ Recalibrates Vampire Myth & Time Mechanics, Sinks Teeth Into High-Stakes Action RPG",
+          "title_ko": "'The Blood of Dawnwalker'는 뱀파이어 신화와 시간 메커니즘을 재조정하고 하이 스테이크 액션 RPG에 뛰어듭니다",
+          "link": "https://geekculture.co/the-blood-of-dawnwalker-rebel-wolves-interview/",
+          "date": "Apr 28, 2026",
+          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/04/the-blood-of-dawnwalker-interview-3.jpg",
+          "summary_ko": "'The Blood of Dawnwalker'는 14세기 중세 유럽을 배경으로 하는 다크 판타지 액션 RPG입니다.\n플레이어는 30일이라는 제한된 시간 안에 목표를 달성해야 하며, 선택에 따라 이야기가 달라집니다.\n이 게임은 높은 긴장감을 유지하며 플레이어의 결정이 중요한 결과를 가져오도록 설계되었습니다."
+        },
+        {
+          "title": "Black Myth: Wukong — Global Concert Tour Makes Journey To Singapore This Oct",
+          "title_ko": "Black Myth: Wukong — 글로벌 콘서트 투어가 10월 싱가포르를 방문합니다",
+          "link": "https://geekculture.co/black-myth-wukong-global-concert-tour-makes-journey-to-singapore-this-oct/",
+          "date": "Apr 28, 2026",
+          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/04/black-myth-wukong-concert-singapore.jpg",
+          "summary_ko": "'Black Myth: Wukong'의 첫 글로벌 콘서트 투어가 10월 싱가포르에서 열립니다.\n이번 투어는 동서양의 음악이 결합된 경험을 선사하며, 게임의 보컬리스트들이 참여합니다.\n싱가포르 공연은 10월 24일과 25일 Esplanade Theatre에서 열릴 예정입니다."
+        }
+      ],
+      "error": false
     },
     {
       "id": "gamingonphone",
@@ -28,28 +78,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
-          "title": "NTE: Neverness to Everness Elements Guide: Character Element Types, Elemental Reactions and More",
-          "title_ko": "NTE: Neverness to Everness 요소 가이드: 캐릭터 요소 유형, 요소 반응 등",
-          "link": "https://gamingonphone.com/guides/nte-neverness-to-everness-elements-guide-character-element-types-elemental-reactions-and-more/",
+          "title": "NTE: Neverness to Everness gets a Global Launch on April 29, 2026: Everything you need to know about the latest open-world RPG",
+          "title_ko": "NTE: Neverness to Everness, 2026년 4월 29일 글로벌 출시",
+          "link": "https://gamingonphone.com/news/nte-neverness-to-everness-global-launch-april-29-2026-everything-you-need-to-know/",
+          "date": "Apr 29, 2026",
+          "thumbnail": "",
+          "summary_ko": "초자연적인 오픈 월드 RPG인 Neverness to Everness가 2026년 4월 29일에 출시됩니다.\n플레이어는 초자연적인 직업을 맡아 도시를 탐험하고 미스터리를 파헤치게 됩니다.\n이번 출시에는 PC, 모바일, PlayStation 5 등 다양한 플랫폼이 지원되며 크로스 플랫폼 플레이가 가능합니다."
+        },
+        {
+          "title": "eFootball 2026 gears up for a massive Naruto collaboration as Neymar appears in the early cover assets",
+          "title_ko": "eFootball 2026, 나루토와 협업 및 네이마르 등장",
+          "link": "https://gamingonphone.com/news/efootball-2026-gears-up-for-a-massive-naruto-collaboration-as-neymar-appears-in-the-early-cover-assets/",
           "date": "Apr 28, 2026",
           "thumbnail": "",
-          "summary_ko": "NTE는 Hotta Studio가 개발하고 Perfect World Games가 퍼블리싱한 도시 오픈 월드 RPG입니다.\n게임의 요소 반응은 에스퍼 사이클 메커니즘에 따라 트리거됩니다.\nNTE에는 6가지 요소가 있으며, 조합 시 다양한 반응을 일으킵니다."
+          "summary_ko": "eFootball 2026이 나루토와의 대규모 협업을 준비 중이며, 네이마르가 초기 커버 이미지에 등장했습니다.\n이번 협업은 이전의 블루 록, 유희왕!, 캡틴 츠바사 등 애니메이션 콜라보에 이어질 것으로 예상됩니다.\n업데이트 v5.4.1을 통해 새로운 에픽 카드와 테마 이벤트가 추가될 것으로 보입니다."
         },
         {
-          "title": "Neverness to Everness Character Tier List",
-          "title_ko": "Neverness to Everness 캐릭터 티어 리스트",
-          "link": "https://gamingonphone.com/guides/neverness-to-everness-character-tier-list/",
-          "date": "Apr 27, 2026",
+          "title": "Pokémon GO Fest 2026 will see debuts of Mega Mewtwo X and Y as Zeraora joins as Mythical encounter",
+          "title_ko": "Pokémon GO Fest 2026, 메가 뮤츠 X 및 Y 데뷔 및 제라오라 등장",
+          "link": "https://gamingonphone.com/news/pokemon-go-fest-2026-will-see-debuts-of-mega-mewtwo-x-and-y-as-zeraora-joins-as-mythical-encounter/",
+          "date": "Apr 28, 2026",
           "thumbnail": "",
-          "summary_ko": "Neverness to Everness 티어 리스트는 캐릭터의 DPS 능력, 지원 능력, 팀 구성을 기준으로 순위를 매깁니다.\n현재 NTE에는 총 15명의 캐릭터가 있으며, S등급 8명, A등급 7명입니다.\nNanally는 팔로우업 공격 DPS에 중점을 둔 S등급 아니마 캐릭터입니다."
-        },
-        {
-          "title": "Youtubers Life 3 offers a fresh take on building your dream YouTube career, now live on mobile and PC",
-          "title_ko": "유튜버 라이프 3, 꿈의 유튜브 경력을 쌓는 새로운 방식 제공, 모바일 및 PC 출시",
-          "link": "https://gamingonphone.com/news/youtubers-life-3-offers-a-fresh-take-on-building-your-dream-youtube-career-now-live-on-mobile-and-pc/",
-          "date": "Apr 27, 2026",
-          "thumbnail": "",
-          "summary_ko": "유튜버 라이프 3는 작은 방에서 시작하여 전 세계적인 명성을 얻는 크리에이터 여정을 구축할 수 있게 합니다.\n이 게임은 VOD 제작, 소셜 공유, 브랜드 거래, 이벤트, 라이벌 크리에이터, 맞춤 설정 옵션 등을 제공합니다.\n유튜버 라이프 3는 안드로이드, iOS, PC에서 플레이할 수 있습니다."
+          "summary_ko": "Pokémon GO Fest 2026에서 메가 뮤츠 X와 메가 뮤츠 Y가 처음으로 레이드 배틀에 등장합니다.\n신비로운 포켓몬 제라오라는 글로벌 이벤트 주말 동안 특별 리서치를 통해 만날 수 있습니다.\n이번 GO Fest 글로벌 이벤트는 무료로 진행되며, 모든 플레이어가 참여할 수 있습니다."
         }
       ],
       "error": false
@@ -62,28 +112,28 @@
       "regionLabel": "SEA Wide / Malaysia",
       "articles": [
         {
-          "title": "Huawei Officially Launches New AI Lab And Innovation Centre",
-          "title_ko": "화웨이, 신규 AI 연구소 및 혁신 센터 공식 개소",
-          "link": "https://www.lowyat.net/2026/391118/huawei-officially-launches-new-ai-lab-and-innovation-centre/",
-          "date": "Apr 27, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/Huawei-AI-Lab-Innovation-Centre-Launch-1-scaled.webp",
-          "summary_ko": "화웨이가 말레이시아에 새로운 AI 연구소 및 혁신 센터를 공식적으로 개소했습니다.\n이 시설은 디지털 및 에너지 전환을 위한 최신 솔루션을 시연하고 협업을 장려하는 데 중점을 둡니다.\n이는 말레이시아의 AI, 디지털 및 녹색 목표와 일치하며 현지 AI 인재 양성을 목표로 합니다."
+          "title": "AMD Wants AI In Space, But It’s Not As Simple As It Sounds",
+          "title_ko": "우주에서의 AI, AMD의 야심찬 계획",
+          "link": "https://www.lowyat.net/2026/391289/amd-wants-ai-in-space-but-its-not-as-simple-as-it-sounds/",
+          "date": "Apr 28, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/AMD-Wants-AI-In-Space-But-Its-Not-As-Simple-As-It-Sounds-1-1.webp",
+          "summary_ko": "AMD는 AI 연산 인프라를 우주로 확장하는 방안을 모색하고 있습니다.\n우주 환경은 제한된 전력, 연결성, 통신 지연 등 독특한 도전 과제를 제시합니다.\n지구 데이터 센터의 환경 문제와 효율성 한계를 극복하기 위한 시도입니다."
         },
         {
-          "title": "Turtle Beach’s Gaming Mouse Has An LCD Touchscreen, Because Why Not",
-          "title_ko": "Turtle Beach 게이밍 마우스, LCD 터치스크린 탑재",
-          "link": "https://www.lowyat.net/2026/391159/turtle-beach-mc7-gaming-mouse-lcd-touchscreen/",
-          "date": "Apr 27, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/Turtle-Beach-MC7-1.webp",
-          "summary_ko": "Turtle Beach가 LCD 터치스크린이 장착된 비전통적인 게이밍 마우스 Command Series MC7를 출시했습니다.\n이 터치스크린은 게임 내 통계 모니터링, 스트림 컨트롤러 역할, 시스템 설정 조정 등에 활용될 수 있습니다.\n또한 핫스왑 가능한 듀얼 배터리, 고성능 센서 및 사용자 정의 가능한 버튼과 같은 기능도 갖추고 있습니다."
+          "title": "New Logitech G512 X Gaming Keyboard Offers Both Analog And Mechanical Switch Support",
+          "title_ko": "Logitech G512 X 게이밍 키보드, 아날로그 및 기계식 스위치 지원",
+          "link": "https://www.lowyat.net/2026/391282/logitech-g512-x-offers-analog-and-mechanical-switch-support/",
+          "date": "Apr 28, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/Logitech-G512-X-announced_02.webp",
+          "summary_ko": "Logitech G512 X 키보드는 아날로그 입력과 기계식 스위치를 결합한 하이브리드 디자인을 선보입니다.\nTMR 센서를 통해 키 입력 깊이를 감지하여 정밀한 게임 플레이를 지원합니다.\n사용자는 아날로그와 기계식 스위치를 혼합하여 자신만의 키보드 경험을 커스터마이징할 수 있습니다."
         },
         {
-          "title": "Toyota Has Its Own Ultra-Luxurious Desk Chair",
-          "title_ko": "토요타, 초호화형 책상 의자 출시",
-          "link": "https://www.lowyat.net/2026/391135/toyota-ultra-luxurious-desk-chair/",
-          "date": "Apr 27, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/Toyota-Crown-Seat-Desk-Chair.webp",
-          "summary_ko": "토요타가 토요타 크라운 차량의 파워 시트를 기반으로 한 \"Crown Seat\" 책상 의자를 출시했습니다.\n이 의자는 리클라이닝, 높이 조절, 요추 지지대, 히터 및 환기 기능 등 자동차 시트의 다양한 기능을 그대로 갖추고 있습니다.\n이 초호화 의자는 일본 전용으로 한정 생산되며 높은 가격에 판매될 예정입니다."
+          "title": "iQOO Z11, Z11x Available For Pre-Order",
+          "title_ko": "iQOO Z11, Z11x 사전 예약 시작",
+          "link": "https://www.lowyat.net/2026/391269/iqoo-z11-z11x-pre-order/",
+          "date": "Apr 28, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/iQOO-Z11-Z11x-coming-soon-scaled.webp",
+          "summary_ko": "iQOO Z11과 Z11x 스마트폰이 말레이시아에서 사전 예약 판매를 시작했습니다.\niQOO Z11은 9,020mAh 대용량 배터리와 90W 고속 충전을 지원합니다.\niQOO Z11x는 MediaTek Dimensity 7400 Turbo 칩셋과 7,200mAh 배터리를 탑재했습니다."
         }
       ],
       "error": false
@@ -96,28 +146,28 @@
       "regionLabel": "Philippines",
       "articles": [
         {
+          "title": "We disassembled a PS4 to test if PlayStation digital games use a 30-day DRM check",
+          "title_ko": "플레이스테이션 디지털 게임의 30일 DRM 확인 테스트",
+          "link": "https://gamingph.com/2026/04/we-disassembled-a-ps4-to-test-if-playstation-digital-games-use-a-30-day-drm-check/",
+          "date": "Apr 28, 2026",
+          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/image-24.png?resize=950%2C534&#038;ssl=1",
+          "summary_ko": "PS4 분해 및 CMOS 배터리 제거를 통해 DRM 테스트를 진행했습니다.\n최신 디지털 게임은 오프라인 시 플레이가 불가능해졌습니다.\n하지만 구형 게임은 정상적으로 플레이 가능했습니다."
+        },
+        {
+          "title": "PlayStation Digital Games Now Have a 30-Day Offline Limit",
+          "title_ko": "플레이스테이션 디지털 게임, 이제 30일 오프라인 제한 적용",
+          "link": "https://gamingph.com/2026/04/playstation-digital-games-now-have-a-30-day-offline-limit/",
+          "date": "Apr 28, 2026",
+          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/image-23.png?resize=950%2C534&#038;ssl=1",
+          "summary_ko": "새로 구매한 플레이스테이션 디지털 게임에 30일 라이선스 유효 기간이 생겼습니다.\n유효 기간 내에 인터넷 연결을 통해 라이선스를 다시 확인해야 합니다.\n이전 구매 게임은 현재 영향받지 않는 것으로 보입니다."
+        },
+        {
           "title": "Sony Raises PS5 Price in the Philippines to PHP 40,032 Starting May 1",
           "title_ko": "필리핀 PS5 가격 인상, 5월 1일부터 40,032 페소",
           "link": "https://gamingph.com/2026/04/sony-raises-ps5-price-in-the-philippines-to-php-40032-starting-may-1/",
           "date": "Apr 27, 2026",
           "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/image-21.png?resize=950%2C631&#038;ssl=1",
           "summary_ko": "소니는 필리핀에서 PS5 표준 모델의 가격을 2026년 5월 1일부터 40,032 페소로 인상한다고 발표했습니다.\n이번 가격 조정은 싱가포르, 말레이시아 등 동남아시아 여러 지역에 걸쳐 이루어집니다.\n글로벌 경제 상황의 지속적인 압박이 가격 인상의 주요 원인으로 작용했습니다."
-        },
-        {
-          "title": "Ragnarok Origin Classic Delivers on Its Launch Promise with Sakura Vows Update",
-          "title_ko": "라그나로크 오리진 클래식, 사쿠라 맹세 업데이트로 출시 약속 이행",
-          "link": "https://gamingph.com/2026/04/ragnarok-origin-classic-delivers-on-its-launch-promise-with-sakura-vows-update/",
-          "date": "Apr 27, 2026",
-          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/0.jpg?resize=950%2C533&#038;ssl=1",
-          "summary_ko": "페이투윈이 아닌 소셜 플레이에 집중한 업데이트를 선보입니다.\n결혼 시스템은 능력치 상승과 무관하게 순수하게 모험을 함께하기 위한 목적으로 구현되었습니다.\n모든 결혼 의상은 동일한 능력치를 제공하며, 저렴한 비용으로 이용 가능합니다."
-        },
-        {
-          "title": "The Prince of Ibalong, a Filipino-made game inspired by Bicolano folklore",
-          "title_ko": "프린스 오브 이발롱, 비콜라노 설화에서 영감을 받은 필리핀 제작 게임",
-          "link": "https://gamingph.com/2026/04/the-prince-of-ibalong-a-filipino-made-game-inspired-by-bicolano-folklore/",
-          "date": "Apr 26, 2026",
-          "thumbnail": "https://i0.wp.com/gamingph.com/wp-content/uploads/2026/04/vlcsnap-2026-04-26-11h05m28s413.png?resize=950%2C534&#038;ssl=1",
-          "summary_ko": "비콜라노 서사시 이발롱을 기반으로 한 필리핀 개발 게임입니다.\n플레이어는 핸디옹과 오리올의 이야기를 따라가며 필리핀 신화 속 세계를 탐험합니다.\n이 게임은 비콜라노 문화와 지역 전설을 중심으로 한 내러티브 중심의 어드벤처 게임입니다."
         }
       ],
       "error": false
@@ -130,28 +180,28 @@
       "regionLabel": "Vietnam",
       "articles": [
         {
-          "title": "Final Fantasy XIV công bố màn hợp tác cùng thương hiệu Evangelion",
-          "title_ko": "Final Fantasy XIV, Evangelion hợp tác",
-          "link": "https://gamelade.vn/final-fantasy-xiv-cong-bo-man-hop-tac-cung-thuong-hieu-evangelion/",
-          "date": "Apr 25, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/final-fantasy-xiv-x-evangelion-raid-series-announced.webp",
-          "summary_ko": "Final Fantasy XIV가 Evangelion과 협력합니다.\nEvangelion 테마의 레이드 퀘스트 시리즈가 공개될 예정입니다.\n이 협업은 2026년 베를린과 도쿄 팬 페스트에서 더 자세히 공개될 것입니다."
+          "title": "Free Fire chính thức bắt tay cùng Gintama",
+          "title_ko": "Free Fire, Gintama와 공식 협력",
+          "link": "https://gamelade.vn/free-fire-chinh-thuc-bat-tay-cung-gintama/",
+          "date": "Apr 28, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/q-8.jpg",
+          "summary_ko": "Free Fire가 인기 애니메이션 Gintama와 새로운 콜라보레이션을 발표했습니다.\n이번 이벤트는 4월 24일부터 5월 23일까지 진행되며, Gintama 특유의 유머를 배틀 로얄에 접목시킵니다.\n플레이어는 Gintoki Sakata, Kagura, Elizabeth 등 유명 캐릭터에서 영감을 받은 번들을 얻을 수 있습니다."
         },
         {
-          "title": "Konami công bố kế hoạch kỷ niệm 40 năm Konami Code",
-          "title_ko": "Konami Code 40주년 기념 계획 발표",
-          "link": "https://gamelade.vn/konami-cong-bo-ke-hoach-ky-niem-40-nam-konami-code/",
-          "date": "Apr 25, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/konami-code-40th-anniversary-powered-by-project-zircon.webp",
-          "summary_ko": "Konami가 상징적인 Konami Code의 40주년을 기념합니다.\nGradius 게임 출시 40주년을 기념하여 6개의 사운드트랙 앨범이 출시되었습니다.\nKonami는 Gradius를 기념하기 위해 만화가 Shota Hattori와 협력했습니다."
+          "title": "The Seven Deadly Sins: Origin tung update lớn đầu tiên",
+          "title_ko": "The Seven Deadly Sins: Origin, 첫 번째 대규모 업데이트 출시",
+          "link": "https://gamelade.vn/the-seven-deadly-sins-origin-tung-update-lon-dau-tien/",
+          "date": "Apr 28, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/y-2.webp",
+          "summary_ko": "Netmarble이 The Seven Deadly Sins: Origin의 첫 번째 대규모 업데이트를 발표했습니다.\n이번 업데이트의 핵심은 팬들이 가장 좋아하는 캐릭터 중 하나인 Escanor의 등장입니다.\n업데이트에는 Escanor의 추가 외에도 메인 스토리 Act 13과 새로운 지역 My Sweet Gluttony가 포함됩니다."
         },
         {
-          "title": "Final Fantasy XIV công bố bản DLC Evercold",
-          "title_ko": "Final Fantasy XIV, Evercold DLC 발표",
-          "link": "https://gamelade.vn/final-fantasy-xiv-cong-bo-ban-dlc-evercold/",
-          "date": "Apr 25, 2026",
-          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/FF14-Evercold_Slides_2026_04-24-26_123.jpg",
-          "summary_ko": "Final Fantasy XIV의 새로운 확장팩 Evercold가 발표되었습니다.\nEvercold는 두 가지 새로운 직업인 Tank와 원거리 물리 DPS를 선보일 예정입니다.\n게임의 최대 레벨이 100에서 110으로 상향 조정됩니다."
+          "title": "Minishoot Adventures chuẩn bị đổ bộ mobile",
+          "title_ko": "Minishoot Adventures, 모바일 출시 준비 중",
+          "link": "https://gamelade.vn/minishoot-adventures-chuan-bi-do-bo-mobile/",
+          "date": "Apr 28, 2026",
+          "thumbnail": "https://gamelade1.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/ww-2.jpg",
+          "summary_ko": "인디 게임 Minishoot Adventures가 곧 iOS 및 Android 기기로 출시될 예정입니다.\n이 게임은 bullet hell, shoot 'em up, 오픈 월드 탐험을 결합한 독특한 경험을 제공합니다.\n플레이어는 외계 세력과 싸우면서 행성을 탐험하고 퍼즐을 풀게 됩니다."
         }
       ],
       "error": false
@@ -164,28 +214,28 @@
       "regionLabel": "Thailand",
       "articles": [
         {
-          "title": "เรื่องควรรู้เกี่ยวกับ ‘กฎหมาย EU’ ที่บังคับให้มือถือต้องเปลี่ยนแบตได้ง่าย ๆ",
-          "title_ko": "EU의 휴대폰 배터리 교체 용이성 관련 법규",
-          "link": "https://droidsans.com/eu-replaceable-battery-rule-apple-and-android-flagship-exempt/",
+          "title": "YouTube เตรียมอัปเกรดทดสอบ โหมดค้นหาด้วย AI ถาม-ตอบ โต้ตอบได้เหมือนคุยกับเพื่อน",
+          "title_ko": "유튜브, AI 기반 대화형 검색 모드 테스트 준비",
+          "link": "https://droidsans.com/youtube-conversational-ai-search/",
           "date": "Apr 28, 2026",
           "thumbnail": "",
-          "summary_ko": "EU는 2027년부터 휴대폰 배터리 교체를 쉽게 만드는 법규를 시행합니다.\n이는 소비자의 권리를 강화하고 전자 폐기물을 줄이기 위한 조치입니다.\n소비자는 더 이상 서비스 센터에 가지 않고도 직접 배터리를 교체할 수 있게 됩니다."
+          "summary_ko": "AI가 친구처럼 질문에 답해주는 새로운 검색 기능이 곧 유튜브에 도입될 예정입니다.\n이 기능은 사용자가 키워드 대신 자연어로 질문하면 AI가 관련 정보를 찾아 답변해 줍니다.\n이는 구글의 AI 검색 기능과 유사하며, 유튜브 경험을 더욱 풍부하게 만들 것입니다."
         },
         {
-          "title": "Google เตรียมเปลี่ยนไอคอน Gmail, Drive และ Workspace ด้วยดีไซน์ไล่เฉดสี",
-          "title_ko": "Google, Gmail, Drive 및 Workspace 아이콘을 그라데이션 디자인으로 변경 예정",
-          "link": "https://droidsans.com/google-workspace-application-gradient-icons-redesigns/",
-          "date": "Apr 27, 2026",
+          "title": "หลุดภาพเครื่องดัมมี่ Samsung Galaxy Z Fold8, Z Fold8 Wide และ Z Flip8",
+          "title_ko": "삼성 갤럭시 Z Fold8, Z Fold8 Wide 및 Z Flip8 더미 이미지 유출",
+          "link": "https://droidsans.com/samsung-galaxy-z-fold8-z-fold8-wide-and-z-flip8-dummy/",
+          "date": "Apr 28, 2026",
           "thumbnail": "",
-          "summary_ko": "Google은 Gmail, Drive, Calendar 등 Workspace 앱의 아이콘을 새로운 그라데이션 디자인으로 변경합니다.\n이는 Google의 브랜드 통일성을 강화하고 시각적인 매력을 높이기 위한 시도입니다.\n새로운 디자인은 2023년 9월부터 점진적으로 적용될 예정입니다."
+          "summary_ko": "새로운 삼성 폴더블폰인 갤럭시 Z Fold8, Z Fold8 Wide, Z Flip8의 더미 이미지가 유출되었습니다.\nZ Fold8 Wide 모델은 더 넓은 화면 비율을 특징으로 하며, 이는 사용자 경험 개선을 목표로 합니다.\n이러한 유출은 신제품 출시를 앞두고 소비자들의 기대감을 높이고 있습니다."
         },
         {
-          "title": "เคาะแล้ว! ‘คนละครึ่งพลัส’ ได้คนละ 4,000 บาท จ่อเปิดลงทะเบียนภายในเดือนพฤษภาคมนี้",
-          "title_ko": "'คนละครึ่งพลัส' 1인당 4,000바트 지급 확정, 5월 중 등록 시작 예정",
-          "link": "https://droidsans.com/thai-chuay-thai-and-kon-la-kreung-plus-april-update-2026/",
-          "date": "Apr 27, 2026",
+          "title": "Valve ประกาศวันวางขาย Steam Controller ราคา 99 ดอลลาร์ เริ่มขาย 4 พ.ค. นี้",
+          "title_ko": "Valve, Steam Controller 출시일 및 가격 공개",
+          "link": "https://droidsans.com/valve-steam-controller-hit-the-market-this-may-4-2026/",
+          "date": "Apr 28, 2026",
           "thumbnail": "",
-          "summary_ko": "'คนละครึ่งพลัส' 프로그램이 1인당 4,000바트 지급으로 확정되었습니다.\n이 프로그램은 5월 중 등록을 시작할 예정입니다.\n정부는 이 프로그램을 통해 국민들의 소비를 촉진하고 경제 활성화를 도모할 것입니다."
+          "summary_ko": "Valve는 Steam Controller를 5월 4일에 99달러에 출시한다고 발표했습니다.\n이 컨트롤러는 PC, Mac, Steam Deck 등 다양한 플랫폼에서 사용할 수 있습니다.\nSteam Controller는 혁신적인 디자인과 기능을 통해 게임 경험을 향상시킬 것으로 기대됩니다."
         }
       ],
       "error": false
@@ -198,28 +248,28 @@
       "regionLabel": "Indonesia",
       "articles": [
         {
-          "title": "Game Director Assassin’s Creed Hexe Mengundurkan Diri dari Ubisoft",
-          "title_ko": "어쌔신 크리드 Hexe 디렉터 Ubisoft 퇴사",
-          "link": "https://gamebrott.com/game-director-assassins-creed-hexe-undur-diri/",
-          "date": "Apr 28, 2026",
+          "title": "Harga Steam Machine Dirumorkan Melonjak Setelah Kelangkaan RAM",
+          "title_ko": "Steam Machine 가격, RAM 부족으로 급등 루머",
+          "link": "https://gamebrott.com/harga-steam-machine-dirumorkan-ikut-naik/",
+          "date": "Apr 29, 2026",
           "thumbnail": "",
-          "summary_ko": "어쌔신 크리드 Hexe의 게임 디렉터가 Ubisoft를 떠났습니다.\n이 퇴사는 게임 개발에 영향을 미칠 수 있습니다.\n퇴사의 구체적인 이유는 아직 공개되지 않았습니다."
+          "summary_ko": "Steam Machine 인증 게임은 1080p 30FPS를 목표로 해야 합니다.\nValve는 게임이 1080p 해상도에서 30FPS로 실행되는 것을 목표로 해야 하는 Steam Machine 인증 요구 사항을 발표했습니다.\n이 요구 사항은 게임 커뮤니티에서 논란을 일으키고 있습니다."
         },
         {
-          "title": "Liquid Glass Disebut Sebagai Cara Apple Sembunyikan Bezel iPhone 20",
-          "title_ko": "",
-          "link": "https://gamebrott.com/liquid-glass-cara-apple-sembunyikan-bezel-iphone/",
+          "title": "Review Pragmata — Perpaduan Sempurna IP Baru Capcom!",
+          "title_ko": "프라그마타 리뷰 — Capcom의 완벽한 신규 IP 조합!",
+          "link": "https://gamebrott.com/review-pragmata-perpaduan-sempurna-ip-baru-capcom/",
           "date": "Apr 28, 2026",
           "thumbnail": "",
-          "summary_ko": ""
+          "summary_ko": "프라그마타의 이스터 에그 URL은 팬들에 의해 즉시 밈이 되었습니다.\n게임 내 프라그마타의 이스터 에그 URL은 Resident Evil을 참조하며, 팬들이 즉시 등록하여 밈이 되었습니다.\n이것은 Capcom의 새로운 IP에 대한 팬들의 높은 관심을 보여줍니다."
         },
         {
-          "title": "[RUMOR] Assassin’s Creed 1 Bakal Jadi Remake AC Selanjutnya",
-          "title_ko": "[루머] 어쌔신 크리드 1, 다음 AC 리메이크 될 것",
-          "link": "https://gamebrott.com/assassins-creed-1-remake/",
+          "title": "Crimson Desert Sukses, Dapat Apresiasi Langsung dari Pemerintah Korea Selatan",
+          "title_ko": "Crimson Desert, 한국 정부로부터 직접적인 찬사 받아 성공",
+          "link": "https://gamebrott.com/pemerintah-korea-selatan-apresiasi-crimson-desert/",
           "date": "Apr 28, 2026",
-          "thumbnail": "",
-          "summary_ko": "Ubisoft가 어쌔신 크리드 1 리메이크를 작업 중이라는 루머가 있습니다.\n이 루머는 팬들 사이에서 큰 기대를 모으고 있습니다.\n어떤 AC 시리즈가 다음으로 리메이크될지에 대한 관심이 높습니다."
+          "thumbnail": "https://www.youtube.com/embed/VWIw_f8e9Pg",
+          "summary_ko": "이번 기사에서는 Gamebrott의 프라그마타 리뷰 경험을 공유합니다.\nCrimson Desert는 한국 정부로부터 직접적인 찬사를 받으며 성공을 거두었습니다.\n이 게임은 Capcom의 새로운 IP와 완벽한 조합을 이루고 있습니다."
         }
       ],
       "error": false
@@ -231,6 +281,14 @@
       "flag": "🇲🇾",
       "regionLabel": "Malaysia",
       "articles": [
+        {
+          "title": "Saros Review: Praise The Sun?",
+          "title_ko": "사로스 리뷰: 태양을 찬양하라?",
+          "link": "https://www.kakuchopurei.com/2026/04/saros-review-kkp/",
+          "date": "Apr 28, 2026",
+          "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/04/saros03.jpg",
+          "summary_ko": "Housemarque의 신작 Saros는 Returnal과 유사한 로그라이트 액션 슈팅 게임입니다.\n게임의 컨트롤은 훌륭하지만, 플레이스테이션의 현재 전략은 게임의 잠재력을 제한합니다.\nSaros의 줄거리는 의도적으로 모호하며 반복 플레이를 통해 해결해야 합니다."
+        },
         {
           "title": "Vampire Crawlers Review: Pixel Dungeon-Crawling Perfection",
           "title_ko": "뱀파이어 크롤러 리뷰: 픽셀 던전 크롤링의 완벽함",
@@ -246,14 +304,6 @@
           "date": "Apr 24, 2026",
           "thumbnail": "https://www.kakuchopurei.com/wp-content/uploads/2026/04/acblackflagRS_01.jpg",
           "summary_ko": "어쌔신 크리드 Black Flag의 리메이크 버전인 Assassin’s Creed Black Flag Resynced가 7월 9일에 출시됩니다.\n이 게임은 PC, Xbox Series, PlayStation 5로 플레이할 수 있으며, 액션 어드벤처 장르로 개발되었습니다.\n그래픽과 기술적인 향상, 새로운 콘텐츠와 퀘스트, 그리고 선박 커스터마이징 옵션이 추가되었습니다."
-        },
-        {
-          "title": "Best Mobile Games in 2026 to Make the Best of Your New Samsung A57 Smartphone",
-          "title_ko": "2026년 최고의 모바일 게임, 삼성 A57 스마트폰으로 즐기세요",
-          "link": "https://www.kakuchopurei.com/2026/04/best-mobile-games-in-2026-to-make-the-best-of-your-new-samsung-a57-smartphone/",
-          "date": "Apr 22, 2026",
-          "thumbnail": "",
-          "summary_ko": "삼성 Galaxy A57은 플래그십 모델에 비해 사양이 낮지만, 경쟁사 플래그십과 견줄 만한 성능을 보여줍니다.\nCOD Mobile, Rainbow Six Mobile, Warframe Mobile 등 다양한 장르의 게임을 최고 설정으로 즐길 수 있습니다.\n이제 비싼 스마트폰 없이도 고품질 모바일 게임을 경험할 수 있게 되었습니다."
         }
       ],
       "error": false
