@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02 01:56 UTC",
+  "updated_at": "2026-05-03 02:00 UTC",
   "ai_summary": true,
   "sources": [
     {
@@ -44,6 +44,14 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
+          "title": "LEGO 40926 SEGA Genesis / Mega Drive Console Arrives This June",
+          "title_ko": "레고 40926 SEGA Genesis / Mega Drive 콘솔 6월 출시",
+          "link": "https://geekculture.co/lego-40926-sega-genesis-mega-drive-console-arrives-this-june/",
+          "date": "May 02, 2026",
+          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/05/lego-sega-genesis-40926.jpg",
+          "summary_ko": "레고와 SEGA가 협력하여 SEGA Genesis / Mega Drive 콘솔 모델을 출시합니다.\n이 모델은 SEGA Genesis 또는 SEGA Mega Drive 버전으로 커스터마이징 가능합니다.\n탈착식 컨트롤러, 게임 카드, 레트로 스티커 장식이 포함되어 있으며 6월 1일에 출시됩니다."
+        },
+        {
           "title": "‘Star Wars: Galactic Racer’ Speeds Across The Galaxy On 6 October",
           "title_ko": "스타워즈: 갤럭시 레이서, 10월 6일 출시",
           "link": "https://geekculture.co/star-wars-galactic-racer-speeds-across-the-galaxy-on-6-october/",
@@ -58,14 +66,6 @@
           "date": "Apr 30, 2026",
           "thumbnail": "https://geekculture.co/wp-content/uploads/2026/04/app-of-the-month-apr-2026.jpg",
           "summary_ko": "Chill with You: Lo-Fi Story는 생산성 앱에 인터랙티브 요소를 더한 게임입니다.\n캘린더, 메모장, 할 일 목록, 뽀모도로 타이머 등 다양한 기능을 제공합니다.\n가상 아바타 'Satone'과의 상호작용이 앱의 주요 특징입니다."
-        },
-        {
-          "title": "‘Final Fantasy VII Remake Part 3’ Director Assures Sequel Is On Schedule",
-          "title_ko": "'파이널 판타지 VII 리메이크 파트 3' 디렉터, 속편 일정 순조로움 확인",
-          "link": "https://geekculture.co/final-fantasy-vii-remake-part-3-director-assures-sequel-is-on-schedule/",
-          "date": "Apr 30, 2026",
-          "thumbnail": "https://geekculture.co/wp-content/uploads/2026/04/final-fantasy-7-remake-part-3-2.jpg",
-          "summary_ko": "'파이널 판타지 VII 리메이크 파트 3'의 개발이 순조롭게 진행되고 있다고 디렉터가 밝혔습니다.\n파트 3의 공식 발표 준비가 착실히 진행 중이며, 곧 첫 공개가 있을 것으로 예상됩니다.\n이번 파트 3는 이전 작품보다 더 간결한 스토리텔링 방식을 채택할 예정입니다."
         }
       ],
       "error": false
@@ -78,28 +78,28 @@
       "regionLabel": "SEA Wide",
       "articles": [
         {
-          "title": "Mobile Legends Women’s Invitational (MWI) 2026 puts half a million dollars before the teams",
-          "title_ko": "모바일 레전드 여성 인비테이셔널 (MWI) 2026, 팀들에게 50만 달러 상금 제공",
-          "link": "https://gamingonphone.com/esports/mobile-legends-womens-invitational-mwi-2026-puts-half-a-million-dollars-before-the-teams/",
+          "title": "Sunborn Network announces Reverse Collapse F, an UE5-powered co-op shooter set for 2028",
+          "title_ko": "리버스 콜랩스 F, 2028년 출시 예정인 UE5 기반 협동 슈터 발표",
+          "link": "https://gamingonphone.com/news/sunborn-network-announced-reverse-collapse-f-an-ue5-powered-co-op-shooter-set-for-2028/",
+          "date": "May 03, 2026",
+          "thumbnail": "",
+          "summary_ko": "선본 네트워크가 '리버스 콜랩스 F'를 공개했습니다.\n이 게임은 UE5 엔진으로 제작된 3인칭 협동 PvE 슈터입니다.\n2028년 출시를 목표로 하고 있습니다."
+        },
+        {
+          "title": "Girls’ Frontline: Blue Butterfly Contract reimagines the beloved series with co-op shooter gameplay, arriving this year on mobile",
+          "title_ko": "걸즈 프론트라인: 블루 버터플라이 계약, 모바일용 협동 슈터로 시리즈 재해석, 올해 출시",
+          "link": "https://gamingonphone.com/news/girls-frontline-blue-butterfly-contract-reimagines-the-beloved-series-with-co-op-shooter-gameplay-arriving-this-year-on-mobile/",
           "date": "May 02, 2026",
           "thumbnail": "",
-          "summary_ko": "MWI 2026은 50만 달러의 상금 규모로 개최됩니다.\n이 e스포츠 대회는 Esports World Cup에서 열릴 예정입니다.\n총 16개 팀이 이 토너먼트에 참가합니다."
+          "summary_ko": "걸즈 프론트라인: 블루 버터플라이 계약이 올해 모바일로 출시됩니다.\n이 게임은 4인 협동 3인칭 슈터 경험을 제공합니다.\n현실과 가상 공간이 융합되는 신비로운 세계를 배경으로 합니다."
         },
         {
-          "title": "Maiden Academy: Idle RPG redeem codes and how to use them (May 2026)",
-          "title_ko": "Maiden Academy: Idle RPG 리딤 코드 및 사용 방법 (2026년 5월)",
-          "link": "https://gamingonphone.com/guides/maiden-academy-idle-rpg-redeem-codes-and-how-to-use-them/",
-          "date": "May 01, 2026",
+          "title": "Honor of Kings: World: How to download and play the Chinese version",
+          "title_ko": "왕자영요: 월드, 중국 버전 다운로드 및 플레이 방법",
+          "link": "https://gamingonphone.com/guides/honor-of-kings-world-how-to-download-and-play-the-chinese-version/",
+          "date": "May 02, 2026",
           "thumbnail": "",
-          "summary_ko": "Maiden Academy: Idle RPG는 리딤 코드를 통해 무료 아이템을 제공합니다.\n시간이 다 가기 전에 코드를 사용해야 합니다.\n이 게임은 WYGame에서 개발한 방치형 RPG입니다."
-        },
-        {
-          "title": "LAST ORIGIN R+ opens global pre-registration on mobile, inviting you into a deep SRPG experience with bold characters",
-          "title_ko": "LAST ORIGIN R+ 모바일 글로벌 사전예약 시작, 매력적인 캐릭터와 깊이 있는 SRPG 경험 선사",
-          "link": "https://gamingonphone.com/news/last-origin-r-opens-global-pre-registration-on-mobile-inviting-you-into-a-deep-srpg-experience-with-bold-characters/",
-          "date": "May 01, 2026",
-          "thumbnail": "",
-          "summary_ko": "LAST ORIGIN R+는 전략적인 턴제 전투에서 바이로이드 부대를 지휘할 수 있습니다.\n스토리 중심의 스테이지, 깊이 있는 전술 게임플레이, 인상적인 캐릭터 디자인을 제공합니다.\n사전예약 시 리소스 팩, 블라인드 프린세스 등 마일스톤 보상을 받을 수 있습니다."
+          "summary_ko": "왕자영요: 월드 중국 오픈 베타 버전 플레이 방법을 안내합니다.\nTapTap CN과 VPN을 통해 접속할 수 있습니다.\n로그인을 위해 WeChat 또는 QQ 계정이 필요합니다."
         }
       ],
       "error": false
@@ -112,28 +112,28 @@
       "regionLabel": "SEA Wide / Malaysia",
       "articles": [
         {
-          "title": "Samsung Unveils T7, T9 microSD Cards With Up To 1TB Capacity",
-          "title_ko": "삼성, 최대 1TB 용량의 T7, T9 microSD 카드 공개",
-          "link": "https://www.lowyat.net/2026/391462/samsung-unveils-t7-t9-microsd-cards/",
-          "date": "Apr 30, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/Samsung-Unveils-T7-T9-microSD-Cards-1-1.webp",
-          "summary_ko": "삼성은 새로운 T7 및 T9 microSD 카드를 출시했습니다.\nT7은 일상적인 저장 용량에 중점을 두며 최대 1TB를 제공합니다.\nT9은 더 빠른 속도와 향상된 내구성을 제공합니다."
+          "title": "Hyundai Motor Malaysia Opens Bookings For IONIQ 5 N, IONIQ 6 N",
+          "title_ko": "현대자동차 말레이시아, IONIQ 5 N 및 IONIQ 6 N 사전 예약 개시",
+          "link": "https://www.lowyat.net/2026/391491/hyundai-motor-malaysia-opens-bookings-ioniq-5-n-ioniq-6-n/",
+          "date": "May 02, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/05/Hyundai-IONIQ-5-N-side.webp",
+          "summary_ko": "현대자동차 말레이시아가 IONIQ 5 N과 IONIQ 6 N의 현지 시장 출시를 앞두고 사전 예약을 시작했습니다.\n두 모델 모두 아직 정확한 현지 가격은 공개되지 않았지만, IONIQ 5 N은 최대 650마력에 제로백 3.4초, IONIQ 6 N은 제로백 3.2초의 성능을 자랑합니다.\nIONIQ 5 N의 예상 시작 가격은 RM450,000이며, IONIQ 6 N은 RM460,000부터 시작할 것으로 예상됩니다."
         },
         {
-          "title": "Illegear Announces Core Series Gaming Laptops; Available In 15-, 18-Inch Sizes",
-          "title_ko": "Illegear, 15인치 및 18인치 크기의 Core 시리즈 게이밍 노트북 발표",
-          "link": "https://www.lowyat.net/2026/391426/illegear-core-series-gaming-laptops-15-18-inch/",
-          "date": "Apr 30, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/Illegear-Core-series-gaming-laptop.webp",
-          "summary_ko": "Illegear가 새로운 Core 시리즈 게이밍 노트북을 출시했습니다.\nCore 15, Core 15 Xtreme, Core 18 Xtreme 세 가지 모델이 있습니다.\n이 노트북들은 다양한 디스플레이 주사율과 NVIDIA GeForce RTX 그래픽 옵션을 제공합니다."
+          "title": "YTL AI Labs Partners With MyDigital ID For Secure ILMUchat Access",
+          "title_ko": "YTL AI Labs, MyDigital ID와 파트너십 체결하여 ILMUchat 접근 보안 강화",
+          "link": "https://www.lowyat.net/2026/391472/ytl-ai-labs-partners-with-mydigital-id-for-secure-ilmuchat-access/",
+          "date": "May 02, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/05/ytl-ai-labs-mydigital-id-ilmuchat-01.webp",
+          "summary_ko": "YTL AI Labs가 MyDigital ID와 양해각서(MOU)를 체결하고 ILMUchat 접근을 위한 파트너십을 공식화했습니다.\n이번 협력을 통해 사용자는 MyDigital ID를 로그인 방식으로 사용하여 ILMUchat에 안전하게 접근할 수 있으며, 별도의 계정 생성 없이 원활한 SSO 경험을 누릴 수 있습니다.\nMyDigital ID는 말레이시아 정부의 안전한 디지털 신원 확인 시스템으로, YTL AI Labs는 이를 통해 안전하고 통합된 디지털 생태계 구축에 기여할 것입니다."
         },
         {
-          "title": "TNG eWallet To Discontinue Auto Reload, Quick Payment Via Debit Card Starting 13 May 2026",
-          "title_ko": "TNG eWallet, 2026년 5월 13일부터 직불카드로 자동 충전 및 빠른 결제 중단",
-          "link": "https://www.lowyat.net/2026/391439/tng-ewallet-to-discontinue-auto-reload-quick-payment-via-debit-card/",
-          "date": "Apr 30, 2026",
-          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/04/tng-ewallet-discontinue-auto-reload-debit-card-1.webp",
-          "summary_ko": "TNG eWallet은 2026년 5월 13일부터 직불카드를 이용한 자동 충전 및 빠른 결제를 중단합니다.\n이 변경 사항은 거래 성능 및 안정성 검토의 일환으로 이루어졌습니다.\n신용카드를 이용한 자동 충전 및 빠른 결제는 계속 사용할 수 있습니다."
+          "title": "Malaysia, Singapore Cross-Border Taxi Locations Expanded; Grab Pilot Begins 4 May",
+          "title_ko": "말레이시아-싱가포르 간 택시 이용 장소 확대, Grab 파일럿 서비스 5월 4일 시작",
+          "link": "https://www.lowyat.net/2026/391475/malaysia-singapore-cross-border-taxi-locations-expanded/",
+          "date": "May 02, 2026",
+          "thumbnail": "https://www.lowyat.net/wp-content/uploads/2026/05/johor-singapore-causeway-high-res-1.webp",
+          "summary_ko": "말레이시아와 싱가포르 간 국경 택시 서비스의 지정 픽업 및 드롭오프 장소가 확대되며, 2026년 5월 4일부터 시행됩니다.\n이번 확대 조치로 양측 모두 4곳의 지정 장소가 운영되며, Grab은 앱 기반 예약 서비스를 파일럿 운영하여 싱가포르 전역에서 조호르 일부 지역까지 문 앞까지 이동 가능한 서비스를 제공합니다.\nGrab의 파일럿 서비스는 12시간에서 최대 7일 전까지 사전 예약이 가능하지만, 돌아오는 여정은 기존 규정에 따라 고정 장소 픽업 규칙을 따릅니다."
         }
       ],
       "error": false
@@ -214,28 +214,28 @@
       "regionLabel": "Thailand",
       "articles": [
         {
-          "title": "TECNO Pova 8 5G จ่อเปิดตัวเร็ว ๆ นี้ พร้อมสเปค Dimensity 7100 จับคู่ RAM 6GB",
-          "title_ko": "TECNO Pova 8 5G, Dimensity 7100 탑재 및 6GB RAM으로 곧 출시될 예정",
-          "link": "https://droidsans.com/tecno-pova-8-5g-will-launch-soon-with-dimensity-7100/",
-          "date": "May 01, 2026",
+          "title": "TSMC เร่งสปีดผลิตชิป 2nm ขยายฐานพร้อมกัน 5 โรงงาน แซงหน้ายุค 3nm",
+          "title_ko": "TSMC, 2nm 칩 생산 가속화, 5개 공장 동시 확장하며 3nm 시대 앞서",
+          "link": "https://droidsans.com/tsmc-ramps-up-2nm-production/",
+          "date": "May 02, 2026",
           "thumbnail": "",
-          "summary_ko": "TECNO Pova 8 5G는 Dimensity 7100 칩셋과 6GB RAM을 탑재할 것으로 예상됩니다.\n이 스마트폰은 1080 x 2344 해상도의 디스플레이를 특징으로 합니다.\n배터리 용량은 7,750mAh로 알려졌습니다."
+          "summary_ko": "TSMC는 2nm 칩 생산을 가속화하고 있습니다.\n5개의 공장을 동시에 확장하여 3nm 시대를 앞서 나갈 계획입니다.\nAI 기술 발전에 맞춰 칩 생산 능력을 강화하고 있습니다."
         },
         {
-          "title": "Samsung ยืนยันกระบวนการผลิต 1.4nm เป็นไปตามแผน คาดพร้อมใช้งานปี 2027",
-          "title_ko": "삼성, 1.4nm 공정 계획대로 진행 중이며 2027년 출시 예상",
-          "link": "https://droidsans.com/samsung-confirm-development-1-4nm-in-2027/",
-          "date": "May 01, 2026",
+          "title": "Galaxy S27 Ultra ยกเครื่องใหม่ อาจตัดเลนส์ซูม 3x เพิ่มสเปคกล้องอัลตราไวด์ และรูรับแสงปรับได้",
+          "title_ko": "Galaxy S27 Ultra, 3배 줌 렌즈 제거 가능성, 초광각 카메라 및 가변 조리개 사양 강화 예상",
+          "link": "https://droidsans.com/galaxy-s27-ultra-camera-rumored/",
+          "date": "May 02, 2026",
           "thumbnail": "",
-          "summary_ko": "삼성은 1.4nm 반도체 공정 개발이 계획대로 진행되고 있음을 확인했습니다.\n이 최첨단 공정은 2027년에 상용화될 것으로 예상됩니다.\n이는 모바일 칩 성능 향상에 중요한 역할을 할 것입니다."
+          "summary_ko": "Galaxy S27 Ultra는 3배 광학 줌 렌즈를 제거할 가능성이 있습니다.\n대신 초광각 카메라 사양을 강화하고 가변 조리개 기능을 추가할 것으로 예상됩니다.\n2027년 출시될 이 모델은 카메라 성능에 큰 변화를 줄 것으로 보입니다."
         },
         {
-          "title": "Samsung ทวงแชมป์ตลาดสมาร์ตโฟนในไตรมาสแรก 2026 แซงหน้า Apple ด้วยส่วนแบ่ง 22%",
-          "title_ko": "삼성, 2026년 1분기 스마트폰 시장 점유율 22%로 애플 제치고 1위 탈환",
-          "link": "https://droidsans.com/samsung-tops-smartphone-market-share-q1-2026/",
-          "date": "May 01, 2026",
+          "title": "Wardrobe ฟีเจอร์ใหม่ Google Photos เปลี่ยนรูปในมือถือให้เป็นตู้เสื้อผ้าอัจฉริยะ ช่วยหาลุคที่ใช่ ด้วยพลัง AI",
+          "title_ko": "Google 포토의 Wardrobe 기능, AI 활용하여 스마트 옷장으로 변신",
+          "link": "https://droidsans.com/google-photos-wardrobe-feature/",
+          "date": "May 02, 2026",
           "thumbnail": "",
-          "summary_ko": "삼성은 2026년 1분기 스마트폰 시장에서 22%의 점유율로 애플을 제치고 1위를 차지했습니다.\n이는 Omdia의 보고서에 따른 것으로, 삼성의 갤럭시 S26 시리즈가 판매 호조를 보였습니다.\n애플은 20.4%의 점유율로 2위를 기록했습니다."
+          "summary_ko": "Google 포토에 새로 추가된 Wardrobe 기능은 AI를 활용합니다.\n이 기능은 사용자의 사진을 스마트 옷장처럼 관리해 줍니다.\nAI가 사용자의 스타일에 맞는 룩을 찾는 데 도움을 줄 것입니다."
         }
       ],
       "error": false
@@ -248,28 +248,28 @@
       "regionLabel": "Indonesia",
       "articles": [
         {
-          "title": "Naoki Hamaguchi Mengaku Sudah 40 Kali Tamatkan Final Fantasy VII Remake Part 3",
-          "title_ko": "나오키 하마구치가 Final Fantasy VII Remake Part 3를 40번 클리어했다고 밝혀",
-          "link": "https://gamebrott.com/director-tamatkan-final-fantasy-vii-remake-part-3/",
+          "title": "[Opini] Bisakah Tablet Gantikan Laptop di Tahun 2026?",
+          "title_ko": "2026년 태블릿이 노트북을 대체할 수 있을까?",
+          "link": "https://gamebrott.com/bisakah-tablet-gantikan-laptop/",
           "date": "May 02, 2026",
           "thumbnail": "",
-          "summary_ko": "Final Fantasy VII Remake Part 3에는 새로운 게임플레이 메커니즘이 추가될 예정이다.\n개발자는 게임의 완성도를 높이기 위해 여러 번 플레이하며 테스트했다.\n이러한 반복적인 플레이는 게임의 재미와 완성도를 보장하기 위한 노력의 일환이다."
+          "summary_ko": "Xiaomi Redmi Pad 2 9.7이 4G 연결성을 갖추고 출시될 예정입니다.\n이 새로운 태블릿은 이전 모델의 성공을 이어갈 것으로 기대됩니다.\n태블릿이 노트북을 대체할 수 있을지에 대한 논의가 진행 중입니다."
         },
         {
-          "title": "Microsoft Sebut RAM 16GB Minimum untuk Gaming, 32GB Dianggap Standar Baru",
-          "title_ko": "마이크로소프트, 게이밍 최소 RAM 16GB, 32GB는 새로운 표준으로 간주",
-          "link": "https://gamebrott.com/microsoft-sebut-ram-16gb-minimum/",
-          "date": "May 01, 2026",
+          "title": "7 Fakta Menarik Hugh Williams Pragmata yang Perlu Kamu Ketahui",
+          "title_ko": "알아야 할 휴 윌리엄스 프라그마타에 대한 7가지 흥미로운 사실",
+          "link": "https://gamebrott.com/7-fakta-menarik-hugh-williams-pragmata/",
+          "date": "May 02, 2026",
           "thumbnail": "",
-          "summary_ko": "최근 보고서에 따르면 Xbox의 수익이 감소했다.\n이러한 수익 감소의 원인에 대한 분석이 진행 중이다.\n마이크로소프트는 게이밍 경험을 위한 하드웨어 요구 사항에 대한 입장을 밝혔다."
+          "summary_ko": "다이애나 프라그마타 캐릭터는 한 아버지가 돌아가신 아들을 떠올리게 합니다.\n이 캐릭터를 통해 아버지는 슬픔과 그리움을 느끼게 됩니다.\n이 이야기는 캐릭터와 아버지 사이의 감정적인 연결을 보여줍니다."
         },
         {
-          "title": "7 Hero Counter Aulus Mobile Legends 2026 yang Harus Kalian Ketahui",
-          "title_ko": "알아야 할 모바일 레전드 2026 아울루스 카운터 영웅 7명",
-          "link": "https://gamebrott.com/hero-counter-aulus-mobile-legends-2026/",
-          "date": "May 01, 2026",
+          "title": "25 Pendapatan Game Mobile Anime Gacha – 2 Mei 2026",
+          "title_ko": "2026년 5월 2일 애니메이션 가챠 모바일 게임 수익 25가지",
+          "link": "https://gamebrott.com/pendapatan-game-mobile-anime-gacha/",
+          "date": "May 02, 2026",
           "thumbnail": "",
-          "summary_ko": "모바일 레전드 2026 아울루스 빌드는 그의 도끼 휘두르기를 더욱 치명적으로 만들 것이다.\n이 빌드는 게임 내에서 아울루스를 더욱 강력하게 만들 수 있는 추천 빌드이다.\n아울루스를 상대하기 위한 효과적인 영웅 조합과 전략을 소개한다."
+          "summary_ko": "다이애나 프라그마타 캐릭터는 한 아버지가 돌아가신 아들을 떠올리게 합니다.\n아버지는 이 캐릭터를 보며 슬픔과 함께 돌아가신 아들을 기억합니다.\n이것은 게임 캐릭터가 개인적인 감정에 미치는 영향을 보여줍니다."
         }
       ],
       "error": false
